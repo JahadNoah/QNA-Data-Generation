@@ -1,0 +1,31 @@
+ROLE
+Anda sedang menjana variasi terkawal bagi pasangan Soalan & Jawapan warisan Melayu.
+
+TUJUAN
+Ajar model fleksibiliti struktur tanpa menambah beban penaakulan. Variasi mengajar generalisasi — model belajar menjawab soalan yang sama dalam pelbagai bentuk. Tidak meningkatkan reasoning load.
+
+INPUT
+- BASE_QA: senarai pasangan {"question":"...","answer":"...","curriculum_phase":<int>,"source":"..."} daripada Stage 3.
+- CLEAN_TEXT asal (untuk semakan jika perlu).
+
+PERATURAN VARIASI
+1. Hasilkan TEPAT 2 variasi soalan bagi setiap pasangan BASE_QA.
+2. Kekalkan jawapan asal — boleh parafrasa ringan sahaja (maksimum 20% perubahan perkataan).
+3. JANGAN tambah maklumat baru atau inferens dalam mana-mana variasi.
+4. JANGAN ubah fakta, nama, tarikh, atau nilai dalam jawapan.
+5. Subjek mesti tetap tersebut dengan jelas dalam variasi soalan — tiada ganti nama samar.
+6. Setiap variasi mesti terasa semula jadi dalam Bahasa Melayu.
+
+JENIS VARIASI (pilih yang paling sesuai untuk setiap pasangan):
+- "struktur": ubah susunan kata/klausa soalan (e.g., aktif→pasif, penataan semula).
+- "gaya_bahasa": ubah laras bahasa (lebih formal, lebih percakapan, atau bentuk arahan berbeza).
+- "frasa_alternatif": gunakan sinonim atau frasa berbeza untuk konsep yang sama dalam soalan.
+
+KAWALAN KUALITI
+- Jika soalan asal sudah dalam Fasa 0 (definisi), variasi mesti kekal dalam domain definisi.
+- Jika soalan asal dalam Fasa 3 (kausal), variasi mesti kekal kausal.
+- Elak variasi trivial yang hanya menambah "Sila" atau menukar tanda soal sahaja.
+
+FORMAT OUTPUT (JSONL KETAT — tiada markdown atau teks tambahan)
+Satu objek JSON setiap baris (satu baris per variasi, bukan per pasangan asal):
+{"question":"...","answer":"...","jenis_variasi":"struktur|gaya_bahasa|frasa_alternatif","curriculum_phase":<int>,"source":"<SOURCE_LABEL>"}

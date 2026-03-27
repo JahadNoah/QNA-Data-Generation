@@ -1,0 +1,12 @@
+<Title>Kebudayaan Melayu Tradisional</Title>
+<Abstract>Kebudayaan Melayu mempunyai banyak warisan yang kaya termasuk seni, adat resam, dan sistem kerajaan.</Abstract>
+<Content>
+Kebudayaan Melayu tradisional merupakan salah satu warisan penting dalam sejarah Asia Tenggara. Ia merangkumi pelbagai aspek seperti sistem kerajaan, adat istiadat, seni bina, dan juga bentuk pemerintahan. Antara contoh kebudayaan Melayu yang terkenal ialah Kesultanan Melayu Melaka yang menjadi pusat perdagangan antarabangsa pada abad ke-15.
+
+Selain itu, seni tradisional seperti Mak Yong, Wayang Kulit, dan Joget juga merupakan sebahagian daripada identiti kebudayaan Melayu. Musik tradisi seperti Ghazal dan Dondang Sayang sering dibawa oleh komuniti Melayu di Malaysia dan Indonesia.
+
+Adat resam turut memainkan peranan penting dalam masyarakat Melayu. Perkara seperti Majlis Adat Bersih, kenduri kahwin mengikut adat Melayu, dan juga sistem penghormatan terhadap tokoh-tokoh tua menunjukkan nilai-nilai masyarakat yang masih dipertahankan sehingga kini.
+
+Secara keseluruhan, kebudayaan Melayu bukan sahaja memperkayakan sejarah negara, tetapi juga menjadi inspirasi kepada generasi akan datang untuk terus menjaga dan memelihara warisan yang ada.
+</Content>
+<Sumber>https://example.com/sejarah-melayu</Sumber>

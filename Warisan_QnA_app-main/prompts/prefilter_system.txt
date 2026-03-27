@@ -1,0 +1,32 @@
+You will receive the FULL TEXT of a Malay history/archaeology/heritage document. Extract ONLY the title, abstract, source (Sumber), and main content.
+
+IMPORTANT: The extracted BODY_BLOCK should contain AT LEAST 80-90% of the original word count. If your extraction removes too much, you're being too aggressive. The metadata (top/bottom headers, references) usually accounts for only 10-20% of the document. Keep ALL main content paragraphs and sections.
+
+NOTE: If the text contains <Content>...</Content> wrapper tags, you may encounter them, but you should extract ALL content including the wrapper content if present.
+
+KEEP:
+- TITLE (TAJUK): the article's title
+- ABSTRACT (ABSTRAK): if present, keep verbatim
+- SOURCE (SUMBER): the publication/journal source value ONLY (e.g., if you see "Sumber : Jurnal Antarabangsa Alam dan Tamadun Melayu (JATMA)", return only "Jurnal Antarabangsa Alam dan Tamadun Melayu (JATMA)")
+- MAIN CONTENT: ALL section headings (Pendahuluan, Kaedah, Hasil, Perbincangan, Kesimpulan, etc.) and their paragraphs
+- ALL content from first section after abstract until end of document (including Kesimpulan)
+- ALL narrative paragraphs, descriptions, and substantive content
+
+DROP:
+- Only the header metadata block at the top (before ABSTRACT) - things like "ID Fail", "Penulis", "Tarikh", "Bidang", "Format", etc.
+- Only the reference list at the bottom (if clearly marked "Rujukan:" or "Bibliografi:")
+- Page numbers, headers, footers (if present)
+
+REQUIRED OUTPUT FORMAT:
+CLEAN_TEXT:
+TITLE:
+<verbatim title>
+
+ABSTRACT_BLOCK:
+<verbatim abstract text>
+
+SOURCE:
+<verbatim source (Sumber) if found, otherwise empty>
+
+BODY_BLOCK:
+<verbatim main body paragraphs>

@@ -1,0 +1,41 @@
+ROLE
+Review one candidate Q&A pair against the specific chunk in CLEAN_TEXT.
+
+INPUTS
+- CLEAN_TEXT (TITLE + ABSTRACT_BLOCK + BODY_BLOCK). NOTE: BODY_BLOCK contains ONLY the chunk text that was used to generate this pair.
+- SOURCE_LABEL (indicates which chunk the pair came from).
+- PAIR: {"question":"...", "answer":"...", "source":"<SOURCE_LABEL>"}
+
+OBJECTIVE
+Validate that the pair is grounded in THIS SPECIFIC CHUNK (BODY_BLOCK), not other chunks or external knowledge. Ensure the pair is (a) supported explicitly by this chunk, (b) standalone and clear, (c) free of disallowed metadata, and (d) not reliant on figures/tables/captions.
+
+ZERO-FABRICATION
+- DO NOT INVENT or SUMMARIZE. Accept/Edit only if the answer is directly supported by text (abstract or body). Otherwise Reject.
+
+VALIDATION CHECKS (Ask yourself these questions):
+
+1. Grounded?
+Is every claim in the answer explicitly supported by the provided CLEAN_TEXT (Title/Abstract/Body)?
+
+2. No invention / no summarising?
+Does the answer avoid adding new info or "summarising" beyond the text?
+
+3. No disallowed metadata?
+Does the Q&A avoid author, date, journal, keywords, email, references? (Title is allowed only as context, not as the quiz target.)
+
+4. No figures/tables reliance?
+Is the Q&A based on narrative text, not on Rajah/Jadual/Figure/Table/Graph/Chart/Map/Foto or their captions alone?
+
+5. Standalone & clear?
+Can someone understand it without extra context (no vague "ini/itu/ia/mereka")? Is the subject named (e.g., "Candi Bukit Kechil")?
+
+6. Language OK?
+Are both question and answer in clear Malay and free of obvious grammar mistakes?
+
+ACTIONS
+- "accept": pair is correct as-is.
+- "edit": minimally fix wording to be grounded/standalone; then return the corrected pair.
+- "reject": unsupported, metadata-based, non-standalone, or figure-dependent.
+
+REQUIRED OUTPUT (ONE JSON OBJECT ONLY; no extra text)
+{"status":"accept"|"edit"|"reject","question":"...","answer":"...","reason":"<brief reason: supported-abstract/supported-body/metadata-title-as-target/metadata-disallowed/unsupported/non-standalone/figure-dependent/duplicate-trivial>"}

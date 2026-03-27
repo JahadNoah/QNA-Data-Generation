@@ -1,0 +1,79 @@
+ROLE
+Jana pasangan Soalan & Jawapan Bahasa Melayu daripada FACT_LIST dan CLEAN_TEXT.
+Gunakan HANYA teks yang diberikan — tiada pengetahuan luar.
+
+KONTEKS (MATLAMAT LATIHAN LLM)
+Kami membina dataset latihan untuk LLM yang menerangkan Warisan Melayu (sejarah/arkeologi).
+Q&A harus membantu pengguna yang bertanya tentang:
+- Fakta utama: siapa/apa/di mana/bila tentang tapak, tokoh, artifak, tempoh, politi.
+- Definisi/terminologi: istilah teknikal dan warisan (e.g., candi, XRD/XRF, kaolinite).
+- Kaedah dan bukti: bagaimana analisis dijalankan, apa hasil bermakna, had/ketidakpastian.
+- Kausaliti dan perbandingan: mengapa sesuatu berlaku, bagaimana A berbeza dari B.
+- Geografi dan kronologi: lokasi, koordinat, rantau, julat masa/abad dalam teks.
+- Kepentingan warisan: apa yang menjadikan tapak/penemuan penting menurut teks.
+
+INPUT
+- FACT_LIST: senarai fakta atomik daripada Stage 2 (berformat JSON).
+- CLEAN_TEXT: TITLE + ABSTRACT_BLOCK + BODY_BLOCK.
+- SOURCE_LABEL (nama fail atau julat baris).
+- CURRICULUM_PHASE (integer 0–5). Lihat FASA DI BAWAH.
+- MIN_TARGET = 80, TOTAL_TARGET = 100 (matlamat peringkat korpus)
+- PRODUCED_SO_FAR (integer), REMAINING_CHUNKS (integer)
+- CAP_THIS_CHUNK pilihan (integer). Jika tiada, kira:
+  CAP_THIS_CHUNK = min( max( round((TOTAL_TARGET − PRODUCED_SO_FAR) / max(REMAINING_CHUNKS,1)), 0 ), 30 )
+
+FASA KURIKULUM (CURRICULUM_PHASE)
+Setiap fasa menentukan JENIS soalan yang dijana. Ikut dengan ketat.
+
+Fasa 0 — Definisi & Padanan Istilah
+→ Soalan tentang makna istilah teknikal sahaja (e.g., "Apakah maksud 'kaolinite'?").
+→ Jawapan maksimum 1 ayat.
+
+Fasa 1 — Fakta Langsung (Entropi Rendah)
+→ Soalan fakta terus: siapa, apa, di mana, bila.
+→ Setiap soalan dijawab oleh SATU fakta daripada FACT_LIST sahaja.
+→ Jawapan maksimum 2 ayat.
+→ Jangan gabungkan dua fakta.
+
+Fasa 2 — Variasi Struktur (Tanpa Maklumat Baru)
+→ Jana 2 variasi struktur berbeza bagi setiap fakta utama.
+→ Jawapan asal kekal — boleh parafrasa ringan sahaja.
+→ Label variasi: "struktur" atau "gaya bahasa".
+→ Jangan tambah maklumat baru.
+
+Fasa 3 — Sebab & Kesan (Kausal)
+→ Soalan "mengapa" dan "apakah kesan" berdasarkan teks sahaja.
+→ Elak inferens — sebab-akibat MESTI tersurat dalam CLEAN_TEXT.
+→ Jawapan maksimum 3 ayat.
+
+Fasa 4 — Petikan Sumber (RAG-Grounded)
+→ Sertakan medan "petikan_sumber": petikan verbatim daripada teks asal (≤30 patah perkataan) yang menyokong jawapan.
+→ Jawapan MESTI disokong oleh petikan tersebut.
+→ Tambah medan "petikan_sumber" dalam output JSON.
+
+Fasa 5 — Variasi Arahan (Pelbagai Mod)
+→ Jana soalan dalam pelbagai bentuk arahan: ringkasan, perbandingan, huraian, penilaian kepentingan.
+→ Contoh format soalan: "Bandingkan...", "Terangkan perbezaan...", "Ringkaskan...", "Mengapa ... penting menurut teks?".
+→ Jawapan maksimum 4 ayat.
+
+PERATURAN KANDUNGAN
+1) Soalan & jawapan MESTI dalam Bahasa Melayu yang jelas, ringkas, dan tepat.
+2) Dasar metadata: BOLEH gunakan TITLE untuk konteks (nyatakan semula subjek supaya item berdiri sendiri). JANGAN soal tentang tajuk itu sendiri atau metadata lain (penulis/tarikh/jurnal/kata kunci/emel/rujukan).
+3) Berdiri sendiri: setiap Q&A mesti bermakna tanpa konteks luar; elak ganti nama samar ("ini/itu/ia/mereka"). Namakan subjek secara eksplisit.
+4) Tiada bergantung pada rajah/jadual/graf/kapsyen. Gunakan teks naratif sahaja.
+5) Keutamaan ABSTRACT: Jika ABSTRACT_BLOCK disediakan dan tidak kosong, sasarkan ~20% pasangan daripada abstrak, selebihnya daripada BODY_BLOCK.
+6) Pelbagai frasa dibenarkan: Untuk fakta utama, jana pelbagai frasa berbeza (langsung, mengapa/bagaimana, perbandingan/kontras, kausal) — setiap satu mestilah jelas dan menghasilkan jawapan yang betul.
+
+KAWALAN KUALITI & DEDUP
+7) Setiap soalan mesti menyasar pernyataan eksplisit berbeza ("jangkar") ATAU frasa yang berbeza secara bermakna bagi pernyataan abstrak utama.
+8) Jika CLEAN_TEXT tidak mencukupi untuk jawapan yang pasti, JANGAN output pasangan tersebut.
+9) Jana sehingga CAP_THIS_CHUNK pasangan untuk chunk ini; lebih sedikit tidak mengapa jika fakta unik terhad.
+
+FORMAT OUTPUT (JSONL KETAT — tiada markdown atau teks tambahan)
+Satu objek JSON setiap baris.
+
+Untuk Fasa 0–3 & 5:
+{"question":"...","answer":"...","curriculum_phase":<int>,"source":"<SOURCE_LABEL>"}
+
+Untuk Fasa 4 sahaja (tambah petikan_sumber):
+{"question":"...","answer":"...","petikan_sumber":"...","curriculum_phase":4,"source":"<SOURCE_LABEL>"}

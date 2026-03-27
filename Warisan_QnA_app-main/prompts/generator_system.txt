@@ -1,0 +1,42 @@
+ROLE
+Generate Malay Q&A pairs from CLEAN_TEXT. Use ONLY the provided text.
+
+CONTEXT (LLM TRAINING GOAL)
+We are building a training dataset for an LLM that explains Malay Heritage (history/archaeology). The Q&A should help users who ask about:
+- Key facts: who/what/where/when about sites, figures, artefacts, periods, polities.
+- Definitions/terminology: technical and heritage terms (e.g., candi, XRD/XRF, kaolinite) explained clearly.
+- Methods and evidence: how analyses were done (e.g., XRD/XRF), what results mean, limits/uncertainties stated in text.
+- Causality and comparison: why something happened, how A differs from B, implications stated within the text.
+- Geography and chronology: locations, coordinates, regions, time ranges/centuries in the text.
+- Heritage significance: what makes a site/find important as described in the text.
+All questions must remain grounded in CLEAN_TEXT; no outside knowledge.
+
+INPUTS
+- CLEAN_TEXT fields: TITLE, ABSTRACT_BLOCK, BODY_BLOCK.
+- SOURCE_LABEL (file name or line range).
+- MIN_TARGET = 80, TOTAL_TARGET = 100  (corpus-level goal)
+- PRODUCED_SO_FAR (integer), REMAINING_CHUNKS (integer)
+- Optional CAP_THIS_CHUNK (integer). If absent, compute:
+  CAP_THIS_CHUNK = min( max( round((TOTAL_TARGET - PRODUCED_SO_FAR) / max(REMAINING_CHUNKS,1)), 0 ), 30 )
+
+GOAL
+Produce self-contained Q&A pairs (fact → analytical) grounded ONLY in CLEAN_TEXT.
+
+CONTENT RULES
+1) Questions & answers must be in clear, concise, accurate Malay.
+2) Metadata policy: you MAY use TITLE for context (to restate the subject so items are standalone). Do NOT ask questions about the title itself or any other metadata (author/date/journal/keywords/email/references).
+3) Standalone: every Q&A must make sense without external context; avoid ambiguous pronouns (“ini/itu/ia/mereka”). Prefer naming the subject explicitly (use TITLE when helpful).
+4) No reliance on figures/tables/graphs/captions. Use narrative text only.
+5) ABSTRACT priority: If an ABSTRACT_BLOCK is provided and not empty, aim for ~20% of pairs anchored to the abstract, and the rest from the BODY_BLOCK. If ABSTRACT_BLOCK is empty, use the entirety of the BODY_BLOCK to generate all pairs.
+6) Rephrasings allowed: For key facts, generate multiple distinct phrasings (direct, why/how, comparison/contrast, causal) so long as each is clearly worded and yields the same correct answer.
+
+QUALITY & DEDUP
+7) Each question must target a different explicit statement (“anchor”) OR be a meaningfully different phrasing of a key abstract statement. Avoid trivial paraphrases.
+8) If CLEAN_TEXT is insufficient for a definite answer, DO NOT output that pair.
+
+ADAPTIVE QUANTITY
+9) Generate up to CAP_THIS_CHUNK pairs for this chunk; fewer is fine if unique facts are limited.
+
+OUTPUT FORMAT (STRICT JSONL — no markdown or extra text)
+One JSON object per line:
+{"question":"...", "answer":"...", "source":"<SOURCE_LABEL>"}

@@ -1,0 +1,42 @@
+You will receive the FULL TEXT of a Malay history/archaeology/heritage document.
+
+STEP 1 — EXTRACT (as before)
+Pull out: TITLE, ABSTRACT, SOURCE, and MAIN CONTENT.
+
+KEEP:
+- TITLE (TAJUK): the article's title
+- ABSTRACT (ABSTRAK): if present, keep verbatim
+- SOURCE (SUMBER): publication/journal value only (e.g., "Jurnal Antarabangsa Alam dan Tamadun Melayu (JATMA)")
+- MAIN CONTENT: ALL section headings and their paragraphs (Pendahuluan, Kaedah, Hasil, Perbincangan, Kesimpulan, etc.)
+- ALL narrative paragraphs, descriptions, and substantive content
+
+DROP:
+- Header metadata block at the top (ID Fail, Penulis, Tarikh, Bidang, Format, etc.)
+- Reference list at the bottom (if marked "Rujukan:" or "Bibliografi:")
+- Page numbers, headers, footers
+
+IMPORTANT: BODY_BLOCK must retain AT LEAST 80–90% of the original word count. Only metadata and references are stripped (≈10–20% of document). If your extraction removes more, you are being too aggressive.
+
+STEP 2 — CANONICALIZE THE BODY_BLOCK
+After extraction, apply these restructuring rules to the BODY_BLOCK only:
+1. Rearrange run-on or disjointed sentences into clear, well-ordered paragraphs.
+2. Break any sentence exceeding 25 words into shorter sentences without losing meaning.
+3. Remove exact duplicate phrases or redundant repetitions (keep first occurrence).
+4. DO NOT add new information, translate, or alter the meaning in any way.
+5. Keep all section headings intact and in their original order.
+
+Goal: reduce ambiguity and noise so downstream Q&A generation is more precise. Small models struggle with messy input — normalize first.
+
+REQUIRED OUTPUT FORMAT:
+CLEAN_TEXT:
+TITLE:
+<verbatim title>
+
+ABSTRACT_BLOCK:
+<verbatim abstract text>
+
+SOURCE:
+<verbatim source (Sumber) if found, otherwise empty>
+
+BODY_BLOCK:
+<canonicalized main body paragraphs>

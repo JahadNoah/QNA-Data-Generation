@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Log Masuk – QnA Pair Generator</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0d1117;--surface:#161b22;--surface2:#21262d;--border:#30363d;
+  --accent:#7c3aed;--accent2:#a855f7;--green:#22c55e;--red:#ef4444;
+  --text:#e6edf3;--muted:#7d8590;--radius:12px;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{
+  font-family:'Inter',sans-serif;
+  background:var(--bg);
+  color:var(--text);
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:24px 16px;
+  /* Subtle radial glow behind the card */
+  background-image:radial-gradient(ellipse 60% 50% at 50% 0%,rgba(124,58,237,.18) 0%,transparent 70%);
+}
+
+/* ── Login card ── */
+.login-wrap{
+  width:100%;
+  max-width:420px;
+}
+
+.login-header{
+  text-align:center;
+  margin-bottom:36px;
+}
+.login-header .logo{
+  font-size:2rem;
+  margin-bottom:12px;
+  display:block;
+}
+.login-header h1{
+  font-size:1.75rem;
+  font-weight:700;
+  background:linear-gradient(135deg,#a78bfa,#7c3aed);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  background-clip:text;
+  margin-bottom:6px;
+}
+.login-header p{
+  color:var(--muted);
+  font-size:.9rem;
+}
+
+.card{
+  background:var(--surface);
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  padding:32px 28px;
+  /* Faint glow ring */
+  box-shadow:0 0 0 1px rgba(124,58,237,.08),
+             0 20px 60px rgba(0,0,0,.45);
+}
+
+/* ── Form ── */
+.form-group{
+  margin-bottom:20px;
+}
+.form-group label{
+  display:block;
+  font-size:.82rem;
+  font-weight:500;
+  color:var(--muted);
+  margin-bottom:7px;
+  letter-spacing:.02em;
+}
+.input-wrap{
+  position:relative;
+}
+.input-wrap svg{
+  position:absolute;
+  left:13px;
+  top:50%;
+  transform:translateY(-50%);
+  color:var(--muted);
+  pointer-events:none;
+  flex-shrink:0;
+}
+.input-wrap input{
+  width:100%;
+  background:var(--surface2);
+  border:1px solid var(--border);
+  border-radius:8px;
+  color:var(--text);
+  padding:11px 13px 11px 40px;
+  font-size:.9rem;
+  font-family:inherit;
+  outline:none;
+  transition:border-color .2s, box-shadow .2s;
+}
+.input-wrap input:focus{
+  border-color:var(--accent2);
+  box-shadow:0 0 0 3px rgba(168,85,247,.15);
+}
+.input-wrap input::placeholder{
+  color:var(--muted);
+}
+
+/* ── Error banner ── */
+.error-banner{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  background:rgba(239,68,68,.1);
+  color:var(--red);
+  border:1px solid rgba(239,68,68,.3);
+  border-radius:8px;
+  padding:11px 14px;
+  font-size:.85rem;
+  font-weight:500;
+  margin-bottom:20px;
+  animation:slideIn .25s ease;
+}
+@keyframes slideIn{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:translateY(0)}}
+
+/* ── Submit button ── */
+.btn-login{
+  width:100%;
+  padding:12px;
+  background:var(--accent);
+  color:#fff;
+  border:none;
+  border-radius:8px;
+  font-size:.95rem;
+  font-weight:600;
+  font-family:inherit;
+  cursor:pointer;
+  transition:background .2s, box-shadow .2s, transform .15s;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:8px;
+  margin-top:8px;
+}
+.btn-login:hover{
+  background:var(--accent2);
+  box-shadow:0 0 24px rgba(124,58,237,.45);
+  transform:translateY(-1px);
+}
+.btn-login:active{
+  transform:translateY(0);
+}
+
+/* ── Footer note ── */
+.login-footer{
+  text-align:center;
+  margin-top:24px;
+  font-size:.78rem;
+  color:var(--muted);
+  line-height:1.6;
+}
+</style>
+</head>
+<body>
+
+<div class="login-wrap">
+
+  <!-- Branding -->
+  <div class="login-header">
+    <span class="logo">✦</span>
+    <h1>QnA Pair Generator</h1>
+    <p>Penjana Soal-Jawab Bahasa Melayu</p>
+  </div>
+
+  <!-- Card -->
+  <div class="card">
+
+    <!-- Error banner (only shown when Flask passes an error) -->
+    {% if error %}
+    <div class="error-banner">
+      <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+      </svg>
+      {{ error }}
+    </div>
+    {% endif %}
+
+    <form method="POST" action="/login">
+
+      <!-- Email -->
+      <div class="form-group">
+        <label for="email">E-mel</label>
+        <div class="input-wrap">
+          <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+            <polyline points="22,6 12,13 2,6"/>
+          </svg>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="admin@example.com"
+            autocomplete="email"
+            required
+          >
+        </div>
+      </div>
+
+      <!-- Password -->
+      <div class="form-group">
+        <label for="password">Kata Laluan</label>
+        <div class="input-wrap">
+          <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
+            <path d="M7 11V7a5 5 0 0 1 10 0v4"/>
+          </svg>
+          <input
+            type="password"
+            id="password"
+            name="password"
+            placeholder="••••••••"
+            autocomplete="current-password"
+            required
+          >
+        </div>
+      </div>
+
+      <button type="submit" class="btn-login">
+        <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/>
+          <polyline points="10 17 15 12 10 7"/>
+          <line x1="15" y1="12" x2="3" y2="12"/>
+        </svg>
+        Log Masuk
+      </button>
+
+    </form>
+  </div>
+
+  <div class="login-footer">
+    Akses terhad · Sila hubungi pentadbir untuk mendapatkan akaun.
+  </div>
+
+</div>
+
+</body>
+</html>

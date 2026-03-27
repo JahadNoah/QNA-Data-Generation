@@ -1,0 +1,64 @@
+ROLE
+Semak satu pasangan Q&A calon terhadap chunk CLEAN_TEXT yang spesifik.
+
+INPUT
+- CLEAN_TEXT (TITLE + ABSTRACT_BLOCK + BODY_BLOCK). NOTA: BODY_BLOCK mengandungi HANYA teks chunk yang digunakan untuk menjana pasangan ini.
+- SOURCE_LABEL (menunjukkan chunk mana pasangan ini berasal).
+- CURRICULUM_PHASE (integer 0–5): fasa kurikulum yang sepatutnya diikuti pasangan ini.
+- PAIR: {"question":"...","answer":"...","curriculum_phase":<int>,"source":"<SOURCE_LABEL>"}
+  (Untuk Fasa 4, PAIR mungkin mengandungi medan "petikan_sumber" tambahan.)
+
+OBJEKTIF
+Sahkan bahawa pasangan ini:
+(a) didasarkan secara eksplisit pada chunk ini (BODY_BLOCK),
+(b) berdiri sendiri dan jelas,
+(c) bebas daripada metadata yang tidak dibenarkan,
+(d) tidak bergantung pada rajah/jadual/kapsyen,
+(e) mematuhi keperluan CURRICULUM_PHASE yang ditetapkan.
+
+SIFAR FABRIKASI
+JANGAN CIPTA atau RUMUSKAN. Terima/Edit HANYA jika jawapan disokong secara langsung oleh teks (abstrak atau badan). Jika tidak, Tolak.
+
+SEMAKAN PENGESAHAN (Tanya diri sendiri soalan-soalan ini):
+
+1. Didasarkan?
+Adakah setiap tuntutan dalam jawapan disokong secara eksplisit oleh CLEAN_TEXT yang diberikan?
+
+2. Tiada fabrikasi / tiada rumusan?
+Adakah jawapan mengelak menambah maklumat baru atau "merumuskan" melebihi teks?
+
+3. Tiada metadata yang tidak dibenarkan?
+Adakah Q&A mengelak penulis, tarikh, jurnal, kata kunci, emel, rujukan? (Tajuk dibenarkan sebagai konteks sahaja, bukan sebagai sasaran kuiz.)
+
+4. Tiada pergantungan rajah/jadual?
+Adakah Q&A berdasarkan teks naratif, bukan Rajah/Jadual/Gambar/Peta/Graf/Kapsyen sahaja?
+
+5. Berdiri sendiri & jelas?
+Bolehkah seseorang memahaminya tanpa konteks tambahan (tiada "ini/itu/ia/mereka" yang samar)? Adakah subjek dinamakan?
+
+6. Bahasa OK?
+Adakah soalan dan jawapan dalam Bahasa Melayu yang jelas dan bebas daripada kesilapan tatabahasa?
+
+7. SEMAKAN FASA KURIKULUM (BAHARU):
+Adakah pasangan ini mematuhi keperluan CURRICULUM_PHASE yang ditetapkan?
+- Fasa 0: Soalan mestilah tentang definisi/istilah sahaja. Jawapan ≤1 ayat.
+- Fasa 1: Soalan fakta terus (siapa/apa/di mana/bila). Jawapan ≤2 ayat. Hanya SATU fakta dijawab.
+- Fasa 2: Merupakan variasi struktur pasangan sedia ada. Tiada maklumat baru.
+- Fasa 3: Soalan kausal ("mengapa"/"apakah kesan"). Sebab-akibat MESTI tersurat dalam teks.
+- Fasa 4: MESTI ada medan "petikan_sumber" yang verbatim dari teks asal (≤30 patah perkataan) dan menyokong jawapan.
+- Fasa 5: Soalan dalam bentuk arahan pelbagai (ringkasan, perbandingan, huraian, penilaian). Jawapan ≤4 ayat.
+
+8. SEMAKAN RAG (untuk Fasa 4 sahaja):
+Adakah "petikan_sumber" diambil verbatim daripada CLEAN_TEXT?
+Adakah jawapan disokong secara langsung oleh petikan tersebut?
+
+TINDAKAN
+- "accept": pasangan adalah betul seadanya.
+- "edit": betulkan perkataan secara minimum supaya didasarkan/berdiri sendiri; kembalikan pasangan yang diperbetulkan.
+- "reject": tidak disokong, berasaskan metadata, tidak berdiri sendiri, bergantung pada rajah, atau melanggar keperluan fasa.
+
+SEBAB TOLAK / EDIT (gunakan kod ini dalam medan "reason"):
+supported-abstract | supported-body | metadata-title-as-target | metadata-disallowed | unsupported | non-standalone | figure-dependent | duplicate-trivial | wrong-phase | missing-petikan | unsupported-petikan
+
+OUTPUT DIPERLUKAN (SATU OBJEK JSON SAHAJA; tiada teks tambahan)
+{"status":"accept"|"edit"|"reject","question":"...","answer":"...","petikan_sumber":"<hanya untuk Fasa 4, kosong jika tiada>","curriculum_phase":<int>,"reason":"<kod ringkas>"}

@@ -1,0 +1,1688 @@
+<!DOCTYPE html>
+<html lang="ms">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QnA Pair Generator – Bahasa Melayu</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --surface2: #21262d;
+      --border: #30363d;
+      --accent: #7c3aed;
+      --accent2: #a855f7;
+      --green: #22c55e;
+      --red: #ef4444;
+      --yellow: #f59e0b;
+      --text: #e6edf3;
+      --muted: #7d8590;
+      --radius: 12px;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 24px 16px
+    }
+
+    a {
+      color: var(--accent2)
+    }
+
+    /* Layout */
+    .app {
+      max-width: 860px;
+      margin: 0 auto
+    }
+
+    .header {
+      padding: 40px 0 32px;
+      background: none;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      position: relative
+    }
+
+    .header-center {
+      text-align: center;
+      flex: 1
+    }
+
+    .header h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, #a78bfa, #7c3aed);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 8px
+    }
+
+    .header p {
+      color: var(--muted);
+      font-size: .95rem
+    }
+
+    .btn-logout {
+      position: absolute;
+      right: 0;
+      top: 40px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 8px 14px;
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--muted);
+      font-size: .8rem;
+      font-weight: 500;
+      font-family: inherit;
+      cursor: pointer;
+      text-decoration: none;
+      transition: border-color .2s, color .2s
+    }
+
+    .btn-logout:hover {
+      border-color: var(--red);
+      color: var(--red)
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: .75rem;
+      font-weight: 600
+    }
+
+    .badge-ok {
+      background: rgba(34, 197, 94, .15);
+      color: var(--green);
+      border: 1px solid rgba(34, 197, 94, .3)
+    }
+
+    .badge-err {
+      background: rgba(239, 68, 68, .15);
+      color: var(--red);
+      border: 1px solid rgba(239, 68, 68, .3)
+    }
+
+    .badge-wait {
+      background: rgba(245, 158, 11, .15);
+      color: var(--yellow);
+      border: 1px solid rgba(245, 158, 11, .3)
+    }
+
+    /* Cards */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      margin-bottom: 20px
+    }
+
+    .card-title {
+      font-size: .8rem;
+      font-weight: 600;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px
+    }
+
+    .card-title svg {
+      flex-shrink: 0
+    }
+
+    /* Form elements */
+    label {
+      font-size: .85rem;
+      font-weight: 500;
+      color: var(--muted);
+      display: block;
+      margin-bottom: 6px
+    }
+
+    input,
+    select {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      padding: 9px 13px;
+      font-size: .9rem;
+      font-family: inherit;
+      outline: none;
+      transition: border-color .2s
+    }
+
+    input:focus,
+    select:focus {
+      border-color: var(--accent2)
+    }
+
+    input[type=number] {
+      width: 110px
+    }
+
+    select {
+      width: 220px
+    }
+
+    .file-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      flex-wrap: wrap
+    }
+
+    .file-btn {
+      display: inline-block;
+      padding: 9px 18px;
+      background: var(--surface2);
+      border: 1px dashed var(--border);
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: .85rem;
+      font-weight: 500;
+      transition: border-color .2s, background .2s
+    }
+
+    .file-btn:hover {
+      border-color: var(--accent2);
+      background: #1f1a2e
+    }
+
+    .file-name {
+      color: var(--muted);
+      font-size: .85rem;
+      font-style: italic
+    }
+
+    .hint-box {
+      background: #0f1829;
+      border: 1px solid #1e3a5f;
+      border-radius: 8px;
+      padding: 12px 16px;
+      font-size: .8rem;
+      line-height: 1.7;
+      color: #93c5fd;
+      margin-top: 14px
+    }
+
+    .hint-box code {
+      background: #172242;
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #f472b6;
+      font-size: .78rem
+    }
+
+    /* Buttons */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 8px;
+      font-size: .875rem;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: inherit;
+      transition: all .2s
+    }
+
+    .btn:disabled {
+      opacity: .4;
+      cursor: not-allowed
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: #fff
+    }
+
+    .btn-primary:hover:not(:disabled) {
+      background: var(--accent2);
+      box-shadow: 0 0 20px rgba(124, 58, 237, .4);
+      transform: translateY(-1px)
+    }
+
+    .btn-outline {
+      background: transparent;
+      color: var(--text);
+      border: 1px solid var(--border)
+    }
+
+    .btn-outline:hover:not(:disabled) {
+      border-color: var(--accent2);
+      color: var(--accent2)
+    }
+
+    .btn-success {
+      background: rgba(34, 197, 94, .15);
+      color: var(--green);
+      border: 1px solid rgba(34, 197, 94, .3)
+    }
+
+    .btn-success:hover:not(:disabled) {
+      background: rgba(34, 197, 94, .25)
+    }
+
+    .btn-danger {
+      background: rgba(239, 68, 68, .1);
+      color: var(--red);
+      border: 1px solid rgba(239, 68, 68, .3)
+    }
+
+    .btn-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      margin-top: 4px
+    }
+
+    /* Progress */
+    .progress-wrap {
+      margin-top: 18px;
+      display: none
+    }
+
+    .progress-wrap.show {
+      display: block
+    }
+
+    .progress-label {
+      font-size: .8rem;
+      color: var(--muted);
+      margin-bottom: 6px
+    }
+
+    .progress-track {
+      height: 6px;
+      background: var(--surface2);
+      border-radius: 3px;
+      overflow: hidden
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--accent), var(--accent2));
+      border-radius: 3px;
+      width: 0;
+      transition: width .4s
+    }
+
+    .progress-fill.anim {
+      animation: shimmer 1.5s ease-in-out infinite
+    }
+
+    @keyframes shimmer {
+
+      0%,
+      100% {
+        opacity: 1
+      }
+
+      50% {
+        opacity: .5
+      }
+    }
+
+    /* Alerts */
+    .alert {
+      padding: 12px 16px;
+      border-radius: 8px;
+      font-size: .85rem;
+      margin-bottom: 16px;
+      display: none
+    }
+
+    .alert.show {
+      display: block
+    }
+
+    .alert-success {
+      background: rgba(34, 197, 94, .1);
+      color: var(--green);
+      border: 1px solid rgba(34, 197, 94, .3)
+    }
+
+    .alert-error {
+      background: rgba(239, 68, 68, .1);
+      color: var(--red);
+      border: 1px solid rgba(239, 68, 68, .3)
+    }
+
+    /* ─── Summarizer Panel ─── */
+    #summaryCard {
+      display: none
+    }
+
+    .summary-meta {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+      gap: 12px;
+      margin-bottom: 18px
+    }
+
+    .meta-box {
+      background: var(--surface2);
+      border-radius: 10px;
+      padding: 14px 16px;
+      border: 1px solid var(--border)
+    }
+
+    .meta-box .meta-val {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: var(--accent2);
+      line-height: 1
+    }
+
+    .meta-box .meta-lbl {
+      font-size: .72rem;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      color: var(--muted);
+      margin-top: 4px
+    }
+
+    .summary-abstract {
+      background: var(--surface2);
+      border-radius: 10px;
+      padding: 16px;
+      border-left: 3px solid var(--accent);
+      line-height: 1.75;
+      font-size: .9rem;
+      color: #c9d1d9;
+      max-height: 200px;
+      overflow-y: auto
+    }
+
+    .summary-title-text {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 10px;
+      line-height: 1.4
+    }
+
+    .chip-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 12px
+    }
+
+    .chip {
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: .75rem;
+      font-weight: 500;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--muted)
+    }
+
+    /* ─── Chunks prefilter (compact) ─── */
+    #prefilterCard {
+      display: none
+    }
+
+    .pre-field {
+      margin-bottom: 10px
+    }
+
+    .pre-field strong {
+      font-size: .75rem;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      color: var(--muted);
+      display: block;
+      margin-bottom: 4px
+    }
+
+    .pre-field pre {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px;
+      font-size: .8rem;
+      overflow: auto;
+      max-height: 120px;
+      white-space: pre-wrap;
+      color: #c9d1d9;
+      font-family: inherit;
+      line-height: 1.55
+    }
+
+    .chunk-grid {
+      display: grid;
+      gap: 8px;
+      margin-top: 10px
+    }
+
+    .chunk-item {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 14px
+    }
+
+    .chunk-hdr {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 6px
+    }
+
+    .chunk-hdr span {
+      font-size: .8rem;
+      font-weight: 600;
+      color: var(--accent2)
+    }
+
+    .chunk-toggle {
+      font-size: .75rem;
+      color: var(--muted);
+      cursor: pointer;
+      text-decoration: underline
+    }
+
+    .chunk-toggle:hover {
+      color: var(--accent2)
+    }
+
+    .chunk-preview {
+      font-size: .82rem;
+      color: var(--muted);
+      line-height: 1.55
+    }
+
+    .chunk-full {
+      display: none;
+      margin-top: 8px;
+      font-size: .8rem;
+      color: #c9d1d9;
+      line-height: 1.6;
+      max-height: 300px;
+      overflow-y: auto
+    }
+
+    .chunk-full.open {
+      display: block
+    }
+
+    /* ─── Results ─── */
+    #resultsCard {
+      display: none
+    }
+
+    .results-tabs {
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+      margin-bottom: 12px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 8px
+    }
+
+    .results-tab {
+      padding: 6px 14px;
+      font-size: .78rem;
+      border-radius: 6px 6px 0 0;
+      border: 1px solid var(--border);
+      border-bottom: none;
+      background: var(--surface2);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all .2s
+    }
+
+    .results-tab:hover {
+      color: var(--text);
+      background: var(--surface)
+    }
+
+    .results-tab.active {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+      font-weight: 600
+    }
+
+    .results-tab .tab-count {
+      background: rgba(255,255,255,.2);
+      padding: 1px 6px;
+      border-radius: 8px;
+      font-size: .7rem;
+      margin-left: 6px
+    }
+
+    .results-grid {
+      display: grid;
+      gap: 12px;
+      max-height: 440px;
+      overflow-y: auto;
+      padding-right: 4px
+    }
+
+    .results-grid::-webkit-scrollbar {
+      width: 5px
+    }
+
+    .results-grid::-webkit-scrollbar-thumb {
+      background: var(--border);
+      border-radius: 3px
+    }
+
+    .qa-item {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px;
+      border-left: 3px solid var(--accent)
+    }
+
+    .qa-item .q {
+      font-weight: 600;
+      font-size: .9rem;
+      margin-bottom: 6px;
+      color: var(--text)
+    }
+
+    .qa-item .a {
+      font-size: .85rem;
+      color: #c9d1d9;
+      line-height: 1.6
+    }
+
+    .qa-item .src {
+      font-size: .72rem;
+      color: var(--muted);
+      margin-top: 6px
+    }
+
+    /* ─── Quiz ─── */
+    #quizCard {
+      display: none
+    }
+
+    #quizBody {}
+
+    .quiz-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 18px;
+      flex-wrap: wrap;
+      gap: 12px
+    }
+
+    .quiz-counter {
+      font-size: .85rem;
+      font-weight: 600;
+      color: var(--muted)
+    }
+
+    .quiz-score-live {
+      font-size: .85rem;
+      font-weight: 700;
+      color: var(--accent2)
+    }
+
+    .quiz-progress {
+      height: 5px;
+      background: var(--surface2);
+      border-radius: 3px;
+      overflow: hidden;
+      margin-bottom: 24px
+    }
+
+    .quiz-progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--accent), var(--accent2));
+      border-radius: 3px;
+      transition: width .5s cubic-bezier(.4, 0, .2, 1)
+    }
+
+    .quiz-q {
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 1.55;
+      margin-bottom: 6px;
+      color: var(--text)
+    }
+
+    .quiz-context {
+      font-size: .78rem;
+      color: var(--muted);
+      margin-bottom: 20px;
+      line-height: 1.5;
+      border-left: 2px solid var(--border);
+      padding-left: 12px;
+      max-height: 100px;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical
+    }
+
+    .options {
+      display: grid;
+      gap: 10px
+    }
+
+    .opt {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 13px 16px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all .2s;
+      text-align: left;
+      font-family: inherit;
+      color: var(--text);
+      font-size: .88rem;
+      line-height: 1.45
+    }
+
+    .opt:hover:not(.locked) {
+      border-color: var(--accent2);
+      background: #1f1a2e
+    }
+
+    .opt-lbl {
+      width: 26px;
+      height: 26px;
+      border-radius: 6px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: .75rem;
+      font-weight: 700;
+      flex-shrink: 0;
+      transition: all .2s
+    }
+
+    .opt.correct {
+      border-color: var(--green);
+      background: rgba(34, 197, 94, .08)
+    }
+
+    .opt.correct .opt-lbl {
+      background: var(--green);
+      border-color: var(--green);
+      color: #fff
+    }
+
+    .opt.wrong {
+      border-color: var(--red);
+      background: rgba(239, 68, 68, .08)
+    }
+
+    .opt.wrong .opt-lbl {
+      background: var(--red);
+      border-color: var(--red);
+      color: #fff
+    }
+
+    .opt.reveal {
+      border-color: var(--green);
+      background: rgba(34, 197, 94, .05)
+    }
+
+    .opt.reveal .opt-lbl {
+      border-color: var(--green);
+      color: var(--green)
+    }
+
+    .opt.locked {
+      cursor: default
+    }
+
+    .feedback {
+      margin-top: 16px;
+      padding: 12px 16px;
+      border-radius: 8px;
+      font-size: .85rem;
+      font-weight: 500;
+      display: none
+    }
+
+    .feedback.show {
+      display: block
+    }
+
+    .feedback.ok {
+      background: rgba(34, 197, 94, .12);
+      color: var(--green);
+      border: 1px solid rgba(34, 197, 94, .3)
+    }
+
+    .feedback.fail {
+      background: rgba(239, 68, 68, .1);
+      color: var(--red);
+      border: 1px solid rgba(239, 68, 68, .3)
+    }
+
+    .quiz-nav {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 20px
+    }
+
+    /* Score screen */
+    .score-screen {
+      text-align: center;
+      padding: 30px 0
+    }
+
+    .score-emoji {
+      font-size: 4rem;
+      margin-bottom: 14px;
+      display: block
+    }
+
+    .score-pct {
+      font-size: 3rem;
+      font-weight: 800;
+      background: linear-gradient(135deg, #a78bfa, #7c3aed);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1
+    }
+
+    .score-lbl {
+      color: var(--muted);
+      font-size: .9rem;
+      margin: 8px 0 24px
+    }
+
+    .score-detail {
+      display: flex;
+      justify-content: center;
+      gap: 24px;
+      margin-bottom: 28px;
+      font-size: .9rem
+    }
+
+    .score-detail span strong {
+      color: var(--text)
+    }
+
+    /* Responsive */
+    @media(max-width:560px) {
+      .header h1 {
+        font-size: 1.5rem
+      }
+
+      .card {
+        padding: 18px
+      }
+
+      .summary-meta {
+        grid-template-columns: 1fr 1fr
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="app">
+
+    <!-- Header -->
+    <div class="header">
+      <div class="header-center">
+        <h1>✦ QnA Pair Generator</h1>
+        <p>Penjana Soal-Jawab Bahasa Melayu &nbsp;·&nbsp; <span id="connBadge" class="badge badge-wait">Menyemak
+            sambungan…</span></p>
+      </div>
+      <a href="/logout" class="btn-logout">
+        <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4" />
+          <polyline points="16 17 21 12 16 7" />
+          <line x1="21" y1="12" x2="9" y2="12" />
+        </svg>
+        Log Keluar
+      </a>
+    </div>
+
+    <div class="alert" id="alertBox"></div>
+
+    <!-- Upload -->
+    <div class="card">
+      <div class="card-title">
+        <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+          <polyline points="14 2 14 8 20 8" />
+        </svg>
+        Muat Naik Fail Teks
+      </div>
+      <div class="file-row">
+        <input type="file" id="fileInput" accept=".txt" multiple style="display:none">
+        <label for="fileInput" class="file-btn">📂 Pilih fail .txt (satu atau banyak)</label>
+        <span class="file-name" id="fileName">Tiada fail dipilih</span>
+      </div>
+      <div id="fileList" style="margin-top:10px;display:none;max-height:200px;overflow-y:auto;font-size:.8rem;color:var(--muted);padding:4px 8px;border-radius:6px;background:var(--card)"></div>
+      <div class="hint-box">
+        <strong>📋 Override manual:</strong> Gunakan tag pilihan dalam fail anda:
+        <code>&lt;Title&gt;...&lt;Title/&gt;</code>
+        <code>&lt;Abstract&gt;...&lt;Abstract/&gt;</code>
+        <code>&lt;Content&gt;...&lt;Content/&gt;</code>
+      </div>
+    </div>
+
+    <!-- Config -->
+    <div class="card">
+      <div class="card-title">
+        <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <circle cx="12" cy="12" r="3" />
+          <path d="M19.07 4.93a10 10 0 0 1 0 14.14M4.93 4.93a10 10 0 0 0 0 14.14" />
+        </svg>
+        Konfigurasi
+      </div>
+      <div style="display:flex;gap:24px;flex-wrap:wrap;align-items:flex-end">
+        <div>
+          <label for="maxPairs">Had Pasangan Q&A <span
+              style="color:var(--muted);font-weight:400">(Pilihan)</span></label>
+          <input type="number" id="maxPairs" placeholder="Auto" min="1" max="500">
+        </div>
+        <div>
+          <label for="domain">Domain</label>
+          <select id="domain">
+            <option value="Sejarah">Sejarah</option>
+            <option value="Agama">Agama</option>
+            <option value="Bahasa dan Linguistik">Bahasa dan Linguistik</option>
+            <option value="Pendidikan">Pendidikan</option>
+            <option value="Sosial dan Budaya">Sosial dan Budaya</option>
+            <option value="Sains dan Teknologi">Sains dan Teknologi</option>
+            <option value="Kesusasteraan dan Seni">Kesusasteraan dan Seni</option>
+            <option value="Ekonomi dan Perniagaan">Ekonomi dan Perniagaan</option>
+            <option value="Politik">Politik</option>
+            <option value="Umum">Umum</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Generate -->
+    <div class="card">
+      <div class="card-title">
+        <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2" />
+        </svg>
+        Jana Q&A
+      </div>
+      <div class="btn-row">
+        <button class="btn btn-primary" id="generateBtn" disabled>⚡ Jana Pasangan Q&A</button>
+        <button class="btn btn-outline" id="generateNextBtn" style="display:none" disabled>➕ Jana Lagi</button>
+        <button class="btn btn-success" id="downloadBtn" disabled>⬇ Muat Turun CSV</button>
+        <button class="btn btn-outline" id="resetBtn">↺ Set Semula</button>
+        <button class="btn" id="cancelBatchBtn" style="display:none;background:#e74c3c;color:#fff">✕ Batalkan</button>
+      </div>
+      <div class="progress-wrap" id="progWrap">
+        <div class="progress-label" id="progBatchLabel" style="display:none;font-weight:600;margin-bottom:4px"></div>
+        <div class="progress-label" id="progLabel">Memproses…</div>
+        <div class="progress-track">
+          <div class="progress-fill anim" id="progFill"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Prefilter card (compact) -->
+    <div class="card" id="prefilterCard">
+      <div class="card-title" style="justify-content:space-between">
+        <span>
+          <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" />
+            <circle cx="12" cy="12" r="3" />
+          </svg>
+          Pratonton Prapenapis
+        </span>
+        <button class="btn btn-outline" id="prefilterToggle" style="padding:4px 12px;font-size:.75rem">Tunjuk /
+          Sembunyi</button>
+      </div>
+      <div id="prefilterBody">
+        <div class="pre-field"><strong>Tajuk</strong>
+          <pre id="prefTitle"></pre>
+        </div>
+        <div class="pre-field"><strong>Sumber</strong>
+          <pre id="prefSource"></pre>
+        </div>
+        <div class="pre-field"><strong>Abstrak</strong>
+          <pre id="prefAbstract"></pre>
+        </div>
+        <div class="pre-field"><strong>Kandungan Penuh</strong>
+          <pre id="prefBody"></pre>
+        </div>
+        <div id="chunksWrap" style="display:none;margin-top:12px">
+          <strong style="font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)"
+            id="chunksHeader"></strong>
+          <div class="chunk-grid" id="chunksList"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Summarizer card -->
+    <div class="card" id="summaryCard">
+      <div class="card-title">
+        <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+          <polyline points="14 2 14 8 20 8" />
+          <line x1="16" y1="13" x2="8" y2="13" />
+          <line x1="16" y1="17" x2="8" y2="17" />
+          <polyline points="10 9 9 9 8 9" />
+        </svg>
+        Ringkasan Dokumen
+      </div>
+      <div class="summary-meta" id="summaryMeta"></div>
+      <div class="summary-title-text" id="summaryDocTitle"></div>
+      <div class="summary-abstract" id="summaryAbstract"></div>
+      <div class="chip-row" id="summaryChips"></div>
+    </div>
+
+    <!-- Results card -->
+    <div class="card" id="resultsCard">
+      <div class="card-title" style="justify-content:space-between;flex-wrap:wrap;gap:10px">
+        <span>
+          <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <line x1="8" y1="6" x2="21" y2="6" />
+            <line x1="8" y1="12" x2="21" y2="12" />
+            <line x1="8" y1="18" x2="21" y2="18" />
+            <line x1="3" y1="6" x2="3.01" y2="6" />
+            <line x1="3" y1="12" x2="3.01" y2="12" />
+            <line x1="3" y1="18" x2="3.01" y2="18" />
+          </svg>
+          Pasangan Q&A yang Dijana
+        </span>
+        <button class="btn btn-primary" id="startQuizBtn" style="padding:7px 16px;font-size:.8rem">🧠 Mulakan
+          Kuiz</button>
+      </div>
+      <div class="results-tabs" id="resultsTabs" style="display:none"></div>
+      <div class="results-grid" id="resultsGrid"></div>
+    </div>
+
+    <!-- Quiz card -->
+    <div class="card" id="quizCard">
+      <div class="card-title" style="justify-content:space-between">
+        <span>
+          <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <circle cx="12" cy="12" r="10" />
+            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3" />
+            <line x1="12" y1="17" x2="12.01" y2="17" />
+          </svg>
+          Kuiz Aktif
+        </span>
+        <button class="btn btn-danger" id="quitQuizBtn" style="padding:5px 12px;font-size:.75rem">✕ Berhenti</button>
+      </div>
+      <div id="quizBody"></div>
+    </div>
+
+  </div><!-- /app -->
+
+  <script>
+    // ─── State ───
+    let qaPairs = [], fileInfo = {}, prefilterTitle = '', extractedData = {};
+    let quizQuestions = [], quizIdx = 0, quizScore = 0;
+    let currentBatchId = null, batchFiles = [], batchResults = [];
+    const LABELS = ['A', 'B', 'C', 'D'];
+
+    // ─── Elements ───
+    const $ = id => document.getElementById(id);
+    const fileInput = $('fileInput'), fileName = $('fileName');
+    const generateBtn = $('generateBtn'), generateNextBtn = $('generateNextBtn');
+    const downloadBtn = $('downloadBtn'), resetBtn = $('resetBtn');
+    const startQuizBtn = $('startQuizBtn'), quitQuizBtn = $('quitQuizBtn');
+    const progWrap = $('progWrap'), progLabel = $('progLabel'), progFill = $('progFill');
+    const connBadge = $('connBadge'), alertBox = $('alertBox');
+    const cancelBatchBtn = $('cancelBatchBtn'), progBatchLabel = $('progBatchLabel');
+
+    // ─── File Input ───
+    fileInput.addEventListener('change', e => {
+      const files = Array.from(e.target.files);
+      if (!files.length) {
+        fileName.textContent = 'Tiada fail dipilih';
+        generateBtn.disabled = true;
+        $('fileList').style.display = 'none';
+        batchFiles = [];
+        return;
+      }
+      batchFiles = files;
+      if (files.length === 1) {
+        fileName.textContent = files[0].name;
+        $('fileList').style.display = 'none';
+      } else {
+        fileName.textContent = `${files.length} fail dipilih`;
+        $('fileList').innerHTML = files.map((f, i) =>
+          `<div>${i + 1}. ${f.name} (${Math.round(f.size / 1024)} KB)</div>`
+        ).join('');
+        $('fileList').style.display = 'block';
+      }
+      if (connBadge.className.includes('ok')) generateBtn.disabled = false;
+      generateNextBtn.style.display = 'none';
+      extractedData = {}; qaPairs = []; batchResults = [];
+      showAlert(`${files.length} fail dipilih`, 'success');
+    });
+
+    // ─── Generate ───
+    generateBtn.addEventListener('click', () => {
+      if (batchFiles.length > 1) runBatchGenerate();
+      else runGenerate(true);
+    });
+    generateNextBtn.addEventListener('click', () => runGenerate(false));
+
+    // ─── Cancel Batch ───
+    cancelBatchBtn.addEventListener('click', async () => {
+      if (!currentBatchId) return;
+      try {
+        await fetch('/api/cancel-batch', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ batch_id: currentBatchId })
+        });
+        cancelBatchBtn.disabled = true;
+        cancelBatchBtn.textContent = 'Membatalkan...';
+      } catch (e) { }
+    });
+
+    async function runGenerate(fresh) {
+      const file = fileInput.files[0];
+      if (fresh && !file) { showAlert('Sila pilih fail dahulu', 'error'); return; }
+      if (!fresh && !Object.keys(extractedData).length) { showAlert('Tiada data tersedia. Jana dahulu.', 'error'); return; }
+
+      const fd = new FormData();
+      setLoading(true);
+      if (fresh) fd.append('file', file);
+      const maxPairsRaw = ($('maxPairs').value || '').trim();
+      const maxPairsNum = Number.parseInt(maxPairsRaw, 10);
+      fd.append('max_pairs', (Number.isFinite(maxPairsNum) && maxPairsNum > 0) ? String(maxPairsNum) : '');
+      fd.append('domain', $('domain').value);
+
+      // Step 0: prefilter
+      if (fresh) {
+        try {
+          const pf = new FormData(); pf.append('file', file);
+          const r = await fetch('/api/extract', { method: 'POST', body: pf });
+          if (r.ok) {
+            const d = await r.json();
+            renderPrefilter(d);
+            renderSummary(d, file);
+            extractedData = { title: d.title || '', abstract: d.abstract || '', source: d.source || '', body: d.body || '', source_name: d.source_name || file.name };
+            fd.append('title', extractedData.title);
+            fd.append('abstract', extractedData.abstract);
+            fd.append('source', extractedData.source);
+            fd.append('body', extractedData.body);
+            fd.append('source_name', extractedData.source_name);
+            prefilterTitle = d.title || '';
+            // Chunks preview
+            try {
+              const cf = new FormData(); cf.append('abstract', extractedData.abstract); cf.append('body', extractedData.body);
+              const cr = await fetch('/api/preview-chunks', { method: 'POST', body: cf });
+              if (cr.ok) { const cd = await cr.json(); renderChunks(cd.chunks, cd.total_chunks); }
+            } catch (e) { }
+          }
+        } catch (e) { }
+      } else {
+        fd.append('title', extractedData.title);
+        fd.append('abstract', extractedData.abstract);
+        fd.append('source', extractedData.source);
+        fd.append('body', extractedData.body);
+        fd.append('source_name', extractedData.source_name);
+        fd.append('skip_review', 'false');
+      }
+
+      try {
+        const resp = await fetch('/api/generate', { method: 'POST', body: fd });
+        if (!resp.ok) {
+          let errMsg = 'Gagal memulakan penjanaan';
+          try {
+            const errData = await resp.json();
+            if (errData && errData.error) errMsg = errData.error;
+          } catch (e) { }
+          throw new Error(errMsg);
+        }
+        const reader = resp.body.getReader(), dec = new TextDecoder(); let buf = '';
+        const prevPairs = fresh ? [] : [...qaPairs];
+        while (true) {
+          const { done, value } = await reader.read(); if (done) break;
+          buf += dec.decode(value, { stream: true });
+          const lines = buf.split('\n'); buf = lines.pop();
+          for (const ln of lines) {
+            if (!ln.startsWith('data: ')) continue;
+            const d = JSON.parse(ln.slice(6));
+            if (d.type === 'progress') { progLabel.textContent = d.message; progFill.style.width = '70%'; }
+            else if (d.type === 'complete') {
+              const newPairs = d.pairs || [];
+              qaPairs = [...prevPairs, ...newPairs];
+              fileInfo = { original_filename: d.original_filename, file_size: d.file_size, word_count: d.word_count, pairs_generated: qaPairs.length, abstract: d.abstract || '', source: d.source || '', source_name: d.source_name || '' };
+              renderResults(qaPairs);
+              showAlert(`Berjaya: ${newPairs.length} pasangan baharu! Jumlah: ${qaPairs.length}`, 'success');
+              downloadBtn.disabled = false;
+              generateNextBtn.style.display = 'inline-flex'; generateNextBtn.disabled = false;
+              // Update summary chips
+              updateSummaryChips(qaPairs.length);
+              progFill.style.width = '100%';
+              setTimeout(() => setLoading(false), 900);
+              progLabel.textContent = `Selesai! ${qaPairs.length} pasangan Q&A.`;
+            } else if (d.type === 'error') {
+              let msg = d.error || 'Ralat tidak diketahui';
+              if (d.is_rate_limit) msg = 'Had kadar melebihi had. Cuba lagi kemudian.';
+              else if (d.is_auth_error) msg = 'Kunci API tidak sah. Semak fail .env anda.';
+              throw new Error(msg);
+            }
+          }
+        }
+      } catch (e) {
+        showAlert('Ralat: ' + e.message, 'error');
+        setLoading(false);
+      } finally {
+        generateBtn.disabled = false; generateNextBtn.disabled = false;
+      }
+    }
+
+    // ─── Batch Generate ───
+    async function runBatchGenerate() {
+      if (!batchFiles.length) { showAlert('Sila pilih fail dahulu', 'error'); return; }
+
+      const fd = new FormData();
+      for (const f of batchFiles) fd.append('files', f);
+      const maxPairsRaw = ($('maxPairs').value || '').trim();
+      const maxPairsNum = Number.parseInt(maxPairsRaw, 10);
+      fd.append('max_pairs', (Number.isFinite(maxPairsNum) && maxPairsNum > 0) ? String(maxPairsNum) : '');
+      fd.append('domain', $('domain').value);
+
+      setLoading(true);
+      qaPairs = []; batchResults = [];
+      cancelBatchBtn.style.display = 'inline-flex';
+      cancelBatchBtn.disabled = false;
+      cancelBatchBtn.textContent = '✕ Batalkan';
+      progBatchLabel.style.display = 'block';
+      progBatchLabel.textContent = `Memproses 0/${batchFiles.length} fail...`;
+
+      try {
+        const resp = await fetch('/api/generate-batch', { method: 'POST', body: fd });
+        if (!resp.ok) {
+          let errMsg = 'Gagal memulakan penjanaan kelompok';
+          try { const errData = await resp.json(); if (errData && errData.error) errMsg = errData.error; } catch (e) { }
+          throw new Error(errMsg);
+        }
+        const reader = resp.body.getReader(), dec = new TextDecoder();
+        let buf = '';
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+          buf += dec.decode(value, { stream: true });
+          const lines = buf.split('\n'); buf = lines.pop();
+          for (const ln of lines) {
+            if (!ln.startsWith('data: ')) continue;
+            const d = JSON.parse(ln.slice(6));
+
+            if (d.type === 'batch_id') {
+              currentBatchId = d.batch_id;
+            }
+            else if (d.type === 'file_start') {
+              progBatchLabel.textContent = `Fail ${d.file_index}/${d.total_files}: ${d.filename}`;
+              progLabel.textContent = 'Memulakan...';
+              progFill.style.width = `${Math.max(5, Math.round(((d.file_index - 1) / d.total_files) * 100))}%`;
+            }
+            else if (d.type === 'progress') {
+              progLabel.textContent = d.message;
+              if (d.batch_progress) progBatchLabel.textContent = d.batch_progress;
+              progFill.style.width = `${Math.max(5, Math.round(((d.file_index - 0.5) / d.total_files) * 100))}%`;
+            }
+            else if (d.type === 'file_complete') {
+              batchResults.push({
+                filename: d.filename, title: d.title,
+                abstract: d.abstract, source: d.source,
+                pairs: d.pairs || []
+              });
+              qaPairs = batchResults.flatMap(r => r.pairs);
+              activeResultTab = 'all';
+              renderResults(qaPairs);
+              progBatchLabel.textContent = `Selesai ${d.file_index}/${d.total_files} fail | Jumlah: ${d.total_pairs_count} pasangan`;
+              progFill.style.width = `${Math.round((d.file_index / d.total_files) * 100)}%`;
+            }
+            else if (d.type === 'file_error') {
+              showAlert(`Ralat pada fail ${d.filename}: ${d.error}`, 'error');
+            }
+            else if (d.type === 'batch_complete') {
+              qaPairs = d.pairs || [];
+              renderResults(qaPairs);
+              showAlert(`Selesai! ${qaPairs.length} pasangan Q&A daripada ${batchResults.length} fail.`, 'success');
+              downloadBtn.disabled = qaPairs.length === 0;
+              progFill.style.width = '100%';
+              progLabel.textContent = `Selesai! ${qaPairs.length} pasangan Q&A.`;
+              progBatchLabel.textContent = `${batchResults.length}/${batchFiles.length} fail diproses`;
+              setTimeout(() => setLoading(false), 900);
+            }
+            else if (d.type === 'batch_cancelled') {
+              qaPairs = d.pairs || [];
+              renderResults(qaPairs);
+              showAlert(`Dibatalkan. ${qaPairs.length} pasangan dijana.`, 'error');
+              if (qaPairs.length > 0) downloadBtn.disabled = false;
+              setLoading(false);
+            }
+          }
+        }
+      } catch (e) {
+        showAlert('Ralat: ' + e.message, 'error');
+        setLoading(false);
+      } finally {
+        generateBtn.disabled = false;
+        cancelBatchBtn.style.display = 'none';
+        progBatchLabel.style.display = 'none';
+        currentBatchId = null;
+      }
+    }
+
+    // ─── Download ───
+    downloadBtn.addEventListener('click', async () => {
+      if (!qaPairs.length) { showAlert('Tiada data untuk dimuat turun', 'error'); return; }
+      try {
+        const r = await fetch('/api/download-csv', {
+          method: 'POST', headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            pairs: qaPairs,
+            original_filename: batchResults.length > 1 ? 'batch_qa_pairs' : (fileInfo.original_filename || 'qa_bm_pairs'),
+            title: batchResults.length > 1 ? '' : (prefilterTitle || ''),
+            domain: $('domain').value,
+            abstract: batchResults.length > 1 ? '' : (fileInfo.abstract || ''),
+            source: batchResults.length > 1 ? '' : (fileInfo.source || ''),
+            source_name: batchResults.length > 1 ? '' : (fileInfo.source_name || '')
+          })
+        });
+        if (!r.ok) throw new Error('Gagal menjana CSV');
+        const blob = await r.blob(), url = URL.createObjectURL(blob), a = document.createElement('a');
+        a.href = url; a.download = (batchResults.length > 1 ? 'batch_qa_pairs' : (prefilterTitle ? prefilterTitle.replace(/[^\w\-\s]/g, '').replace(/\s+/g, '_') : 'qa_bm_pairs')) + '.csv';
+        document.body.appendChild(a); a.click(); URL.revokeObjectURL(url); document.body.removeChild(a);
+        showAlert('Fail CSV berjaya dimuat turun!', 'success');
+      } catch (e) { showAlert('Ralat: ' + e.message, 'error'); }
+    });
+
+    // ─── Reset ───
+    resetBtn.addEventListener('click', () => {
+      qaPairs = []; fileInfo = {}; prefilterTitle = ''; extractedData = []; quizQuestions = []; quizIdx = 0; quizScore = 0;
+      batchFiles = []; batchResults = []; currentBatchId = null; activeResultTab = 'all';
+      fileInput.value = ''; fileName.textContent = 'Tiada fail dipilih';
+      $('fileList').style.display = 'none';
+      $('resultsTabs').style.display = 'none';
+      cancelBatchBtn.style.display = 'none';
+      progBatchLabel.style.display = 'none';
+      generateBtn.disabled = true; generateNextBtn.style.display = 'none'; generateNextBtn.disabled = true; downloadBtn.disabled = true;
+      $('prefilterCard').style.display = 'none'; $('summaryCard').style.display = 'none';
+      $('resultsCard').style.display = 'none'; $('quizCard').style.display = 'none';
+      setLoading(false);
+      showAlert('Semua data dipadam. Sedia bermula semula!', 'success');
+    });
+
+    // ─── Render helpers ───
+    function renderPrefilter(d) {
+      $('prefTitle').textContent = d.title || '(tiada)';
+      $('prefSource').textContent = d.source || '(tiada)';
+      $('prefAbstract').textContent = d.abstract || '(tiada)';
+      const full = (d.abstract ? d.abstract + '\n\n' : '') + d.body;
+      $('prefBody').textContent = full || '';
+      $('prefilterCard').style.display = 'block';
+    }
+
+    function renderSummary(d, file) {
+      const words = ((d.abstract || '') + ' ' + (d.body || '')).trim().split(/\s+/).filter(Boolean).length;
+      const sizeKB = file ? Math.round(file.size / 1024) : 0;
+      $('summaryMeta').innerHTML = `
+    <div class="meta-box"><div class="meta-val">${words.toLocaleString()}</div><div class="meta-lbl">Patah Perkataan</div></div>
+    <div class="meta-box"><div class="meta-val">${sizeKB} KB</div><div class="meta-lbl">Saiz Fail</div></div>
+    <div class="meta-box"><div class="meta-val" id="metaChunks">—</div><div class="meta-lbl">Potongan</div></div>
+    <div class="meta-box"><div class="meta-val" id="metaPairs">—</div><div class="meta-lbl">Pasangan Dijana</div></div>
+  `;
+      $('summaryDocTitle').textContent = d.title || (file ? file.name : '—');
+      $('summaryAbstract').textContent = d.abstract || 'Tiada abstrak dijumpai.';
+      $('summaryChips').innerHTML = `
+    ${d.source ? `<span class="chip">📚 ${d.source}</span>` : ''}
+    <span class="chip">📂 ${file ? file.name : 'fail.txt'}</span>
+    <span class="chip">🌐 ${$('domain').value}</span>
+  `;
+      $('summaryCard').style.display = 'block';
+    }
+
+    function renderChunks(chunks, total) {
+      $('metaChunks').textContent = total;
+      $('chunksHeader').textContent = `Pratonton Potongan (${total} potongan akan diproses)`;
+      $('chunksList').innerHTML = chunks.map(c => `
+    <div class="chunk-item">
+      <div class="chunk-hdr">
+        <span>Potongan ${c.index}</span>
+        <span class="chunk-toggle" onclick="toggleChunk(${c.index})" id="ctog-${c.index}">Tunjuk Penuh</span>
+      </div>
+      <div class="chunk-preview" id="cprev-${c.index}">${esc(c.preview)}</div>
+      <div class="chunk-full" id="cfull-${c.index}">${esc(c.full_text)}</div>
+      <div style="font-size:.72rem;color:var(--muted);margin-top:6px">Perkataan ${c.word_range} · ${c.word_count} patah</div>
+    </div>`).join('');
+      $('chunksWrap').style.display = 'block';
+    }
+
+    function updateSummaryChips(cnt) {
+      $('metaPairs').textContent = cnt;
+    }
+
+    let activeResultTab = 'all';
+
+    function renderResults(pairs) {
+      if (!pairs.length) { $('resultsCard').style.display = 'none'; return; }
+
+      // Check if batch mode (multiple files)
+      if (batchResults.length > 1) {
+        renderResultsWithTabs();
+      } else {
+        $('resultsTabs').style.display = 'none';
+        $('resultsGrid').innerHTML = pairs.map((p, i) => `
+    <div class="qa-item">
+      <div class="q">${i + 1}. ${esc(p.question)}</div>
+      <div class="a">${esc(p.answer)}</div>
+      <div class="src">${esc(chunkLabel(p.source))}</div>
+    </div>`).join('');
+      }
+      $('resultsCard').style.display = 'block';
+    }
+
+    function renderResultsWithTabs() {
+      const tabsEl = $('resultsTabs');
+      // Build tabs: "Semua" + one per file
+      let tabsHtml = `<div class="results-tab ${activeResultTab === 'all' ? 'active' : ''}" data-tab="all">Semua<span class="tab-count">${qaPairs.length}</span></div>`;
+      batchResults.forEach((br, idx) => {
+        const tabId = 'file-' + idx;
+        const shortName = br.filename.length > 25 ? br.filename.slice(0, 22) + '...' : br.filename;
+        tabsHtml += `<div class="results-tab ${activeResultTab === tabId ? 'active' : ''}" data-tab="${tabId}">${esc(shortName)}<span class="tab-count">${br.pairs.length}</span></div>`;
+      });
+      tabsEl.innerHTML = tabsHtml;
+      tabsEl.style.display = 'flex';
+
+      // Add tab click listeners
+      tabsEl.querySelectorAll('.results-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          activeResultTab = tab.dataset.tab;
+          renderResultsWithTabs();
+        });
+      });
+
+      // Render pairs for active tab
+      let displayPairs, activeBatch = null;
+      if (activeResultTab === 'all') {
+        displayPairs = qaPairs;
+      } else {
+        const fileIdx = parseInt(activeResultTab.replace('file-', ''));
+        activeBatch = batchResults[fileIdx] || null;
+        displayPairs = activeBatch ? activeBatch.pairs : [];
+      }
+
+      // Per-file download button
+      let downloadBtnHtml = '';
+      if (activeResultTab === 'all') {
+        downloadBtnHtml = `<button class="btn btn-success" style="font-size:.78rem;padding:5px 14px" onclick="downloadBatchCSV('all')">⬇ Muat Turun Semua (${qaPairs.length})</button>`;
+      } else if (activeBatch) {
+        const fname = activeBatch.filename.length > 30 ? activeBatch.filename.slice(0, 27) + '...' : activeBatch.filename;
+        downloadBtnHtml = `<button class="btn btn-success" style="font-size:.78rem;padding:5px 14px" onclick="downloadBatchCSV('${activeResultTab}')">⬇ Muat Turun ${esc(fname)} (${displayPairs.length})</button>`;
+      }
+
+      $('resultsGrid').innerHTML =
+        `<div style="margin-bottom:8px">${downloadBtnHtml}</div>` +
+        displayPairs.map((p, i) => `
+    <div class="qa-item">
+      <div class="q">${i + 1}. ${esc(p.question)}</div>
+      <div class="a">${esc(p.answer)}</div>
+      <div class="src">${esc(chunkLabel(p.source))}${p.source_file ? ' · ' + esc(p.source_file) : ''}</div>
+    </div>`).join('');
+    }
+
+    async function downloadBatchCSV(tabKey) {
+      let pairs, csvFilename, abstract = '', source = '', source_name = '';
+      if (tabKey === 'all') {
+        pairs = qaPairs;
+        csvFilename = 'batch_qa_pairs';
+      } else {
+        const fileIdx = parseInt(tabKey.replace('file-', ''));
+        const br = batchResults[fileIdx];
+        if (!br) return;
+        pairs = br.pairs;
+        abstract = br.abstract || '';
+        source = br.source || '';
+        source_name = br.filename || '';
+        csvFilename = br.filename.replace('.txt', '') || 'qa_pairs';
+      }
+      if (!pairs.length) { showAlert('Tiada data untuk dimuat turun', 'error'); return; }
+      try {
+        const r = await fetch('/api/download-csv', {
+          method: 'POST', headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            pairs: pairs,
+            original_filename: csvFilename,
+            title: '',
+            domain: $('domain').value,
+            abstract: abstract,
+            source: source,
+            source_name: source_name
+          })
+        });
+        if (!r.ok) throw new Error('Gagal menjana CSV');
+        const blob = await r.blob(), url = URL.createObjectURL(blob), a = document.createElement('a');
+        a.href = url;
+        a.download = csvFilename.replace(/[^\w\-\s]/g, '').replace(/\s+/g, '_') + '.csv';
+        document.body.appendChild(a); a.click(); URL.revokeObjectURL(url); document.body.removeChild(a);
+        showAlert('Fail CSV berjaya dimuat turun!', 'success');
+      } catch (e) { showAlert('Ralat: ' + e.message, 'error'); }
+    }
+
+    function chunkLabel(src) {
+      if (!src) return '';
+      return src.includes('Chunk ') ? 'Potongan ' + src.split('Chunk ')[1] : src;
+    }
+
+    function esc(s) { return (s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+
+    // ─── Prefilter toggle ───
+    $('prefilterToggle').addEventListener('click', () => {
+      const b = $('prefilterBody');
+      b.style.display = b.style.display === 'none' ? 'block' : 'none';
+    });
+
+    function toggleChunk(idx) {
+      const f = $(`cfull-${idx}`), t = $(`ctog-${idx}`);
+      f.classList.toggle('open');
+      t.textContent = f.classList.contains('open') ? 'Sembunyi' : 'Tunjuk Penuh';
+    }
+
+    // ─── Loading state ───
+    function setLoading(on) {
+      if (on) {
+        progWrap.classList.add('show'); progFill.style.width = '15%';
+        generateBtn.disabled = true; generateNextBtn.disabled = true;
+      } else {
+        setTimeout(() => { progWrap.classList.remove('show'); progFill.style.width = '0'; }, 600);
+      }
+    }
+
+    // ─── Alert ───
+    function showAlert(msg, type) {
+      alertBox.textContent = msg;
+      alertBox.className = `alert alert-${type} show`;
+      clearTimeout(alertBox._t);
+      alertBox._t = setTimeout(() => alertBox.classList.remove('show'), 5000);
+    }
+
+    // ─── Quiz engine ───
+    startQuizBtn.addEventListener('click', startQuiz);
+    quitQuizBtn.addEventListener('click', () => {
+      $('quizCard').style.display = 'none';
+      $('resultsCard').style.display = 'block';
+    });
+
+    function buildQuizQuestions(pairs) {
+      // Build MCQ: 1 correct + 3 distractors from other answers
+      const allAnswers = pairs.map(p => p.answer);
+      return pairs.map((p, i) => {
+        const correct = p.answer;
+        const distractors = allAnswers.filter((_, j) => j !== i).sort(() => Math.random() - .5).slice(0, 3);
+        const opts = [correct, ...distractors].sort(() => Math.random() - .5);
+        return { question: p.question, context: p.answer, correct, opts };
+      }).sort(() => Math.random() - .5);
+    }
+
+    function startQuiz() {
+      if (qaPairs.length < 2) { showAlert('Perlu sekurang-kurangnya 2 pasangan Q&A untuk kuiz', 'error'); return; }
+      quizQuestions = buildQuizQuestions(qaPairs);
+      quizIdx = 0; quizScore = 0;
+      $('resultsCard').style.display = 'none';
+      $('quizCard').style.display = 'block';
+      renderQuizQuestion();
+      window.scrollTo({ top: $('quizCard').offsetTop - 20, behavior: 'smooth' });
+    }
+
+    function renderQuizQuestion() {
+      const total = quizQuestions.length;
+      if (quizIdx >= total) { renderScoreScreen(); return; }
+      const q = quizQuestions[quizIdx];
+      const pct = Math.round((quizIdx / total) * 100);
+      $('quizBody').innerHTML = `
+    <div class="quiz-header">
+      <span class="quiz-counter">Soalan ${quizIdx + 1} daripada ${total}</span>
+      <span class="quiz-score-live">✓ ${quizScore} betul</span>
+    </div>
+    <div class="quiz-progress"><div class="quiz-progress-fill" style="width:${pct}%"></div></div>
+    <div class="quiz-q">${esc(q.question)}</div>
+    <div class="options" id="optList">
+      ${q.opts.map((o, i) => `
+        <button class="opt" id="opt-${i}" onclick="selectOpt(${i})">
+          <span class="opt-lbl">${LABELS[i]}</span>
+          <span>${esc(o)}</span>
+        </button>`).join('')}
+    </div>
+    <div class="feedback" id="feedback"></div>
+    <div class="quiz-nav">
+      <button class="btn btn-primary" id="nextBtn" style="display:none" onclick="nextQuestion()">
+        ${quizIdx + 1 < total ? 'Soalan Seterusnya →' : 'Lihat Keputusan 🏁'}
+      </button>
+    </div>
+  `;
+    }
+
+    function selectOpt(i) {
+      const q = quizQuestions[quizIdx];
+      const opts = document.querySelectorAll('.opt');
+      opts.forEach(o => o.classList.add('locked'));
+      const chosen = q.opts[i];
+      const correct = chosen === q.correct;
+      if (correct) quizScore++;
+      // Mark chosen
+      const chosenEl = $(`opt-${i}`);
+      chosenEl.classList.add(correct ? 'correct' : 'wrong');
+      // If wrong, reveal correct
+      if (!correct) {
+        q.opts.forEach((o, j) => {
+          if (o === q.correct) $(`opt-${j}`).classList.add('reveal');
+        });
+      }
+      // Feedback
+      const fb = $('feedback');
+      fb.className = `feedback show ${correct ? 'ok' : 'fail'}`;
+      fb.textContent = correct ? '✓ Betul! Tahniah.' : '✗ Salah. Jawapan yang betul telah ditandakan.';
+      $('nextBtn').style.display = 'flex';
+    }
+
+    function nextQuestion() {
+      quizIdx++;
+      renderQuizQuestion();
+    }
+
+    function renderScoreScreen() {
+      const total = quizQuestions.length;
+      const pct = Math.round((quizScore / total) * 100);
+      const emoji = pct >= 90 ? '🏆' : pct >= 70 ? '🎉' : pct >= 50 ? '👍' : '💪';
+      const msg = pct >= 90 ? 'Cemerlang!' : pct >= 70 ? 'Bagus sekali!' : pct >= 50 ? 'Tidak mengapa, teruskan berlatih!' : 'Jangan putus asa, cuba lagi!';
+      $('quizBody').innerHTML = `
+    <div class="score-screen">
+      <span class="score-emoji">${emoji}</span>
+      <div class="score-pct">${pct}%</div>
+      <div class="score-lbl">${msg}</div>
+      <div class="score-detail">
+        <span><strong>${quizScore}</strong> / ${total} betul</span>
+        <span><strong>${total - quizScore}</strong> salah</span>
+      </div>
+      <div class="btn-row" style="justify-content:center">
+        <button class="btn btn-primary" onclick="startQuiz()">↺ Cuba Lagi</button>
+        <button class="btn btn-outline" onclick="() => {$('quizCard').style.display='none';$('resultsCard').style.display='block';}">← Kembali ke Senarai</button>
+      </div>
+    </div>`;
+    }
+
+    // ─── Keyboard shortcuts for quiz ───
+    document.addEventListener('keydown', e => {
+      if ($('quizCard').style.display === 'none') return;
+      const map = { '1': 0, '2': 1, '3': 2, '4': 3, 'a': 0, 'b': 1, 'c': 2, 'd': 3 };
+      const idx = map[e.key.toLowerCase()];
+      if (idx !== undefined) {
+        const opt = $(`opt-${idx}`);
+        if (opt && !opt.classList.contains('locked')) opt.click();
+      }
+      if ((e.key === 'Enter' || e.key === 'ArrowRight')) {
+        const nb = $('nextBtn');
+        if (nb && nb.style.display !== 'none') nb.click();
+      }
+    });
+
+    // ─── Connection check ───
+    async function checkConn() {
+      connBadge.className = 'badge badge-wait'; connBadge.textContent = 'Menyemak…';
+      try {
+        const r = await fetch('/api/verify-connection');
+        const d = await r.json();
+        if (d.connected) {
+          connBadge.className = 'badge badge-ok'; connBadge.textContent = '✓ Disambungkan';
+          if (fileInput.files[0]) generateBtn.disabled = false;
+        } else {
+          connBadge.className = 'badge badge-err'; connBadge.textContent = '✗ Tidak disambungkan';
+          let msg = d.error || 'Ralat tidak diketahui';
+          if (d.is_rate_limit) msg = 'Had kadar melebihi had. Cuba lagi kemudian.';
+          else if (d.is_auth_error) msg = 'Kunci API tidak sah. Semak fail .env.';
+          showAlert('Ralat API AI: ' + msg, 'error');
+        }
+      } catch (e) {
+        connBadge.className = 'badge badge-err'; connBadge.textContent = '✗ Ralat';
+        showAlert('Gagal mengesahkan sambungan: ' + e.message, 'error');
+      }
+    }
+    checkConn();
+
+    // Fix back button in score screen (inline function workaround)
+    window.quizBack = () => { $('quizCard').style.display = 'none'; $('resultsCard').style.display = 'block'; };
+  </script>
+</body>
+
+</html>

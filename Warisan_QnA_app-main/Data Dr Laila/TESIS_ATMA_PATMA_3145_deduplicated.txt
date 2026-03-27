@@ -1,0 +1,1109 @@
+iii Syukur segala puji bagi Allah S.W.T kerana memberikan saya kekuatan dan kesihatan yang baik, masa yang cukup dan kematangan fikiran bagi menyiapkan kajian ini seperti yang telah tertulis dalam cetakan ini.
+Ucapan terima kasih yang tidak terhingga dan rasanya tidak mampu untuk membalas segala jasanya hingga akhir hayat saya kepada penyelia, Prof. Zuliskandar Ramli atas bantuan, tunjuk ajar, perahan keringat, teguran dan nasihat yang sangat berguna sepanjang kajian ini dilakukan.
+Tidak lupa juga diucapkan jutaan terima kasih kepada Pusat Penelitian Arkeologi Nasional Indonesia kerana mengizinkan kajian ini dilakukan terhadap tapak candi di bawah jagaan mereka.
+Ucapan jutaan terima kasih kepada Bapak Budi kerana secara sukarela membawa penulis melawat kawasan percandian, tapak pembuatan bata dan juga beberapa kawasan yang dirasakan perlu bagi memenuhi keperluan kajian ini.
+Abdul Hamid Othman, Penolong Pegawai Sains Kanan Pusat Pengajian Sains Sekitaran & Sumber Alam, Fakulti Sains & Teknologi, UKM atas bantuan dan tunjuk ajar berkenaan mineral.
+Terima kasih juga diucapkan kepada Cik Norhashimah dan En.
+Mohd Riduan Mt Said, Pegawai Sains di Makmal Pencirian Fizikal, Pusat Pengurusan Penyelidikan dan Instrumentasi, UKM atas bantuan terhadap penggunaan radas XRF dan XRD.
+Ucapan terima kasih tidak terhingga juga diucapkan kepada ibu, Ainon bt Manap dan ayah, Mohd Ali bin Mohammed yang memberi sokongan sejak awal kajian ini dilakukan.
+Kepada rakan sekerja di Institut Alam & Tamadun Melayu, UKM dan juga kumpulan Legasi Panji Pendeta, diucapkan berbanyak-banyak terima kasih atas sokongan dan bantuan kalian atas kejayaan menghasilkan kajian ini.
+iv Kompleks Percandian Batujaya terletak dalam daerah Kabupaten Karawang, pantai utara Jawa Barat.
+Kompleks percandian ini terletak dalam dua kawasan pentadbiran desa iaitu Desa Segaran dan Desa Telagajaya.
+Terdapat lebih daripada 20 buah runtuhan bangunan bata yang merupakan monumen candi tersebar dalam lingkungan 5 km persegi yang mana kawasan ini terdiri daripada sawah padi.
+Dalam kajian ini, tumpuan utama diberikan kepada kearifan masyarakat tempatan dalam teknologi pembuatan bata sebagai bahan binaan utama monumen candi di Kompleks Percandian Batujaya.
+Kajian ini dilakukan dengan menggunakan dua sumber iaitu sumber pertama dalam bentuk data saintifik yang didapati daripada hasil analisis kandungan kimia bata dan sumber kedua adalah melalui penulisan-penulisan awal yang telah dibuat oleh pengkaji sebelum ini.
+Analisis kandungan kimia sebagai sumber pertama diperoleh daripada dua kaedah iaitu dengan menggunakan radas Sinar-X Terbelau (XRD) untuk mendapatkan kandungan mineral bata dan Sinar-X Berpendarflor (XRF) untuk mendapatkan maklumat unsur utama serta unsur surih bata.
+Bata daripada enam buah candi dipilih sebagai sampel kajian ini.
+Candi yang dipilih adalah Candi Jiwa, Candi Blandongan, Candi Asem, Candi Damar, Candi Lingga dan Candi Serut B.
+Analisis kandungan mineral bata mendapati terdapatnya mineral anortit dan hematit pada kebanyakan bata.
+Ini menunjukkan bata telah dibakar pada suhu melebihi 850oC.
+Ini menunjukkan bahan mentah yang digunakan mempunyai kandungan pasir yang tinggi.
+Taburan sampel secara berkelompok menunjukkan sampel bahan mentah yang digunakan untuk membuat bata diambil daripada kawasan yang sama atau berhampiran.
+Perbandingan taburan antara sampel bata dan juga sampel lempung dari kawasan sekitaran Kompleks Percandian Batujaya menunjukkan terdapatnya persamaan dalam kandungan unsur utama pada kedua-dua sampel.
+Ini membuktikan bahan mentah yang digunakan dalam pembuatan bata diambil dari kawasan sekitar Kompleks Percandian Batujaya.
+Penggunaan bahan mentah setempat dapat membuktikan peranan masyarakat tempatan dalam membina dan membangunkan monumen candi di Kompleks Percandian Batujaya.
+vi Halaman ii iii iv v xi xiii xvi 1.1 Pengenalan 1.2 Latar Belakang Kajian 1.3 Permasalahan Kajian 1.4 Tujuan Kajian 1.5 Kepentingan Kajian 1.6 Organisasi Penulisan 1.7 Rumusan Arkeologi Sebagai Satu Disiplin 2.3 Peranan Sains Dalam Penyelidikan Arkeologi 2.4 Catatan Mengenai Jawa Barat 2.5 Ajaran Buddha di Jawa vii 2.6 Candi Istilah Candi Fungsi Candi 2.7 Bata Sebagai Bahan Binaan Candi 2.8 Penyelidikan Arkeologi di Batujaya Candi Jiwa (SEG I) Candi Damar (SEG III) Candi Blandongan (SEG V) Candi Serut (TLJ I) Candi Lingga (TLJ II) Candi Asem (TLJ V) 2.9 Kajian Saintifik Artifak di Batujaya Bata 2.10 Rumusan KAWASAN, Pengenalan 3.2 Kawasan Kajian 3.3 Kaedah dan Reka Bentuk Kajian 3.4 Teknik-teknik Analisis 3.5 Tapak Kajian dan Sumber Bata 3.6 Bahan untuk Analisis 3.7 Persampelan dan Label Sampel Pengendalian sampel viii 3.8 Ujian dan Teknik Analisis Analisis Belauan Sinar-X (XRD) Sinar-X Berpendarflour (XRF) 3.9 Tafsiran Data 3.10 Rumusan 4.1 Pengenalan 4.2 Cirian Fizikal Bata 4.3 Hasil Analisis Cirian kandungan kimia Candi Jiwa a.
+Kandungan mineral bata Candi Jiwa b.
+Kepelbagaian geokimia bata Candi Jiwa c.
+Kandungan unsur surih bata Candi Jiwa d.
+Kesimpulan Cirian kandungan kimia Candi Blandongan Kandungan mineral bata Candi Blandongan Kepelbagaian geokimia bata Candi Blandongan Kandungan unsur surih bata Candi Blandongan Cirian kandungan kimia Candi Asem Kandungan mineral bata Candi Asem Kepelbagaian geokimia bata Candi Asem Kandungan unsur surih bata Candi Asem Cirian kandungan kimia Candi Damar Kandungan mineral bata Candi Damar ix b.
+Kesimpulan Cirian kandungan kimia Candi Lingga a.
+Kandungan mineral bata Candi Lingga Kepelbagaian geokimia bata Candi Lingga Kandungan unsur surih bata Candi Lingga Cirian kandungan kimia Candi Serut B Kandungan mineral bata Candi Serut B Kepelbagaian geokimia bata Candi Serut B Kandungan unsur surih bata Candi Serut B 4.4 Rumusan , Pengenalan 5.2 Tanah Liat sebagai Bahan Asas Pembuatan Bata Kuartza Feldspar Kaolinit Mika 5.3 Persampelan 5.4 Analisis Warna 5.5 Kandungan Mineral Tanah Liat 5.6 Kepelbagaian Geokimia Tanah Liat 5.7 x 6.1 Pengenalan 6.2 Batu Bangunan Candi di Batujaya 6.3 Kelestarian Pembuatan Bata Masyarakat Tempatan 6.4 Rumusan 7.1 Pendahuluan 7.2 Analisis Fizikal dan Kandungan Kimia Bata 7.3 Analisis Kandungan Mineral Bata 7.4 Analisis Kepelbagaian Geokimia Bata Candi 7.5 Kelestarian Pembuatan Bata Masyarakat Kini 7.6 A Kandungan mineral batu bata di Candi Jiwa B Kandungan mineral batu bata di Candi Blandongan C Kandungan mineral batu bata di Candi Asem D Kandungan mineral batu bata di Candi Damar E Kandungan mineral batu bata di Candi Lingga F Kandungan mineral batu bata di Candi Serut B xi No. Jadual Halaman Perbandingan Kandungan Unsur Kimia dalam Sampel Bata dari tapak SEG V dan TLJ I-A Bata dari tapak SEG I dengan sampel tanah kawasan sekitaran Label sampel mengikut candi yang dipilih Kandungan mineral batu bata di Candi Jiwa Kandungan Unsur Utama Dalam Sampel Bata Candi Jiwa Kandungan Unsur Surih Dalam Sampel Bata Candi Jiwa Kandungan mineral batu bata di Candi Blandongan Kandungan Unsur Utama Dalam Sampel Bata Candi Blandongan Kandungan Unsur Surih Dalam Sampel Bata Candi Blandongan Kandungan mineral batu bata di Candi Asem Kandungan Unsur Utama Dalam Sampel Bata Candi Asem Kandungan Unsur Surih Dalam Sampel Bata Candi Asem Kandungan mineral batu bata di Candi Damar Kandungan Unsur Utama Dalam Sampel Bata Candi Damar Kandungan Unsur Surih Dalam Sampel Bata Candi Damar Kandungan mineral batu bata di Candi Lingga Kandungan Unsur Utama Dalam Sampel Bata Candi Lingga Kandungan Unsur Surih Dalam Sampel Bata Candi Lingga Kandungan mineral batu bata di Candi Serut B Kandungan Unsur Utama Dalam Sampel Bata Candi Serut B Kandungan Unsur Surih Dalam Sampel Bata Candi Serut B Label bagi sampel tanah liat dan keterangannya Keterangan warna berdasarkan Munsell Soils Colour Chart xii Kandungan mineral tanah liat di kawasan percandian Kandungan unsur utama dalam sampel tanah liat Kandungan unsur surih dalam sampel tanah liat xiii No. Rajah Halaman Rajah 2.1 Peta Jumpaan Artifak Inskripsi, Arca dan Bangunan Candi di Jawa Barat, Banten dan Jakarta Rajah 2.2 Lokasi Kawasan Tapak Arkeologi Batujaya Rajah 2.3 Lakaran Candi SEG I daripada atas Rajah 2.4 Lakaran Candi SEG V daripada atas Rajah 2.5 Lakaran Candi TLJ I-B daripada sisi Rajah 2.6 Lakaran fasa pembinaan Candi TLJ V Rajah 2.7 Lakaran bata segi empat memanjang Rajah 2.8 Lakaran bata separa melengkung Rajah 3.1 Kerangka reka bentuk kajian Rajah 3.2 Belauan sinar-X Rajah 3.3 Penyimpangan sinar tuju setelah mengalami pembelauan Rajah 4.1 Corak belauan XRD bata Candi Jiwa Rajah 4.2 Kandungan peratusan berat kering SiO2 dan Al2O3 dalam sampel bata Candi Jiwa dan lempung di sekitar kawasan percandian Rajah 4.3 Kandungan peratusan berat kering MgO dan TiO2 dalam Rajah 4.4 Corak belauan XRD bata Candi Blandongan Rajah 4.5 sampel bata Candi Blandongan dan lempung di sekitar kawasan Rajah 4.6 Rajah 4.7 Corak belauan XRD bata Candi Asem xiv Rajah 4.8 Kandungan peratusan berat kering SiO2 dan Al2O3 dalam sampel bata Candi Asem dan lempung di sekitar kawasan percandian Rajah 4.9 Kandungan peratusan berat kering MgO dan TiO2 dalam Rajah 4.10 Corak belauan XRD bata Candi Damar Rajah 4.11 sampel bata Candi Damar dan lempung di sekitar kawasan Rajah 4.12 Rajah 4.13 Corak belauan XRD bata Candi Lingga Rajah 4.14 sampel bata Candi Lingga dan lempung di sekitar kawasan Rajah 4.15 Rajah 4.16 Corak belauan XRD bata Candi Serut B Rajah 4.17 sampel bata Candi Serut B dan lempung di sekitar kawasan Rajah 4.18 No. Gambar Gambar 2.1 Pandangan sisi Candi SEG I yang telah dibangunkan semula Gambar 2.2 Pandangan sisi tapak Candi SEG III yang dibiarkan in situ Gambar 2.3 Pandangan sisi Candi SEG V Gambar 2.4 Pecahan bata yang mengandungi sekam padi xv Gambar 6.1 Ukuran saiz bata candi Batujaya Gambar 6.2 Kesan surihan sekam padi pada bata Gambar 6.3 Sekam padi yang masih terdapat pada bata candi di Batujaya Gambar 6.4 Bancuhan tanah liat, air dan sekam padi Gambar 6.5 Bancuhan adunan tanah liat dan sekam padi Gambar 6.6 Bata yang telah dikeluarkan daripada acuan Gambar 6.7 Pengeringan bata di bawah pancaran matahari Gambar 6.8 Susunan bata setelah dibakar Gambar 6.9 Sekam padi yang digunakan dalam pembakaran dan bancuhan Gambar 6.10 Susunan bata sebelum dibakar xvi ppm mikro gram per gram Fakultas Sastera Universitas Indonesia Badan Koordinasi Survei dan Pemetaan Nasional Universitas G adjah Mada Segaran (nama tapak dan candi) Telagajaya (nama tapak dan candi) Puslit Arkenas Pusat Penelitian Arkeologi Nasional Lembaga Penelitian U niversitas Indonesia FIB-UI Fakultas Ilmu Pengetahuan Budaya Universitas Indonesia km2 kilo meter persegi C14 isotop karbon-14 (pentarikhan kronometrik) X-Ray Diffraction X-Ray Fluorescence SM Sebelum Masihi M Masihi km kilo m eter Ditlinbinjarah Direktorat Perlindungan dan Pembinaan Peninggalan Sejarah da n Purbakala Daerah A liran Sungai oC Darjah Celcius (sukatan suhu) cm sentimeter 1.1 Arkeologi merupakan satu bidang ilmu yang luas.
+Ia terbahagi kepada beberapa pecahan seperti arkeologi prasejarah, protosejarah, arkeologi industri, etno-arkeologi, arkeologi maritim, dan arkeologi sejarah.
+Arkeologi berasal daripada dua perkataan dalam bahasa Yunani iaitu arkeos (purba, tua) dan logos (kajian) iaitu menjadi kajian purba. Kajian dalam bidang arkeologi merupakan suatu bidang yang boleh menyumbang maklumat dan pengetahuan mengenai masa lalu.
+Melalui bidang arkeologi, dapat diketahui berkenaan dengan tamadun awal manusia dengan melihat tatasusunan zaman bermula daripada zaman prasejarah hinggalah zaman sejarah.
+Arkeologi meningkatkan kesedaran tentang gambaran yang mengasyikkan, jumpaan yang menarik, misteri masa silam, kemahiran purba, kerja-kerja penyelidikan yang teliti dan publisiti.
+Penyelidikan arkeologi merupakan salah satu kaedah penting untuk membina semula sejarah dan kebudayaan bangsa dan negara.
+Penemuan yang dibuat oleh ahli arkeologi menunjukkan kehidupan dan ciptaan masyarakat zaman lampau untuk meneruskan kehidupan mereka, seterusnya membongkar kehebatan manusia pada waktu itu.
+Ini boleh menjadikan sesebuah bangsa mengenang kembali kehebatan bangsa mereka pada masa lampau yang telah dikaburi oleh pengaruh penjajah, seterusnya membangun kembali kegemilangan bangsanya.
+Kawasan percandian Batujaya terletak dalam daerah Kabupaten Karawang, pantai utara Jawa Barat.
+Runtuhan bangunan yang dikenal pasti telah tertimbun dengan tanah dan sebahagiannya boleh dilihat membentuk kawasan perbukitan kecil dengan ketinggian antara 1 hingga 4 meter dan berdiameter sekitar 5-100 meter dalam kawasan persawahan ini.
+Penelitian secara saintifik masih kurang dijalankan terhadap tapak-tapak yang terdapat di kawasan Percandian Batujaya.
+Kajian menggunakan analisis saintifik dilakukan untuk mengukuhkan lagi data arkeologi yang sedia ada.
+Analisis saintifik yang dilakukan terhadap bata dan tanah yang terdapat di sekitar kawasan percandian untuk membuktikan bahan mentah tempatan digunakan dalam pembuatan batu bata candi.
+Hasil analisis dapat membuktikan sumbangan masyarakat tempatan terhadap pembangunan kawasan percandian Batujaya.
+Analisis ini juga dapat mengesahkan Akulturasi Budaya India dan juga Transformasi Ilmu India kepada masyarakat tempatan yang diperkenalkan oleh Zuliskandar Ramli.
+Pengujian terhadap dua teori yang digunakan dalam kajian ini iaitu Teori Kolonisasi India yang diperkenalkan oleh Quaritch-Wales dan Teori Pemperibumian Budaya India yang diutarakan oleh Nik Hassan Shuhaimi terhadap masyarakat di Batujaya.
+Penggunaan analisis saintifik merupakan kaedah yang sesuai untuk menentukan komposisi geokimia setiap sampel bata daripada tapak kajian.
+Bata daripada bangunan candi digunakan sebagai sampel utama kerana bata merupakan bahan binaan utama dalam pembinaan candi dan bata juga merupakan bahan yang paling banyak dijumpai di kawasan kajian.
+Kajian kandungan kimia bahan melibatkan analisis kandungan mineral yang terdapat dalam sampel bata.
+Di samping itu, kandungan unsur utama dan juga unsur surih dalam sampel batuan purba tersebut juga di analisis.
+Hasil daripada penelitian saintifik tersebut, dapatlah diketahui sama ada terdapat penggunaan tanah liat setempat dalam proses membuat batu bata yang digunakan untuk membina bangunan candi.
+Dapatlah dibuat kesimpulan awal jika tanah liat setempat digunakan, maka masyarakat tempatan juga terlibat dalam pembinaan bangunan candi.
+Ini menunjukkan masyarakat tempatan juga telah mempunyai teknologi dan kepakarannya tersendiri dalam pembuatan batu bata serta dalam pembinaan candi walaupun terdapat manual untuk membina candi dibawa daripada India iaitu kitab Silpa Sastras.
+Kebanyakan kajian yang dilakukan di Kompleks Percandian Batujaya ini hanya membincangkan mengenai binaan candi atau jumpaan artifak arkeologi yang terdapat dalam kawasan candi dan sekitarnya.
+Penelitian secara saintifik masih kurang dilakukan oleh para pengkaji.
+Penelitian secara saintifik terhadap bahan binaan utama bangunan candi iaitu bata dilakukan melalui analisis komposisi kimia dengan mendapatkan kandungan mineral dalam sampel bata tersebut.
+Selain kandungan mineral, kandungan unsur utama dan juga unsur surih bata turut didapatkan.
+Penelitian ini penting untuk mengetahui sumber tanah liat yang digunakan untuk membuat bata bangunan candi tersebut.
+Hasil penelitian ini akan memberi maklumat berkenaan penglibatan masyarakat tempatan secara langsung dalam pembangunan kawasan percandian Batujaya jika terbukti penggunaan tanah liat setempat digunakan.
+Semua binaan candi yang ditemui di Batujaya dibina dengan menggunakan bata walaupun terdapat juga bahan lain yang digunakan dalam pembinaan bangunan candi seperti batu, stuko, genting dan kayu.
+Bahan lain ini dijumpai secara terhad.
+Walaupun bangunan candi telah tertimbus, namun bata yang terdapat pada runtuhan candi itu masih menampakkan keutuhannya yang membolehkan ia terus kekal dalam keadaan asal ataupun masih menampakkan bentuk struktur binaan jika binaan asalnya telah runtuh.
+Pendekatan saintifik yang dijalankan memberi tumpuan kepada analisis kandungan kimia bata tersebut bagi menentukan sumber tanah liat dalam pembuatan batu bata tersebut.
+Pendekatan saintifik dan arkeologi dalam kajian ini digunakan untuk membuktikan peranan masyarakat tempatan dalam pembinaan candi.
+Daripada analisis saintifik juga dapat dibuktikan tahap penguasaan teknologi pembuatan bata oleh penduduk tempatan Batujaya terutamanya pada masa pembinaan bangunan candi.
+Analisis saintifik juga dapat membuktikan tahap penguasaan pengetahuan seperti teknologi pembinaan bangunan dan juga teknologi pembuatan bahan binaan serta pengambilan sumber tanah liat setempat dalam menghasilkan bahan binaan utama candi.
+Kompleks Percandian Batujaya merupakan salah satu daripada tapak percandian yang terdapat di daerah Kerawang selain daripada tapak percandian di Cibuaya.
+Hampir keseluruhan tapak candi yang terdapat dalam Kompleks Percandian Batujaya dibina daripada bata.
+Bata yang digunakan dalam pembinaan candi perlu diuji sama ada ia dibuat dengan menggunakan bahan mentah yang berada di sekitar kawasan percandian atau pun tidak.
+Ini untuk melihat sumbangan masyarakat setempat dalam pembangunan kawasan percandian di Batujaya.
+Ini kerana jika terdapat bukti bata bagi pembinaan candi menggunakan tanah liat setempat sebagai bahan mentahnya, dapatlah dibuat satu andaian bahawa masyarakat setempat merupakan masyarakat pembina candi yang terdapat di Kompleks Percandian Batujaya.
+Di samping itu, dapat juga dibuat satu andaian bahawa masyarakat setempat telah mengetahui kaedah menggunakan tanah liat untuk membuat bata dan juga dapat mengawal api untuk membakar bata tersebut.
+Kajian yang dilakukan terhadap batu bata candi purba di Batujaya, Jawa Barat boleh dikatakan untuk pembinaan semula sejarah kebudayaan daerah pantai utara Jawa Barat.
+Pembinaan semula sejarah di kawasan ini adalah kerana Djafar berpendapat kawasan ini telah mula dihuni sejak daripada masa akhir prasejarah sehinggalah di akhir perkembangan Kerajaan Tarumanagara yang meliputi awal Masihi sehinggalah abad ke- 10.
+Masyarakat prasejarah di kawasan ini telah terbukti menguasai teknologi pembuatan tembikar.
+Oleh yang demikian, boleh dipastikan bahawa masyarakat setempat telah mengetahui tentang penggunaan tanah liat dan juga kaedah pengawalan api.
+Aspek teknologi yang dibincangkan adalah berkaitan dengan pengetahuan dan kemampuan masyarakat setempat untuk membuat bahan binaan bangunan candi.
+Aspek teknologi tersebut adalah seperti teknologi dan pengetahuan berkenaan pembinaan bangunan, teknologi dan pengetahuan berkenaan pembuatan bahan binaan seperti bata, pemilihan tanah liat yang digunakan untuk membuat bata bangunan candi ini diambil daripada sumber sekitar kawasan percandian dan pengetahuan masyarakat tempatan dalam pembuatan bata untuk pembinaan candi.
+Dalam penghasilan bata, pembuat bata haruslah mahir dan mempunyai pengetahuan dalam kaedah pembuatannya serta mengetahui bahan mentah yang sesuai untuk membuatnya.
+Ini kerana bata merupakan bahan binaan utama bagi pembinaan bangunan rumah ibadat mereka yang sangat dihormati.
+Penggunaan bahan mentah, acuan dan kaedah pembakaran merupakan ilmu pengetahuan yang penting dan perlu dikuasai oleh para pembuat bata.
+Teknologi pembuatan bata amat penting kerana jika salah perkiraan semasa pembakaran atau adunan bahan mentah, bata yang terhasil akan mudah pecah dan ini tentunya akan merosakkan struktur rumah ibadat mereka.
+Sifat yang terhasil pada bata boleh dikawal dengan pengawalan suhu pembakaran bata.
+Ini juga dapat dilihat dengan mengetahui kandungan mineral yang terdapat dalam sampel bata yang dikaji.
+Kajian ini bertujuan untuk menentukan penggunaan bahan mentah tempatan dalam pembuatan bata candi yang terdapat di Batujaya.
+Jika terbukti bata dibuat daripada bahan mentah tempatan, ini boleh dijadikan andaian bahawa masyarakat tempatan di kawasan Batujaya telah mempunyai ilmu pengetahuan dalam pembuatan bata seterusnya merupakan masyarakat yang bertanggungjawab dalam pembinaan candi dan juga telah menguasai pengetahuan berkenaan pemilihan bahan mentah untuk membuat bahan binaan.
+Jika tiada bukti penggunaan bahan mentah tempatan digunakan dalam bahan pembinaan bangunan candi, boleh diandaikan bahawa masyarakat tempatan mempunyai hubungan dagang dengan pihak luar untuk membawa masuk bahan binaan untuk pembinaan candi.
+Penentuan penggunaan bahan mentah tempatan boleh dilakukan dengan kaedah analisis saintifik iaitu, i.
+Menganalisis pencirian mineral yang terdapat dalam bata candi dan tanah liat yang diambil sekitar kawasan percandian.
+Menganalisis kandungan geokimia bata candi dan tanah liat yang terdapat di sekitar kawasan percandian.
+Menganalisis kelestarian pembuatan bata yang dilakukan masyarakat tempatan di sekitar kawasan candi.
+Antara kepentingan kajian ini adalah; a) Dapat memastikan dan menentukan penggunaan bahan mentah tempatan dalam pembuatan bahan binaan candi di kawasan percandian Batujaya.
+Ini kerana tiada tumpuan dalam penelitian bahan mentah yang digunakan dalam pembuatan bahan binaan candi oleh pengkaji sebelum ini.
+Kajian ini diharapkan dapat memberi maklumat tambahan berkenaan penggunaan bahan mentah yang digunakan dalam pembuatan bahan binaan bangunan candi. b) Daripada maklumat berkenaan penggunaan bahan mentah bahan binaan candi, dapatlah diandaikan bagaimana tahap dan tingkatan ilmu pengetahuan masyarakat tempatan dalam ilmu dan teknologi pembuatan bahan binaan serta penggunaan bahan mentah yang terdapat di sekitar mereka.
+Daripada maklumat ini juga dapat dipastikan sama ada sumbangan masyarakat tempatan dalam pembinaan bangunan candi di kawasan percandian Batujaya ini.
+Penulisan bagi kajian ini akan dilakukan dengan 7 bab.
+Bab yang pertama terdiri daripada pengenalan kepada arkeologi, penggunaan sains dalam arkeologi, latar belakang kajian, latar belakang tapak yang dikaji, permasalahan kajian dan juga tujuan kajian ini dilakukan.
+Kajian kepustakaan berkenaan maklumat berkenaan tapak kajian, data-data yang telah didapatkan sebelum ini oleh pengkaji awal akan dinyatakan dalam bab kedua.
+Dalam bab ketiga pula, dinyatakan mengenai kawasan kajian dan juga kaedah yang digunakan dalam kajian ini.
+Bab keempat pula menyatakan berkenaan hasil analisis dan juga perbincangan yang perlu untuk menguatkan hujah.
+Bab kelima merupakan analisis kandungan kimia tanah liat di kawasan sekitar kompleks percandian manakala bab keenam merupakan perbincangan mengenai kelestarian pembuatan bata oleh masyarakat Daripada maklumat berkenaan penggunaan bahan mentah bahan binaan candi, setempat di Batujaya pada masa kini.
+Bab ketujuh pula merupakan kesimpulan secara keseluruhan bagi kajian ini.
+Akulturasi Budaya India dan Transformasi Ilmu kepada masyarakat tempatan antara budaya yang ingin ditonjolkan sebagai kesimpulan awal dalam kajian ini dengan bersandarkan kepada maklumat dalam bentuk sumber pertama seperti hasil analisis secara saintifik dan juga sumber kedua seperti hasil penerbitan penyelidik terawal.
+Dua teori utama perlu diuji iaitu Teori Kolonisasi dan Teori Pemperibumian Budaya India terhadap masyarakat Batujaya akan dilakukan.
+Sokongan atau bangkangan terhadap kedua teori tersebut akan berpandukan kepada bukti-bukti yang akan dinyatakan dan dibincangkan dalam kajian ini.
+Penggunaan kaedah saintifik dalam kajian arkeologi sangat diperlukan untuk menguatkan lagi hujah daripada data arkeologi.
+Ahli arkeologi perlulah bersedia menggunakan kelebihan kajian saintifik dalam kajian mereka supaya maklumat yang diperoleh daripada kajian arkeologi tersebut lebih kukuh dan dipercayai.
+Hasil daripada analisis saintifik yang dilakukan akan menguatkan lagi hujah sama ada hendak menerima atau menolak pandangan berkenaan Akulturasi Budaya India dan Transformasi Ilmu kepada masyarakat tempatan antara budaya seterusnya penerimaan dan bangkangan terhadap teori yang dikemukakan dapat dilakukan dengan hujah yang lebih kukuh.
+Dalam bab ini, kajian lepas yang telah dilakukan oleh penyelidik sebelum akan dibincangkan dengan lebih lanjut.
+Penyelidikan yang telah dilakukan akan dibincangkan tentang penyelidikan arkeologi yang telah dilakukan di Batujaya.
+Perbincangan seterusnya adalah mengenai pendekatan saintifik yang telah digunakan dalam membantu dan mengesahkan penyelidikan arkeologi.
+Penyelidikan yang dilakukan ini akan menggunakan maklumat arkeologi yang sudah dibuat oleh penyelidik terdahulu untuk menyokong teori yang dikemukakan manakala kajian saintifik seperti kajian kandungan kimia bahan sebagai pelengkap kepada data arkeologi.
+Beberapa pendapat mengenai kawasan Batujaya akan dibincangkan dengan menggunakan teori utama seperti Teori Kolonisasi oleh Quaritch-Wales dan Teori Pemperibumian Budaya India oleh Nik Hassan Shuhaimi Nik Abdul Rahman.
+Arkeologi (daripada Yunani: αρχαιολογία archaiologia, daripada αρχαίος archaios, yang bermakna "asal, purba, tua" dan λόγος logos, "kajian").
+Arkeologi boleh dikatakan suatu bidang mengenai kajian purba. Kebiasaannya kajian arkeologi melibatkan penggalian tapak yang berpotensi dan juga penelitian terhadap jumpaan-jumpaan bahan purba. Arkeologi merupakan kajian mengenai aktiviti manusia pada masa lampau, terutamanya menerusi pemuliharaan dan analisis bahan budaya serta data daripada sekitaran yang telah ditinggalkan oleh manusia lampau seperti artifak, binaan, biofak dan juga landskap budaya.
+Arkeologi merupakan bidang ilmu yang terbahagi kepada beberapa sub disiplin.
+Antara sub disiplin tersebut adalah arkeologi prasejarah, proto-sejarah, arkeologi industri, etno-arkeologi, arkeologi maritim dan arkeologi sejarah.
+Kepelbagaian dalam disiplin arkeologi ini menjadikan beberapa bidang yang bukan teras dalam arkeologi bersatu untuk mengukuhkan penyelidikan dalam bidang arkeologi.
+Di samping itu juga, penglibatan beberapa bidang dalam pengukuhan arkeologi melahirkan kepelbagaian dalam kepakaran arkeologi.
+Arkeologi memerlukan kaedah yang sangat berkesan untuk melakarkan teknik-teknik yang luas diguna pakai dalam kajian arkeologi untuk menyelesaikan masalah dan kaedah penyelidikan yang betul termasuklah sains, kemanusiaan, kesenian, sains sosial dan penggunaan kaedah secara praktikal untuk digunakan dalam satu disiplin ilmu.
+Arkeologi merupakan bidang yang dapat membangkitkan kesedaran mengenai keadaan masa lampau dengan gambaran yang mengasyikkan, jumpaan yang menarik, misteri masa silam, kemahiran zaman purba, kerja-kerja penyelidikan yang teliti dan juga publisiti.
+Zuliskandar pula menyatakan arkeologi merupakan kajian tentang masa silam manusia dan kajiannya bertumpu kepada barang- barang peninggalan manusia.
+Ia juga merupakan suatu susunan kaedah dan tatacara penyelidikan tentang masa lalu melalui data yang diperoleh dan latihan akademik serta orientasi teori ahli arkeologi.
+Kegunaan bidang kajian arkeologi pula disenaraikan secara ringkas oleh Watson iaitu i.
+Melengkapkan barang dan objek muzium.
+Melengkapkan dokumentasi pengkajian sejarah seni atau sejarah seni bina.
+Memperoleh pengetahuan mengikut susunan peristiwa dan kronologi dengan ketiadaan dokumen bertulis.
+Melengkapkan data bagi semua pengkajian sejarah (sejarah histiografi, struktural dan konstruktif) dengan matlamat ideografik dan menjurus. masa lampau dengan gambaran yang mengasyikkan, jumpaan yang menarik, merupakan kajian tentang masa silam manusia dan kajiannya bertumpu kepada barang v.
+Melengkapkan data bebas yang boleh digunakan untuk menguji hipotesis.
+Ahli arkeologi ditugaskan untuk mengkaji kebudayaan manusia lampau supaya dengan kajian mereka itu dapat membina semula maklumat kebudayaan masyarakat lampau tersebut.
+Zuraina menyatakan ahli arkeologi juga perlu mengkaji perkembangan masyarakat awal dan bagaimana komuniti masyarakat waktu lampau itu membentuk tamadun manusia yang boleh dianggap kompleks, dinamik dan berubah serta dipengaruhi beberapa faktor iaitu sekitaran, hubungan luar, peningkatan populasi dan keperluan yang pelbagai.
+Terdapat juga pendapat masyarakat yang menyatakan bahawa arkeologi ini adalah aktiviti mencari harta karun.
+Daniel mengatakan terdapat pendapat masyarakat yang menyatakan arkeologi merupakan aktiviti mengumpul barangan purba. Walaupun pada mulanya, aktiviti arkeologi ini lahir daripada aktiviti pencarian harta karun.
+Adi Taha menganggap dengan pandangan sebegitu, menyebabkan bidang arkeologi tidak dapat berkembang dan ini merugikan banyak pihak kerana arkeologi dapat membantu untuk membangunkan semula ilmu sejarah dan ketamadunan sesebuah bangsa.
+Dalam bidang kajian arkeologi secara umum, gabungan atau bantuan daripada bidang lain seperti pemuliharaan, sejarah seni, kimia, sains bahan, seni bina, kejuruteraan, ahli tumbuhan, geologi, pelombong, ahli seni, tukang-tukang moden dan juga ahli falsafah serta bidang lain yang boleh membantu dalam melicinkan kerja-kerja penyelidikan arkeologi itu sendiri.
+Gabungan serta bantuan daripada bidang lain ini membolehkan arkeologi dianggap sebagai satu bidang merentas disiplin.
+Bantuan daripada bidang lain dapat mengukuhkan dan mempelbagaikan kaedah yang digunakan dalam kajian arkeologi.
+Analisis artifak arkeologi dengan menggunakan kaedah saintifik telah dimulai pada abad ke-18 di Eropah.
+Martin Heinrich Klaproth, seorang ahli kimia pertama daripada Jerman yang telah menjalankan analisis kuantitatif ke atas artifak kaca dan syiling daripada zaman Rom.
+Selepas analisis yang dijalankan oleh Klaproth ini, semakin ramai ahli sains berminat untuk melakukan analisis artifak purba. Mereka juga mula berminat untuk menjalankan kajian dan mengumpulkan maklumat berkenaan budaya dan cara hidup masyarakat pada zaman prasejarah.
+Kemunculan kaedah pentarikhan mutlak pada tahun 1950-an iaitu C14 yang dijumpai oleh F.W Libby telah menyerlahkan lagi penggunaan sains dalam kajian arkeologi dan digunakan dengan meluas.
+Kaedah pentarikhan mutlak menggunakan C14 dapat menentukan usia artifak termasuk usia tapak dengan lebih tepat.
+Selain daripada teknik C14 ini, kaedah lain seperti dendrokronologi, thermoluminiscent dan archaeomagnetism mengukuhkan lagi data yang didapati daripada teknik lain.
+Sebelum kewujudan kaedah pentarikhan C14 tersebut, ahli arkeologi menggunakan kaedah pentarikhan perbandingan untuk mentarikhkan artifak atau tapak arkeologi iaitu dengan membandingkan artifak yang hendak diketahui tarikhnya dengan artifak yang sudah diketahui pentarikhannya.
+Kaedah yang sama turut digunakan dalam penentuan pentarikhan lapisan stratigrafi tanah iaitu dengan membandingkan tarikh artifak yang dijumpai dalam lapisan tersebut dengan artifak sama yang telah diketahui tarikhnya.
+Walaupun kaedah saintifik untuk penentuan pentarikhan mutlak telah ditemui namun pentarikhan relatif masih digunapakai sehingga hari ini supaya pentarikhan relatif yang diperoleh akan dikukuhkan dengan pentarikhan mutlak.
+Sains juga dapat mengesahkan suatu maklumat yang telah diperoleh daripada penyelidik terdahulu.
+Bukanlah fungsi sains untuk menyalahkan para penyelidik sebelumnya, tetapi untuk mendapatkan data atau maklumat yang lebih dipercayai.
+Sebagai contoh adalah seperti ‘Piltdown Man’ berkenaan penemuan serpihan tengkorak, mandible, alat batu dan tulang binatang oleh Charles Dawson dan Arthur Smith Woodwar, ahli paleontologi di Berkham Manor di Piltdown, Sussex, England pada tahun 1912.
+Sebelum tahun 1950, tengkorak tersebut dipercayai milik hominid bersifat separuh manusia dan separuh ape yang merupakan ‘missing link’ dalam teori evolusi manusia.
+Namun pada 1950-an ahli arkeologi dapat mengesahkan mandible dan cranium tidak berada dalam zaman yang sama dan tambahan pula ia datang daripada dua punca yang berbeza iaitu manusia moden dan juga beruk.
+Ahli arkeologi dapat akan dikukuhkan dengan pentarikhan mutlak.
+mengesahkan maklumat ini apabila kaedah analisis penyerapan florin telah diperkenalkan.
+Penggunaan kaedah analisis secara saintifik ini berjaya mengesan satu pemalsuan penting dalam penyelidikan arkeologi.
+Kini setiap kajian arkeologi amat memerlukan pendekatan sains untuk menjadikan maklumat yang diperoleh lebih dipercayai.
+Kajian secara analisis sains dapat membantu bidang arkeologi dalam pentarikhan tapak, menentukan komposisi unsur sesuatu artifak, kajian berkenaan tanah, kajian flora dan fauna, analisis debunga, spora dan diatom, geomorfologi kawasan kajian dan juga banyak lagi.
+Bantuan kaedah sains dalam pembuktian suatu tinggalan dalam arkeologi membolehkan maklumat berkenaan tinggalan tersebut didapati dengan lebih yakin dan dipercayai.
+Ini selari dengan perkembangan arkeologi kini yang lebih mementingkan ketepatan dan memerlukan pelbagai disiplin sains bagi mengkaji manusia awal, pembinaan semula kehidupan masa lampau dan memerhati proses yang terdapat pada perubahan masyarakat tersebut.
+Maklumat di atas boleh didapati daripada pemerhatian terhadap tinggalan yang didapati daripada tapak arkeologi.
+Bukti tinggalan masyarakat lampau ini biasanya merupakan tinggalan budaya manusia yang tahan lama dan sukar dimamah usia seperti batu bata bangunan, manik kaca, alatan batu, tembikar dan banyak lagi termasuk tulang rangka manusia itu.
+Kajian kandungan kimia sesuatu artifak telah mula mendapat keutamaan daripada ahli arkeologi terutamanya artifak yang berasaskan tanah liat kerana hasil penelitian terhadap kandungan kimia sesuatu artifak yang berasaskan tanah liat dapat memberikan hujah yang kukuh sama ada mahu mengukuhkan atau menyangkal teori-teori yang telah dikemukakan oleh ahli arkeologi terawal.
+Di Malaysia, ahli arkeologi kurang melakukan penelitian ke atas kandungan kimia artifak arkeologi yang ditemui di tapak-tapak bersejarah.
+Hanya motif dan hiasan serta kesan fizikal artifak dan kawasan sekitar tapak kajian akan diambil untuk melakukan sebarang hipotesis.
+Namun, kajian Zuliskandar telah menggunakan kaedah saintifik dalam penentuan kandungan kimia seperti kandungan mineral, unsur surih dan unsur utama bata candi, manik, kalam semah serta tanah liat yang diambil daripada sungai berhampiran kawasan jumpaan artifak tersebut.
+Hasil kajian berkenaan mendapati kandungan kimia dalam sesuatu artifak boleh menjelaskan kepada penyelidik sumber bahan mentah yang telah digunakan untuk membuat artifak tersebut.
+Penelitian secara kaedah saintifik terutamanya dalam penentuan kandungan kimia sesuatu artifak dapatlah diketahui sama ada pembuatan artifak tersebut menggunakan sumber bahan mentah tempatan atau pun tidak.
+Maklumat ini sangat penting bagi ahli arkeologi kerana mereka menganggap artifak yang ditemui seperti tembikar tanah dihasilkan oleh kumpulan masyarakat yang berada dalam lingkungan kawasan berhampiran jumpaan artifak.
+Jika terbukti artifak yang dianalisis menggunakan bahan mentah tempatan dalam pembuatannya, jelaslah bahawa penduduk tersebut telah menguasai ilmu pembuatan artifak tersebut.
+Jika analisis menunjukkan bahawa bahan mentah yang digunakan untuk membuat artifak tersebut bukan berasal daripada lingkungan kawasan jumpaan, maka bolehlah dikatakan penduduk sekitar kawasan jumpaan telah mempunyai hubungan dengan budaya luar yang membawa artifak tersebut masuk ke kawasan jumpaan.
+Ini kerana terdapat aktiviti pertukaran barang masyarakat yang tinggal di kawasan kajian telah berlaku.
+Selain pandangan yang menyatakan masyarakat melakukan pertukaran barang, ada juga ahli arkeologi percaya bahawa masyarakat yang tinggal di kawasan kajian berasal daripada kawasan lain yang berhijrah ke kawasan tersebut dengan membawa artifak bersamanya.
+Perbandingan kandungan kimia yang terkandung dalam artifak yang diperbuat daripada tanah liat perlulah selari dengan kandungan kimia yang terkandung dalam sumber bahan liat tersebut.
+Penyelidik terdahulu hanyalah melihat kepada artifak secara luaran ataupun hanya menumpu kepada fizikal artifak sahaja tanpa membuat kajian terhadap kandungan tanah liat yang terdapat di sekitar kawasan artifak tersebut ditemui.
+Kajian yang meneliti artifak dan dibandingkan pula dengan tanah liat sekitar artifak ditemui akan menambah baik maklumat yang diperoleh dan dapat mengetahui sama ada penggunaan bahan mentah tempatan digunakan dalam pembuatan artifak tersebut.
+Pengkaji terdahulu seperti Ariffin dan Chia ada menyatakan bahan yang digunakan untuk membuat tembikar tanah oleh penduduk tempatan hanya diambil pada jarak 4 ke 14 km daripada tempat tembikar tersebut dihasilkan.
+Sumber catatan China dalam kitab Nan chou i wu chih hasil tulisan sarjana China, Wan Chen menyatakan terdapat suatu kawasan atau negeri yang disebut Ko-Ying.
+Ko-Ying telah dinyatakan daripada sumber China sejak abad ke-2 dan abad ke-3 M lagi.
+Perdebatan antara lokasi sebenar Ko-Ying sama ada berada di Muara Jambi atau Jawa Barat dan ada juga pendapat yang menyatakan bahawa negeri ini terletak di Kerinci.
+Kedudukan sebenar negeri ini masih di dalam perbincangan dan perdebatan.
+Kawasan Ko-Ying yang dinyatakan oleh Wan Chen merupakan pusat perdagangan antarabangsa yang terletak di bahagian barat pulau Jawa.
+Catatan Ptolemy dalam bukunya Geography ada menyatakan suatu kawasan atau negeri bernama Argyre terletak di barat Iabodium (Jawa).
+Menurut Wolters, catatan Ptolemy berkenaan Iabodium sangat hampir dengan huraian Wan Chen dalam Nan chou i wu chih.
+Wolters yakin Ko-Ying atau Kaiwang (Kawang) adalah Karawang dan Ko-Ying adalah Argyre seperti yang disebutkan oleh Ptolemy.
+Berdasarkan hasil gali cari arkeologi yang dijalankan di kawasan Batujaya, terdapat jumpaan tembikar jenis Buni iaitu tembikar yang berasosiasi daripada tembikar Roulette dari India dan manik kaca berserta dengan jumpaan struktur bata yang sama saiz dan bentuknya dengan yang terdapat di Urayiur, Selatan India.
+Hasil jumpaan daripada tapak ini dapat dibuat satu kesimpulan awal bahawa tapak ini merupakan pusat perdagangan yang menjalankan hubungan perdagangan dengan India serta merupakan pelabuhan yang menghubungkan Jawa, Funan dan India.
+Diandaikan sebuah kerajaan pernah bertapak di kawasan Jawa Barat.
+Kerajaan ini dikenali dengan nama kerajaan Taruma (Tarumanagara) yang berkembang antara abad ke-5 hingga abad ke-7 Masihi.
+Keberadaan kerajaan ini dibuktikan dengan penemuan prasasti di wilayah Jakarta dan Bogor kerana sebahagian daripada prasasti ini berhampiran dengan Cibuaya dan Batujaya, tapak utama kebudayaan Buni.
+Isi kandungan prasasti tersebut adalah menceritakan berkenaan Raja Purnavarman yang memerintah kerajaan Taruma dalam bahasa Sanskrit.
+Tiada tarikh dipahat pada prasasti Nan chou i wu chih.
+Wolters yakin Ko-Ying atau Kaiwang (Kawang) adalah dari India dan manik kaca berserta dengan jumpaan struktur bata yang sama saiz tersebut namun jika diteliti secara tulisannya, dipercayai tulisannya serupa seperti yang digunakan di Andra Pradesh, India.
+Prasasti ini diberikan pentarikhan relatif dengan separuh abad ke-5 Masihi.
+Jika diteliti kawasan persebaran prasasti tersebut, dapat dilihat kawasan kekuasaan Raja Purnavarman adalah daripada Sungai Citarum sehingga Selat Sunda.
+Ibu kotanya terletak antara desa Tugu dan Bekasi di wilayah yang kini dikenali sebagai Jakarta. Secara tepatnya, kawasan pentadbiran kerajaan Taruma pada masa kini adalah dalam provinsi Jawa Barat, provinsi DKI Jakarta dan provinsi Banten sekarang (Rajah 2.1).
+Rajah 2.1 Peta Jumpaan Artifak Inskripsi, Arca dan Bangunan Candi di Jawa Barat, Banten dan Jakarta Sumber: Djafar Prasasti yang dijumpai di pantai utara Tugu menceritakan tentang pembangunan saliran yang dilakukan oleh Raja Purnavarman bagi kegunaan pertanian rakyatnya.
+Terdapat dua buah prasasti menunjukkan cetakan tapak kaki Raja Purnavarman.
+Cetakan tapak kaki ini menunjukkan ciri umum daripada para penganut ajaran Siva.
+Prasasti yang dijumpai di Ciaruton, barat tanah tinggi Jawa pula mempunyai ukiran tapak kaki manusia dan teks: “ daripada tuan bumi Purnavarman, pemerintah Taruma yang berani dan masyhur, tapak kaki seperti Tuan Vishnu”.
+Jumpaan prasasti di Kebun Kopi pula mempunyai ukiran tapak kaki gajah dan juga sedikit teks: “ ini merupakan kesan tapak kaki gajah yang hebat, dimiliki oleh pemerintah Taruma, di mana ia lebih besar berbanding Airavata”.
+Airavata merupakan gajah kepunyaan dewa Indra.
+Indra merupakan dewa Hindu yang setara dengan Zeus dan merupakan penjaga tempat Peta Jumpaan Artifak Inskripsi, Arca dan Bangunan Candi di Jawa Barat, Banten dan Jakarta tinggal para dewa, Gunung Meru yang terletak di tengah-tengah kosmos.
+Dalam kepercayaan Buddha, Indra muncul sebagai penggoda bakal Buddha untuk menguji keazaman Buddha sebelum mencapai Nirvana.
+Selain itu, kerajaan Taruma telah menghasilkan beberapa barangan tempatan untuk dieksport.
+Perkembangan perdagangan ini bermula sebelum perkembangan kerajaan Taruma lagi.
+Ini dibuktikan dengan jumpaan sisa kebudayaan Buni di sepanjang pesisir utara Jawa dan Bali.
+Ini boleh dijadikan hujah bahawa telah terdapat jaringan perdagangan di Laut Jawa sebelum kemunculan kerajaan Hindu.
+Kerajaan Taruma dipercayai menjadi pusat penghubung antara jaringan perdagangan China dan India.
+Pusat perdagangan antarabangsa ini selari dengan catatan yang diberikan oleh Wan Chen dalam kitabnya Nan chou i wu chih yang menyatakan Ko-Ying sebagai sebuah pusat perdagangan antarabangsa.
+Catatan perjalanan seorang pendeta China, Fa Xian pada tahun 414 Masihi dalam kitab Fu kwo ki menyatakan terdapat petunjuk bahawa masyarakat kawasan Tarumanagara mengamalkan ajaran Buddha.
+Dalam catatan beliau menyatakan; (… Setelah belayar di jalur ini selama sembilan puluh hari, sampailah mereka di Yavadhipa.
+Di negeri ini, agama kaum Brahmana yang menyimpang tumbuh dengan subur, dan sangat sedikit pemeluk agama Buddha.
+Setelah tinggal di sini selama 5 bulan, Fa-hsien berangkat dengan kapal dagang yang besar lainnya […….] yang belayar ke arah timur laut menuju Kwangchow) 2.5 Ajaran Buddha pada mulanya bukanlah suatu agama dalam erti kata lain, ajaran yang mempunyai tuhan untuk disembah.
+Ajaran utama Buddha adalah tatacara untuk menghilangkan karma, bagaimana hendak memutuskan rantaian samsara yang akhirnya bagaimana hendak mencapai tahap nirvana.
+Asas kepada kepercayaan ajaran ini meyakini kehidupan ini merupakan suatu penderitaan.
+Ini kerana kepercayaan ini menyatakan bahawa kehidupan dengan pelbagai cabaran dan dugaan merupakan khayalan dan segala Nan chou i wu chih yang menyatakan Ko-Ying sebagai sebuah pusat -Ying sebagai sebuah pusat -Ying Fu kwo ki menyatakan terdapat petunjuk bahawa masyarakat kawasan kehendak kita itulah merupakan suatu penderitaan kerana manusia perlu mengejar kehendak mereka itu dengan melakukan pelbagai cara untuk mengejar kehendak tersebut.
+Penyebaran agama Buddha di Asia Tenggara berlaku setelah perjalanan pendakwah Buddha yang diuruskan dari Patalipura (India Utara) di bawah naungan Raja Maurya ketika itu, Asoka (268-233 SM).
+Pasukan ini dipimpin oleh Thera Monggaliputta Tissa.
+Beliau telah menyusun penyebaran ajaran-ajaran Buddha dengan mengirim para bhiksu (Dhamma Duta) ke sembilan lokasi di luar dari India Utara.
+Dua daripada mereka adalah “thera” Sona dan Uttara yang dikirim ke Suvarnabhumi.
+Pada masa ini, ajaran Buddha telah berpecah kepada dua mazhab utama yang berbeza dalam beberapa ajarannya iaitu Hinayana (Theravada) dan Mahayana.
+Pada abad ke-8, mazhab Mahayana mulai mempengaruhi dunia Melayu di bawah pengaruh dinasti Pala dari Bengali, berkemungkinan bagi faktor politik dan sosial seperti yang disebutkan oleh Munoz: 1.
+Mahayana membolehkan pemujaan Buddha sebagai alat berhala, dan oleh kerana itu membolehkan pertalian dalam pemujaan nenek moyang, para dewa dan roh.
+Kematian raja-raja penganut Buddha akan dikenang sebagai Bodhisattva, atau lebih dikenali sebagai penyelamat umat, membolehkan mereka untuk menuntut status separuh dewa selama masanya mereka memerintah.
+Pada masa yang sama, sebuah ranting daripada ajaran Buddha Mahayana bernama Tantra disukai oleh raja-raja Melayu.
+Dipercayai ajaran ini dibawa melalui jalur perdagangan antara India dan China.
+Munoz menyatakan ajaran ini bermula dari Tibet dan popular dalam kalangan masyarakat China, Jepun dan India Utara.
+Antara unsur kepercayaan Tantra yang menjadi pegangan masyarakat setempat adalah seni bina bangunan candi mereka seperti kerajaan Srivijaya, candi Borobudur dan beberapa unsur seni bina seperti bentuk berlian daripada puncak candi utama Prambanan.
+Pemilihan ajaran Tantra berkemungkinan besar kerana kesan daripada tatacara ibadatnya yang menghasilkan simbol tertentu yang digunakan untuk memberi anugerah atau ancaman kepada orang bawahan atau hamba abdi.
+Tatacara ibadat dalam ajaran Mahayana membolehkan pemujaan Buddha sebagai alat berhala, dan oleh kerana Kematian raja-raja penganut Buddha akan dikenang sebagai Tantra menghendaki agar ada suatu ikatan antara pemerintah dan yang diperintah.
+Ikatan ini mempunyai pandangan-pandangan tahyul yang menyebabkan ketakutan kepada pemerintah oleh golongan bawahan dan memberikan kekuasaan yang lebih besar kepada pemerintah.
+Kebanyakan pemerintah yang mengamalkan ajaran Tantra ini, mereka mengikut jalur Tantra Kanan walaupun terdapat bukti ada juga pemerintah yang mengamalkan jalur Tantra Kiri seperti Adityavarman.
+Adityavarman digambarkan dalam bentuk Bairawa, perlambangan Buddha yang berbentuk seperti iblis.
+Istilah Candi Nik Hassan Shuhaimi menyatakan istilah candi berasal daripada perkataan Candika, isteri kepada Dewa Siwa yang bernama Durga yang dikenali sebagai Dewi Maut.
+Selain daripada itu, terdapat pendapat yang menyatakan perkataan candi itu diambil daripada perkataan Candika-Graha iaitu rumah untuk Dewi Candika.
+Menurut Kamus Dewan Edisi Keempat menyatakan candi merupakan bangunan purba yang dibuat daripada batu (tempat orang Hindu atau Buddha menyembah berhala, menyimpan abu mayat dan lain-lain).
+Menurut Kamus Besar Bahasa Indonesia pula, menyatakan candi adalah bangunan kuno yang dibuat dari batu (sebagai tempat pemujaan, penyimpanan abu jenazah raja-raja atau pendeta-pendeta Hindu atau Buddha pada zaman dahulu) manakala Munoz menyatakan candi merupakan tempat suci yang digunakan untuk mengagungkan para penguasa melalui kaitan mereka dengan para dewa.
+Dalam Kamus Istilah Arkeologi I, menyatakan candi: “Cinandi bererti “dimakamkan” padahal arti harafiahnya adalah ‘dicandikan.”.
+Nik Hassan Shuhaimi dalam Glosari Arkeologi Alam Melayu menyatakan candi adalah rumah ibadat bagi penganut agama Hindu atau Buddha pada zaman proto- sejarah/klasik.
+Selain daripada perkataan candi yang dirujuk pada kawasan Jawa dan Lembah Bujang, kawasan Sumatera Selatan, Sumatera Tengah, Kalimantan juga dikenali sebagai candi juga.
+Di Sumatera Utara disebut biaro (Padanglawas) manakala di Bali tidak pula dijumpai perkataan candi digunakan untuk tapak-tapak arkeologi.
+Selain daripada penggunaan perkataan candi dan juga biaro bagi Sumatera Utara, Raffles menyatakan struktur kecil yang terbina hanya dengan 4 batang tiang dan atap yang mudah terbina atas pusara itu dinamakan cungkup/chungkup.
+Namun daripada pengertian yang telah diberikan oleh beberapa orang sarjana, dapat dipastikan bahawa candi merupakan rumah ibadat bagi penganut agama Hindu dan Buddha pada masa lalu.
+Pembinaan bangunan candi ini merupakan suatu bentuk teknologi yang dilakukan oleh orang dahulu.
+Ahli arkeologi cenderung untuk mengelaskan teknologi kepada kerajinan atau industri sekurang-kurangnya berdasarkan bahan atau hasil akhir bahan: pembuatan bekas tanah liat (tembikar), kerja besi, pembuatan bakul, pembuatan objek batu, kerja kayu dan juga pembuatan kain.
+Menurut Merrill teknologi merupakan budaya masyarakat sekitaran yang melakukan aktiviti yang melibatkan pembuatan atau kaedah membuat benda.
+Fungsi Candi Berkenaan penggunaan bangunan ini, ahli arkeologi telah membahagikan candi kepada dua kategori iaitu: 1.
+Tempat untuk memuliakan golongan raja, pembesar dan juga para Brahmin yang telah mati dengan menempatkan abu mayat mereka ini di tengah-tengah bahagian candi.
+Pusat kegiatan keagamaan untuk sepanjang tahun ataupun secara harian.
+Hasil penelitian Ijerman di Candi Prambanan Larajonggrang telah menemui sebuah cepu batu di bahagian tengah candi yang berisi abu mayat.
+Soekmono telah mengaitkan jumpaan ini dengan istilah dharma dan sudharma yang telah digunakan dalam kitab Pararaton dan Nagarakertagama sebagai ‘dimakamkan abu jenazahnya di dalam sebuah candi’.
+Ini merupakan pandangan yang dikemukakan oleh para ahli arkeologi yang berpendapat bahawa candi merupakan tempat untuk memuliakan para raja, pembesar atau Brahmin yang telah mati.
+Fungsi Candi Tempat untuk memuliakan golongan raja, pembesar dan juga para Brahmin yang Bagi ahli arkeologi yang menganggap candi digunakan sebagai pusat upacara keagamaan, mereka menjadikan jumpaan cepu batu atau relikuari yang dalamnya terdapat barangan berharga seperti patung emas, batu permata serta sajian lainnya.
+Barangan berharga ini dinamakan peripih.
+Daripada peripih ini dihubungkaitkan dengan penggabungan antara roh para pembesar dengan dewa yang menjadi pujaan dan anutan semasa mereka masih hidup.
+Secara kesimpulannya, ini merupakan perlambangan jiwa raga dan roh para dewa dewi.
+Sebelum bangunan candi dibina, peripih ini akan dimasukkan dahulu sebagai asas pembinaan candi.
+Peripih akan ditanam di tengah kawasan candi yang bakal dibina.
+Munoz menyatakan peripih tersebut merupakan benih candi yang dipercayai mempunyai kuasa-kuasa tertentu berfungsi untuk memberkati pertumbuhan kerohanian daripada candi yang bakal dibina.
+Candi juga telah digunakan oleh masyarakat di Asia Tenggara untuk memperingati raja yang dianggap sebagai wakil tuhan untuk memerintah dunia.
+Sebagai contoh, bahagian vimana selalu diletakkan patung raja yang telah mati dengan bercirikan unsur-unsur kedewaan.
+Raja Airlangga semasa kematiannya telah dijelmakan patungnya dengan menunggang garuda yang merupakan vahana dewa Vishnu.
+Inilah yang dinamakan unsur atau konsep dewaraja.
+Bagi Nik Hassan Shuhaimi, kajian para sarjana terhadap candi di Indonesia tidak berfungsi sebagai tempat pemakaman tetapi lebih kepada: i.
+Bangunan kuil untuk upacara keagamaan ii.
+Sebagai rantai perkembangan kebudayaan Indonesia sejak zaman prasejarah untuk menunjukkan telah ada budaya yang berkembang sendiri sebelum kemasukan pengaruh Hindu-Buddha.
+Bagi ajaran Buddha pula, candi lebih digunakan sebagai pusat ibadat.
+Tiada peripih untuk digunakan sebagai bahan pemakaman dijumpai secara khusus.
+Tetapi abu mayat para bhiksu yang terkemuka sahaja diletakkan dalam stupa separuh bulat berbentuk bujur.
+Abu mayat ini juga tidak diletakkan di tengah bangunan candi seperti Hindu tetapi diletakkan pada stupa yang berada di sekeliling bangunan candi dan juga berada di luar bahagian vimana atau stupa yang berada di bahagian vimana.
+Kedudukan abu mayat ini ditempatkan pada lokasi tertentu bergantung pada darjat bhiksu tersebut.
+Namun, terdapat suatu ciri khas candi di alam Melayu yang berlainan jika dibandingkan dengan India.
+Jika dilihat pada candi yang terdapat di India, ia hanya menumpukan kepada pemujaan dewa.
+Di alam Melayu, candi selain daripada tempat untuk beribadat dan pemujaan dewa, ia juga merupakan sebuah tempat untuk mengukuhkan penguasaan pemerintah terhadap orang bawahan mereka.
+Pembinaannya lebih kepada sifat politik berbanding keagamaan.
+Munoz juga menambah lagi candi merupakan suatu gambaran terhadap alam semesta yang bersaiz kecil di mana candi merupakan pusat pemerintahan yang perlu dihormati dan kadang kala ditakuti oleh orang bawahan.
+Bata merupakan satu bongkah digunakan dalam pembinaan sesebuah bangunan diperbuat daripada tanah liat yang dibakar pada suhu dan keadaan yang tertentu.
+Terdapat beberapa bentuk bata yang dibuat oleh pembuat bata seperti segi empat tepat, segi empat sama dan juga terdapat juga bata yang mempunyai bentuk-bentuk tertentu.
+Tanah liat yang digunakan untuk membuat bata boleh didapati dari lembangan sungai dan juga paya-paya tertentu.
+Zuliskandar menyatakan bata telah digunakan sebagai bahan binaan sejak lebih kurang 5000 tahun dahulu.
+Bata digunakan dalam pembinaan tembok, dinding, tiang, lantai, tangga dan mana-mana bahagian bangunan yang dirasakan boleh dibina menggunakan bata.
+Penggunaan bata dalam bidang pembinaan merupakan suatu anjakan pengetahuan dalam tamadun manusia.
+Ini kerana bata merupakan suatu bahan yang tidak akan habis dan boleh dibuat dalam skala yang besar selagi bahan mentahnya iaitu tanah liat tidak habis.
+Bata juga mempunyai kelebihan berbanding binaan menggunakan kayu kerana ia tahan kepada cuaca yang tidak menentu.
+Pembinaan bangunan menggunakan bata membolehkan manusia berasa aman terhadap cuaca dan juga haiwan buas kerana ia lebih stabil dan tahan lasak.
+Sebelum penggunaan bata sebagai bahan binaan, manusia telah membina sesebuah bangunan dengan menggunakan batuan semula jadi yang terdapat di sekeliling.7 mereka seperti batu laterit, batu lumpur, batu sabak dan juga batu syal.
+Selain batuan semula jadi, terdapat juga penggunaan kayu, buluh, dedaunan yang sesuai yang digunakan untuk pembinaan rumah atau bangunan tertentu.
+Penggunaan bahan selain bata ini turut menunjukkan kebijaksanaan masyarakat dalam teknologi pembinaan.
+Ini kerana mereka boleh dan tahu pada bahagian mana sesuatu bahan ini ditempatkan dalam pembinaan sesuatu bangunan.
+Jika dilihat pada pembinaan bangunan candi di Lembah Bujang, Kedah, Malaysia, candi yang dibina pada julat masa abad ke 4 hingga 6 Masihi menggunakan batuan semula jadi dalam pembinaannya.
+Candi-candi di Lembah Bujang yang menggunakan batuan semula jadi boleh dirujuk dalam tesis doktor falsafah Zuliskandar Ramli.
+Jika dilihat kepada sejarah penggunaan bata dalam pembinaan, ia boleh dibahagikan kepada dua jenis bata iaitu yang pertama bata yang dikeringkan dan yang kedua adalah bata yang dibakar.
+Bata terawal dibuat oleh manusia adalah jenis bata yang dikeringkan.
+Bata ini dibuat dengan menjemur bata yang basah di kawasan lapang sehingga kering dan diyakini sangat kuat untuk digunakan.
+Bata jenis ini paling awal pentarikhannya pada 7500 SM yang telah ditemui di Tell Aswad, rantau atas Tigris dan tenggara Anatolia berhampiran Diyarbakir.
+Selain di Tell Aswad, bata yang dikeringkan ini boleh dijumpai di Jericho, Catal Huyuk, kubu Mesir Purba di Buhen dan bandar Lembah Indus di Mohenjo-daro, Harappa dan Mehgarh yang bertarikh sekitar 7000 – 6395 tahun SM.
+Bagi bata yang dibakar pula, ia boleh didapati di kawasan Lembah Indus yang bertarikh sekitar 3000 tahun SM.
+China juga antara tamadun yang mempunyai teknologi pembuatan bata yang tersendiri.
+Di China, bata telah mula dibuat sejak abad ke-2.
+Pada 3000 tahun dahulu, bata dibuat dengan skala yang besar di bawah Dinasti Zhou.
+Zaman Eropah pula, penggunaan bata yang dibakar untuk tujuan pembinaan seperti yang boleh dilihat pada tinggalan Yunani dan Rom.
+Apa yang menarik di Eropah, setiap bentuk atau jenis bata dapat dibezakan dengan zaman yang dilaluinya.
+Sebagai contoh pada awal zaman pertengahan, bata hanya banyak digunakan di kawasan Eropah Utara selepas diperkenalkan daripada Barat Daya Itali.
+Bagi kawasan yang kurang sumber batuan Lembah Indus di Mohenjo-daro, Harappa dan Mehgarh yang bertarikh sekitar 7000 semula jadi, bentuk binaan bata tersendiri dikenali sebagai bata Gothic.
+Seni bina ini boleh dilihat di Denmark, Jerman, Poland dan Rusia.
+Bagi di rantau Asia Tenggara, candi yang terawal menggunakan bata sebagai bahan binaan dapat diperhatikan di candi tinggalan masyarakat Pyu di Beikthano, Halin, Taungwingyi, Sriksetra, Meingmaw, Waddi dan Thegon di Myanmar.
+Pentarikhan tapak masyarakat Pyu telah diberi antara abad ke-2 SM hingga abad ke-10 M.
+Tapak-tapak yang terdapat di Beikthano, Halin dan Meingmaw pula telah diberi pentarikhan antara abad ke-2 SM hingga abad 1SM.
+Selain itu, terdapat juga tinggalan pelabuhan purba di bawah penguasaan kerajaan Funan iaitu Oc-eo yang diberi pentarikhan antara abad ke-3 hingga 6 M yang turut menggunakan bata sebagai bahan binaan pelabuhan.
+Maspero dan Tips pula menyatakan terdapatnya binaan daripada bata hasil tinggalan masyarakat tamadun Campa yang boleh dilihat pada Candi Po Nagar yang terletak di Nha Trang.
+Mereka berpendapat candi ini dibina pada abad ke-8 M dan kerja-kerja pengubahsuaian dilakukan sehinggalah abad ke-11 M.
+Selain Candi Po Nagar, Candi Bhadresvara yang terletak di My Son (Da Nang) dan Po Klaung Garai berhampiran Phan Rang juga merupakan antara tinggalan masyarakat lampau yang dibina dengan menggunakan bata sebagai bahan binaan utama.
+Thailand juga mempunyai tinggalan bangunan yang dibina dengan menggunakan bata seperti Prasat Phum Phon yang diberi pentarikhan pada abad ke-7 M, Prasat Phanom Rung yang diberi pentarikhan antara abad ke-7 hingga 8 M, Nakhon Pathom, U-Thong dan Ku Bua yang diberi pentarikhan antara abad ke-7 hingga 11 M.
+Seni bina ini mempunyai persamaan dengan tinggalan purba di bahagian timur laut Thailand seperti di Kontarawhichai dan Ban Prasat.
+Kepulauan Sumatera juga kaya dengan tinggalan bangunan purba yang dibina dengan menggunakan bata.
+Binaan ini merupakan tinggalan daripada warisan kerajaan Srivijaya yang bertapak daripada abad ke-7 hingga 12 Masihi.
+Binaan ini boleh dilihat dalam daerah Jambi dan Palembang.
+Dalam daerah Jambi, terdapat dua tapak terkenal iaitu Kompleks Percandian Muara Jambi dan juga Kompleks Percandian Solok Sipin yang keduanya terletak di lembah Sungai Batang Hari.
+Nik Hassan Shuhaimi telah memberikan pentarikhan bagi kedua tapak ini adalah antara abad ke-7 hingga abad ke-12 Masihi.
+Selain daripada kedua tapak ini, terdapat juga kompleks lain yang terdapat dalam kawasan daerah Solok Sipin iaitu Kompleks Candi Sekarabah, Kompleks Candi Koto dan Kompleks Candi Sansekip.
+Pada daerah Palembang pula, tinggalan binaan warisan kerajaan Srivijaya boleh dilihat hilir Sungai Musi yang sepanjang 750 km.
+Antara binaan candi yang diperbuat daripada bata adalah Tapak Candi Tingkip.
+Nik Hassan Shuhaimi telah melakukan pentarikhan relatif berdasarkan jumpaan sebuah arca Buddha yang berasosiasi dengan tapak dan mendapati pentarikhan tapak ini adalah antara abad ke-6 hingga abad ke-7 M.
+Selain tapak Candi Tingkip, terdapat beberapa tapak lain yang mempunyai binaan daripada bata seperti Tapak Bingin Janggut yang mempunyai pentarikhan daripada abad ke-7 hingga abad ke-9 M.
+Pentarikhan ini dibuat berdasarkan jumpaan arca Lokeswara yang diperbuat daripada batuan andesit.
+Di bahagian belakang arca tersebut mempunyai tulisan dalam aksara dan bahasa Jawa Kuno. Satyawati Suleiman mengandaikan ia merupakan arca Mahayana yang dibuat oleh keluarga Sailendra yang bertakhta di Jawa.
+Namun Boechari menyatakan jika diteliti berdasarkan tulisan atau aksaranya, kemungkinan arca ini dipahat pada abad ke-8 Masihi.
+Malaysia juga mempunyai binaan bangunan purba yang dibina dengan menggunakan bata.
+Binaan ini telah dijumpai dengan sengaja ataupun tidak oleh penyelidik antarabangsa dan juga penyelidik tempatan.
+Nik Hassan Shuhaimi dan Kamaruddin menyatakan bahawa binaan bangunan menggunakan bata dipercayai bermula daripada abad ke-5 Masihi hingga abad ke-14 Masihi berdasarkan pentarikhan secara relatif di Candi Kampung Sungai Mas (Tapak 32).
+Namun Zuliskandar menyangkal pentarikhan ini dengan memberikan pentarikhan abad ke-6 Masihi berbanding tarikh yang diberikan oleh pengkaji sebelumnya.
+Zuliskandar menyatakan pentarikhan abad ke-6 Masihi tersebut berdasarkan jumpaan dua struktur binaan candi di Sungai Mas yang dibina pada dua zaman yang berbeza dan juga artifak yang dijumpai pada lapisan bata serta jumpaan struktur stupa yang dibina menggunakan dua bahan yang berbeza.
+Tapak-tapak binaan purba yang menggunakan bata di Malaysia kebanyakannya terletak di negeri Kedah seperti di kawasan Pengkalan Bujang, Bukit Pendiat, Bukit Gajah Mati, tepi Sungai Bujang, Bukit Meriam, Bukit Penjara, Kampung Sungai Mas, tepi Sungai Muda dan beberapa kawasan lain.
+Manakala di bahagian kepulauan Jawa, tinggalan bangunan purba yang dibina daripada bata boleh dilihat di Batujaya dan Cibuaya.
+Tapak Batujaya dipercayai merupakan bekas tinggalan kerajaan Taruma yang berdiri daripada abad ke-5 hingga abad ke-7 Masihi.
+Terdapat hampir 20 tapak percandian yang ditemui dalam kawasan percandian Batujaya ini.
+Terdapat tapak yang boleh dilihat dengan baik disebabkan telah dilakukan kerja-kerja pembinaan semula dan terdapat juga tapak yang telah hancur musnah akibat daripada kerja-kerja pertanian masyarakat setempat.
+Boleh dikatakan hampir keseluruhan binaan bangunan di tapak ini menggunakan bata sebagai bahan binaan utama.
+Bata yang dapat dilihat di kawasan percandian Batujaya ini mempunyai saiz dan bentuk yang berbeza-beza mengikut fungsinya yang tersendiri.
+Bata berbentuk segi empat tepat merupakan bata yang paling banyak dijumpai di kawasan percandian ini.
+Djafar menyatakan bata ini berukuran besar, iaitu 40 x 20 x 7 cm.
+Selain itu, Djafar juga menyatakan terdapat juga bata dalam bentuk lain daripada segi empat tepat tersebut seperti bata yang melengkung, bundar, bertakik, bersegi dan juga beberapa bentuk yang lain yang mempunyai saiz dan bentuk tertentu diperbuat sesuai dengan fungsinya tersendiri.
+Djafar mempercayai bata yang digunakan dalam pembinaan bangunan candi di Batujaya dibuat oleh masyarakat setempat secara pukal kerana ia mempunyai kualiti yang pelbagai.
+Bahan mentah utama yang digunakan untuk membuat bata tersebut merupakan tanah liat.
+Tanah liat ini mempunyai unsur kimia yang tertentu seperti silikat (SiO2), aluminium (Al2O3), besi (Fe2O3) dan beberapa unsur yang lain.
+Dr, Azwar Manaf daripada FMIPA-UI telah melakukan analisis unsur terhadap beberapa bata yang terdapat dari tapak SEG V dan TLJ I.
+Beliau mendapati kandungan unsur kimia beberapa unsur sangat tinggi seperti silikat (SiO2) sekitar %, Aluminium (Al2O3) berada dalam julat 16.218 – 18.439% dan besi (Fe2O3) sekitar 11.452 – 13.817%.
+Manakala analisis yang telah dijalankan oleh Astiti terhadap tapak SEG I mendapati kandungan silikat (SiO2) sebanyak 56.00%, besi (Fe2O3) sebanyak 0.22% dan kalsium sebanyak 14.440% (CaO).
+Sekam padi dan juga pasir telah dijumpai sebagai bahan campuran dalam bata.
+Bahan ini dicampur semasa proses pembancuhan tanah liat.
+Penambahan sekam padi dan juga pasir ini memberikan kesan kepada peningkatan suhu yang diperlukan untuk proses pembakaran bata.
+Kualiti yang berbeza juga dapat dilihat pada bata tersebut.
+Terdapat bata yang mempunyai kualiti yang tinggi dan ada juga kualiti yang rendah.
+Perbezaan kualiti bata ini bergantung pada kandungan unsur-unsur yang terdapat dalam tanah liat yang diadun tersebut dan juga suhu pembakarannya.
+Suhu pembakaran di bawah 700oC biasanya menghasilkan bata yang berkualiti rendah dengan sifatnya seperti rapuh dan berongga, menyebabkan tinggi daya serapan airnya.
+Kualiti atau unsur baik yang terdapat dalam tanah liat serta suhu pembakaran yang optimum akan menghasilkan bata yang berkualiti tinggi dengan sifatnya seperti keras, rongganya kecil yang mengurangkan daya serapan air.
+Penggunaan bata dalam pembangunan candi di Batujaya dapat dijadikan bukti bahawa penggunaan bata sebagai bahan binaan bukanlah hanya digunakan pada waktu yang lebih muda.
+Penggunaan bata memberikan pengesahan bahawa ianya merupakan bahan binaan yang penting sejak awal sejarah percandian di Indonesia terutamanya sejak zaman awal Hindu-Buddha kerana bata sangat diperlukan untuk memenuhi tuntutan agama baru yang memerlukan sebuah bangunan untuk melakukan upacara ibadat.
+Ini dapat menepis anggapan yang menyatakan candi yang dibina pada masa lebih tua dibina daripada batu manakala candi yang lebih muda sahaja dibina daripada bata.
+Djafar juga menyatakan bahawa perkembangan teknologi pembuatan bata di wilayah Jawa Barat terdorong oleh sumber yang terhad.
+Tidak hairanlah jika dikatakan bahawa masyarakat tempatan telah pandai mengolah tanah liat untuk membuat bata kerana masyarakat ini telah pandai membuat tembikar yang menggunakan tanah liat sebagai bahan utama.
+Tembikar yang dibuat oleh masyarakat tempatan bukanlah dibuat secara kecilan, malahan yang diadun tersebut dan juga suhu pembakarannya.
+Suhu pembakaran di bawah 700 dipercayai satu industri pembuatan tembikar besar telah bertapak di kawasan Batujaya sebelum kedatangan agama Buddha.
+Jika dibandingkan dengan candi yang terdapat di Lembah Bujang, Kedah, ia menggunakan bata sebagai bahan binaan utama agak lewat berbanding Batujaya.
+Ini kerana dipercayai candi di Lembah Bujang menggunakan bata sebagai bahan binaan utama pada abad ke-6 Masihi sedangkan di Batujaya, bata telah digunakan sebagai bahan binaan sejak abad ke-5 Masihi.
+Ini mungkin disebabkan oleh terdapatnya batuan semula jadi yang digunakan oleh masyarakat pembangun candi di Lembah Bujang.
+Ini boleh dibuktikan dengan binaan candi di Lembah Bujang pada abad ke 4 Masihi yang menggunakan batuan semula jadi seperti batu lumpur, laterit dan juga batuan sabak.
+Astiti menyatakan hasil analisis kandungan unsur yang terdapat dalam tanah di sekitar tapak dan unsur yang sama terdapat pada bata binaan bangunan di candi di Batujaya, dapat dibuat satu kesimpulan bahawa bata yang digunakan untuk pembangunan candi Batujaya dibuat oleh masyarakat tempatan yang mendiami kawasan Batujaya sendiri.
+Kawasan tapak percandian Batujaya telah diketahui pada mulanya oleh pasukan tinjauan tapak Jurusan Arkeologi Fakultas Sastera Universitas Indonesia pada 1984 yang diketuai oleh Ayatrohaedi.
+Pasukan ini pada awalnya telah melakukan penyelidikan di tapak Cibuaya yang terletak 20 km di sebelah timur Batujaya (Rajah 2.2).
+Hanya 5 tapak dapat dikenal pasti apabila terdapat jumpaan bata sisa runtuhan bangunan pada suatu perbukitan.
+Pada tahun 1985, tinjauan yang dilakukan oleh pasukan daripada Jurusan Arkeologi FSUI telah mengenal pasti 13 buah tapak iaitu 7 di Desa Telagajaya dan 6 lagi di Desa Segaran.
+Pada tahun itu juga, kerja gali cari arkeologi di tapak Batujaya mula dilakukan oleh Jurusan Arkeologi FSUI dan dijadikan kerja kursus bagi Kuliah Kerja Lapangan bagi mahasiswa arkeologi sebagai praktikal pelajaran Metode Arkeologi yang diketuai oleh Mundardjito sehingga 1986.
+Universitas Tarumanagara pada 1988 telah menjalankan tinjauan ulangan di kawasan kajian untuk melihat peninggalan kerajaan Taruma.
+Kajian dan penelitian lanjut terus dilakukan oleh beberapa pihak untuk memperkuat dan memperkukuh data sedia ada.
+Berdasarkan hasil penelitian yang telah dilakukan oleh pelbagai pengkaji, sejak 1984 hingga kini, telah dikenal pasti terdapatnya 30 buah tinggalan tapak yang berada dalam kawasan berkeluasan 5 km persegi ini.
+Rajah 2.2 Lokasi Kawasan Tapak Arkeologi Batujaya Sumber: Djafar Pada tahun 1988, pasukan daripada Projek Penelitian Terpadu Sejarah Kerajaan Tarumanagara, Universitas Tarumanagara telah melakukan tinjauan ulangan di kawasan tapak Batujaya untuk melihat kembali peninggalan arkeologi semasa zaman Tarumanagara.
+Pada akhir tahun 1989, sebuah pasukan daripada BAKOSURTANAL, Fakultas Geografi UGM dan Direktorat Perlindungan dan Pembinaan Peninggalan Sejarah dan Purbakala telah melakukan aktiviti penelitian geo- arkeologi di kawasan tapak Batujaya.
+Penelitian yang dibuat oleh gabungan pasukan ini meliputi penelitian keadaan sekeliling, pedostratigrafi melalui penebukan tanah, pentafsiran gambar daripada udara, percubaan geolistik, gali cari percubaan dengan membuka petak percubaan dan pengelasan kawasan terutamanya di tapak TLJ I, TLJ V, dan TLJ VI.
+Kajian secara gali cari diteruskan di tapak TLJ V (Unur Asem) dan tapak TLJ VIII oleh pasukan penelitian arkeologi Batujaya Universitas Tarumanagara pada 1989 yang diketuai oleh Hasan Djafar daripada Jurusan Arkeologi FSUI.
+Seterusnya pada tahun 1992, gali cari dilakukan di tapak TLJ V oleh Jurusan Arkeologi FSUI dengan kerjasama Puslit Arkenas dan Himpunan Keramik Indonesia.
+Pada tahun 1998-1999, Hasan Djafar dengan sebuah pasukan daripada Pusat Penelitian Masyarakat dan Budaya LPUI dan Jurusan Arkeologi FIB-UI telah melakukan gali cari di tapak SEG III, TLJI-A, TLJ I-B, TLJ I-C, SEG II-A dan SEG II-B.
+Pada tahun 2003 hingga 2005, Hasan Djafar dengan pasukannya daripada Jabatan Arkeologi FIB-UI telah melakukan gali cari lanjutan di tapak-tapak TLJ I-C, TLJ I-A, TLJ II dan SEG V yang diberi dana oleh Conservation and Environmental Grants daripada Ford Motor Company.
+Gali cari pada tapak TLJ II telah dilakukan pada tahun 2004 manakala tapak SEG V dilakukan pada 2005 oleh Program Studi Arkeologi FIB-UI dalam Kuliah Kerja Lapangan bagi mahasiswa arkeologi.
+Berdasarkan hasil tinjauan yang telah dilakukan sejak 1984 sehinggalah kini, baik yang dilakukan oleh pasukan arkeologi FSUI ataupun Pusat Penelitian Arkeologi Nasional, daripada seluruh kawasan tapak Batujaya, telah dikenal pasti 30 tapak yang terdapat dalam kawasan Batujaya.
+Tapak-tapak ini tersebar dalam keluasan kawasan seluas 5 km2.
+Tapak-tapak berkenaan dibahagikan mengikut kelompok tapak tersebut dengan kedudukan mereka berada pada Desa Segaran dan juga Desa Telagajaya.
+Namun, para pengkaji yang melakukan kajian di Batujaya menyatakan tidak terdapat satu pun candi induk atau candi utama yang dapat disesuaikan dengan konsep kosmologi atau berdasarkan konsep mandala dalam agama Buddha.
+Dalam konsep mandala, candi-candi yang dibina tertakluk di bawah sistem perletakan yang khas dan tetap dengan aturan dalam keagamaan Buddha sehinggakan setiap candi yang hendak dibina perlulah mengikut aturan tertentu yang berkait dengan candi utama.
+Sebuah candi utama secara umumnya akan dikelilingi oleh candi-candi yang lain pada keempat penjuru arah mata angin.
+Kenyataan ini tidak dapat dilihat di Batujaya kerana susunan candi yang tidak teratur atau tidak ada jaluran yang berpusat pada candi utama yang menghubungkan keletakan candi dalam susunan atau pola letak yang tertentu yang boleh dikatakan mengikut konsep mandala.
+Keadaan susunan bangunan candi di Batujaya yang tidak mengikut pola letak secara mandala dapat dibandingkan dengan candi yang terdapat di Kompleks Percandian Muara Jambi.
+Bangunan percandian di Muara Jambi menunjukkan.
+Tapak-tapak berkenaan dibahagikan mengikut kelompok tapak tersebut fahaman Buddha Mahayana juga tidak mengikut pola perletakan bangunan yang boleh dikatakan mengikut sistem mandala.
+Candi Jiwa (SEG I) Tapak kajian ini merupakan sebuah bukit kecil yang disebut oleh penduduk sekitarnya sebagai Unur Jiwa.
+Tapak ini terletak pada koordinat 107o09’04,91E dan 06o03’26”N yang berkeluasan hampir 500 meter persegi dan berketinggian hampir 4 meter.
+Tapak ini pertama kali dijalankan kerja gali cari pada 1985 dan dilanjutkan sehingga 1986.
+Kerja gali cari yang dilakukan telah mendedahkan seluruh permukaan sisa bangunan dan beberapa bahagian candi.
+Antara bahagian yang didedahkan adalah beberapa bahagian kaki candi yang berukuran 19 x 19 m dengan ketinggian 4.7 m.
+Orientasi bangunan ini adalah tenggara-barat laut.
+Tidak terdapat tangga naik atau pintu masuk ke bangunan candi.
+Kaki candi mempunyai pelipit yang terdiri daripada pelipit rata (patta), pelipit penyangga (uttara) dan pelipit setengah lingkaran (kumuda).
+Jika dilihat daripada bahagian atas sisa bangunan, dapat dilihat pasangan bata yang melingkar berdiameter 6 m.
+Lingkaran ini dibatasi oleh susunan bata yang dipasang tegak, membentuk segi empat sama dengan panjang sisinya hampir 10 m.
+Susunan bata sebegitu menunjukkan susunan bawah sebuah stupa.
+Dedahan yang dilakukan pada bahagian halaman sekeliling candi telah ditemui struktur hamparan bata yang menutupi permukaan tanah dengan lebarnya 2.65 m.
+Struktur ini kelihatan seperti jalan yang mengelilingi bangunan candi.
+Dipercayai bahawa struktur ini merupakan sebuah patha ataupun jalan yang digunakan untuk upacara pradaksina kerana bangunan candi ini tidak ditemui tangga atau pintu masuk. mempunyai pelipit yang terdiri daripada pelipit rata (patta mempunyai pelipit yang terdiri daripada pelipit rata ( ), pelipit penyangga Candi Damar (SEG III) Tapak ini terletak pada koordinat 107o09’11”E dan 06o03’25”N terdiri daripada dua binaan iaitu SEG III-A berkeluasan 22 x 21 m dan SEG III-B berkeluasan 12.5 x 5 m dengan ketinggian daripada 0.5 m hingga satu meter.
+Jarak antara kedua bahagian ini dalam 10 m yang dipisahkan oleh sebidang tanah sawah.
+Pada tahun 1993, telah dilakukan beberapa tinjauan dan telah menjumpai sebuah bangunan bata di SEG III-A berukuran 20 x 15 m.
+Pasukan arkeologi daripada Pusat Penelitian Kemasyarakatan dan Budaya, Lembaga Penelitian Universitas Indonesia telah melakukan gali cari pada September 1998 yang mendedahkan bahagian bawah kaki bangunan candi yang berbentuk segi empat panjang.
+Tapak kaki bangunan candi ini berarah tenggara barat laut.
+Pada bahagian barat laut bangunan, boleh dilihat binaan tangga dengan lebar 5 m.
+Gambar 2.2 Pandangan sisi tapak Candi SEG III yang dibiarkan in-situ Candi Blandongan (SEG V) Candi ini merupakan candi terbesar dalam kawasan percandian Batujaya yang berukuran 110 x 38 m.
+Candi ini terletak dalam 107o09’14”E dan 06o03’21”N.
+Tapak ini pertama kali dijalankan tinjauan arkeologi pada 1984 oleh pasukan arkeologi FSUI.
+Kerja-kerja gali cari dilakukan antara 1992 hingga 2000 oleh Puslit Arkenas dan menemui sebuah runtuhan bangunan candi dengan bahagian kaki yang berukuran 25 x 25 m.
+Terdapat jumpaan pagar langkan pada atas kaki keempat sisi candi.
+Terdapat empat buah tangga untuk naik atas bangunan candi pada setiap sisi bangunan.
+Di bahagian tengah candi masih terdapat sisa bahagian badannya yang berukuran 10 x 10 m.
+Antara badan candi dan pagar langkan, terdapat hamparan bata membentuk lantai yang dilapisi oleh konkrit stuko setebal 15 cm.
+Diandaikan bangunan candi ini berbentuk stupa yang besar pada bahagian atasnya berdasarkan jumpaan pecahan konkrit stuko berbentuk lengkungan seperti bulatan stupa berketebalan 20 cm.
+Pecahan konkrit stuko ini didapati dengan banyaknya dalam longgokan di lantai bangunan candi.
+Pecahan tersebut mempunyai permukaan yang halus pada bahagian luarnya manakala pada bahagian dalamnya terdapat corak bekas bata yang menempel.
+Jika dilihat daripada ukuran lengkungan pada bahagian bawah kubah stupa tersebut, boleh diandaikan bahawa diameter kubah stupa ini berukuran 6 m namun ketinggiannya tidak dapat diketahui.
+Pada beberapa bahagian kaki candi masih boleh dilihat lepa stuko menempel pada permukaan bata dan juga permukaan lantai selasar yang dilapisi dengan konkrit stuko diperbuat daripada campuran stuko yang dicampur dengan batu kerikil.
+Kajian secara gali cari pada tahun 1995 oleh Puslit Arkenas telah menemui sebuah pecahan kalam semah tera kota bergambar patung Buddha.
+Pada tahun berikutnya, kerja- kerja gali cari telah menemukan pecahan kalam semah dalam bilangan yang lebih banyak iaitu 5 buah yang masih lengkap serta 50 dalam bentuk pecahan.
+Jumpaan kalam semah tersebut termasuklah kalam semah yang berinskripsi.
+Pada tahun 1999 pula, Balai Pelestarian Peninggalan Purbakala Serang telah melakukan pendedahan kepada tapak candi untuk mengangkat runtuhan candi.
+Daripada kerja-kerja pendedahan yang dilakukan, telah ditemui dua buah pecahan inskripsi yang tergores pada sebuah pecahan bata dan sebuah pecahan tera kota dan dua buah inskripsi yang digoreskan pada kepingan emas kecil yang dilipat.
+Inskripsi yang dijumpai merupakan ayat-ayat suci agama Buddha dalam bahasa Sanskrit.
+Terdapat susunan pelipit pada bahagian kaki candi.
+Susunan tersebut terdiri daripada pelipit rata, setengah lingkaran dan pelipit bergerigi.
+Puslit Arkenas bersama EFEO telah melakukan penelitian terhadap tapak candi ini pada 2002 dan 2003.
+Kerjasama ini telah mendapatkan maklumat berkenaan stratigrafi tanah tapak candi ini.
+Gambar 2.3 Pandangan sisi Candi SEG V Rajah 2.4 Lakaran Candi SEG V daripada atas Sumber: Djafar Candi Serut (TLJ I) Tapak ini merupakan sebuah bukit kecil yang kemudiannya menjadi kawasan penempatan penduduk.
+Terdapat empat bahagian yang dijumpai dalam tapak candi ini yang dinamakan sebagai TLJ I-A, TLJ I-B, TLJ I-C dan TLJ I-D.
+TLJ I-A terletak di koordinat 107o08’51”E dan 06o03’23”N manakala TLJ I-B pula terletak di koordinat 107o05’50”E dan 06o03’21”N.
+Bagi TLJ I-C pula, ia terletak di koordinat 107o08’51”E dan 06o03’23”N.
+Tapak candi ini mempunyai arah kedudukan timur laut–barat daya berdasarkan penelitian yang telah dilakukan oleh BAKOSURTANAL bersama Fakultas Geografi UGM dan Ditlinbinjarah pada 1989.
+Kerja-kerja gali cari yang telah dilakukan telah mendedahkan bahagian kaki tapak candi yang berukuran 13.65 x 10.70 m dan mempunyai ketinggian 1.8 m.
+Sama seperti candi-candi yang telah dinyatakan sebelum ini, pada bahagian kaki candi terdapat pelipit yang terdiri daripada pelipit rata, pelipit bergerigi dan juga pelipit setengah bulatan.
+Kaki candi pada bahagian timur laut tidak mempunyai bentuk yang sama dengan tiga sisi yang lain.
+Terdapat tembok sambungan yang memanjang pada bahagian kaki sisi timur laut di sudut antara utara dan timur.
+Tembok memanjang ini membentuk garis lurus dengan arah barat laut tenggara.
+Tembok ini diandaikan mempunyai hubungan dengan sisa tembok yang dijumpai pada 1989 di dasar kolam yang terletak di bahagian tengah tapak dan merupakan bahagian sebuah tembok keliling bangunan candi.
+Candi TLJ I-A tidak mempunyai tangga naik ataupun pintu untuk masuk ke dalam bangunan candi.
+Pada bahagian kaki candi TLJ I-A mempunyai bentuk binaan dasar seperti “bak” yang dibina atas sebuah tapak asas.
+Bahagian bak tersebut diisi dengan pecahan bata serta dipadatkan pecahan tersebut.
+Candi TLJ I-B pula struktur bangunannya sudah rosak teruk.
+Candi ini mempunyai tapak berbentuk segi empat sama dengan panjang untuk setiap sisinya adalah 7.70 m.
+Terdapat hanya satu sahaja tangga untuk menaiki bangunan candi yang terdapat di bahagian timur laut.
+Bentuk dan susunan rangka candi ini mempunyai persamaan dengan candi TLJ I-A.
+Kaki candi pada bahagian barat laut terdapat tanda pengubahsuaian yang diandaikan dibuat selepas bangunan candi itu siap sepenuhnya.
+Candi TLJ I-C pula merupakan bangunan candi yang berukuran 6.60 x 6.20 m.
+Candi ini dihiasi dengan hiasan stuko berbentuk kepala manusia yang dianggap tokoh dewa dan juga kepala haiwan.
+Pecahan hiasan ini ditemui bersama pecahan dan runtuhan bata di atas permukaan lantai sekeliling kaki candi.
+Candi ini mempunyai satu tangga naik seperti TLJ I-B juga yang berarah timur laut.
+Sisi tangga diberi sedikit hiasan pada bahagian hujungnya dan dilapisi dengan stuko.
+Halaman candi ini pernah dilakukan kerja- kerja peninggian dengan kaedah penimbusan.
+Bentuk dan susun atur rangka bangunan tidak dapat diamati dengan jelas kerana sebahagian besarnya telah hancur dan hilang.
+Dinding luar kaki candi sisi barat laut, boleh dilihat sisa bahagian pelipit jenis setengah bulatan.
+Ketinggian kaki candi antara lantai konkrit di halaman dengan lapisan bata bawah pelipit setengah bulatan tersebut adalah 40 cm.
+Candi TLJ I-C ini juga mempunyai bilik di dalamnya yang berukuran 3.50 x 3.00 m.
+Dinding dan lantai bilik ini telah dilapisi dengan konkrit stuko.
+Pecahan bahu arca yang diperbuat daripada stuko telah ditemui di atas lantai bilik ini.
+Pecahan ini diandaikan daripada arca yang diletakkan dalam bilik ini.
+Dalam bilik ini juga, pada bahagian kakinya didapati terdapatnya relung berukuran 30 cm.
+Bahagian candi TLJ I-D pula menunjukkan ianya berukuran 8.40 x 5.60 m dengan bahagian yang tinggal dan bahagian inilah sahaja yang boleh dilihat.
+Dinding kakinya mempunyai ketebalan 1.60 m.
+Candi ini mempunyai sebuah penampil dengan tangga untuk naik ke dalam candi terletak di bahagian sisi timur laut.
+Dinding kaki candi juga mempunyai pelipit dan beberapa tempat telah dijumpai lapisan lepa stuko yang masih menempel.
+Rajah 2.5 Lakaran Candi TLJ I-B daripada sisi Sumber: Djafar Candi Lingga (TLJ II) Tapak candi ini terletak dalam koordinat 107o08’48”E dan 06o03’18”N.
+Pada 1985, tinjauan yang dilakukan telah mendapati keluasan tapak candi ini berukuran 60 x 50 m dan mempunyai ketinggian daripada permukaan tanah 1.50 m.
+Bahagian selatan tapak candi ini merupakan bekas kawasan pertanian oleh penduduk setempat manakala bahagian utara tapak candi merupakan tapak rumah penduduk.
+Bahagian tengah antara kawasan utara dan selatan tapak ini telah dibuat kawasan sawah padi oleh masyarakat setempat.
+Ini telah memisahkan antara bahagian utara dan selatan menjadi dua kawasan.
+Pada permukaan tapak bahagian selatan boleh dilihat dengan jelas jumpaan permukaan seperti pecahan bata dan juga pada beberapa bahagian sisi boleh dilihat susunan bata yang berarah barat laut-tenggara.
+Selain bata dan pecahan bata, terdapat juga jumpaan 5 buah batu konglomerat berbentuk seperti tiang segi lapan yang berketinggian 80 cm dan garis tengahnya sekitar 50 cm.
+Pada bahagian tengah batu ini terdapat lubang yang dipercayai batu ini merupakan pecahan stupa.
+Kerja gali cari yang dilakukan pada 2004 oleh FIB-UI telah mendedahkan kaki bangunan candi berukuran 18 x 15 m dengan arahnya timur laut-barat daya.
+Kaki candi ini mempunyai satu tangga naik iaitu di bahagian timur laut.
+Bahagian kaki candi dibangunkan dengan bentuk seperti bak.
+Ketebalan dinding sekitarnya adalah dalam Candi Lingga (TLJ II) Tapak candi ini terletak dalam koordinat 107o08’48”E dan 06 lingkungan 2 hingga 2.5 meter.
+Bahagian dalam kaki candi diisi dengan pecahan bata yang dipadatkan.
+Bahagian atas kaki candi pula tidak menampakkan dengan jelas susunan pelipitnya kerana sudah hancur.
+Candi Asem (TLJ V) Tapak ini berukuran 90 x 50 m dan tingginya hampir 3 m daripada permukaan tanah sawah yang terletak di titik koordinat 107o08’41”E dan 06o03’00”N dengan orientasinya barat laut tenggara.
+Tapak ini diketahui lokasinya apabila kumpulan penyelidik daripada DITLINBINJARAH dengan kerjasama BAKOSURTANAL dan Fakultas Geografi UGM melakukan tinjauan geolistrik dan pembukaan beberapa kotak ujian pada 1989.
+Daripada penelitian yang dilakukan, dijumpai tangga naik candi yang terletak di sisi barat daya bangunan candi.
+Penelitian seterusnya dilakukan oleh Universitas Tarumanagara dengan pendedahan sepenuhnya ke atas permukaan bahagian atas bangunan dan penggalian di beberapa sisi bahagian kaki candi sehingga dapat dilihat profil kaki candi beserta rangkanya.
+Pada bahagian atas bangunan, boleh dilihat susunan bata yang berbentuk melingkar kosentrik serta runtuhan bata dapat ditemui berhampiran kaki candi.
+Selain bata daripada runtuhan tersebut, terdapat juga jumpaan bata melengkung dengan tepinya terpotong yang diandaikan pecahan bangunan berbentuk stupa.
+Jurusan Arkeologi FSUI dengan kerjasama Puslit Arkenas dan Himpunan Keramik Indonesia telah melakukan penelitian pada 1992 dan mendapati bentuk asas tapak ini yang berukuran 10 x 10 m serta mempunyai dua buah tangga untuk menaiki bangunan candi iaitu di sebelah barat daya dan di sebelah timur laut.
+Tangga yang terdapat di sebelah barat daya merupakan tangga yang dibina kemudian selepas bahagian halaman candi dinaikkan dengan cara pengambusan tanah sekelilingnya.
+Pengambusan tanah untuk meninggikan bangunan adalah setinggi satu meter daripada tanah asal.
+Kerja gali cari yang dilakukan pada sisi tangga sebelah barat daya ini telah menjumpai dua buah periuk tanah liat yang sudah pecah dan juga kepingan emas kecil yang tidak bertulisan berbentuk seperti kipas.
+Seperti yang dapat dijumpai pada bangunan candi yang lain, dapat dilihat sisa-sisa penggunaan lepa stuko yang masih melekat pada bahagian kaki bangunan candi ini.
+Rajah 2.6 Lakaran fasa pembinaan Candi TLJ V Sumber: Djafar Bahan binaan yang dijumpai daripada kajian arkeologi melalui kerja gali cari yang dilakukan oleh penyelidik di kompleks percandian Batujaya adalah seperti bata, stuko, batu dan kayu.
+Batu yang digunakan dalam pembinaan bangunan candi adalah terbatas seperti di bahagian anak tangga.
+Kayu yang digunakan tidak dijumpai semasa proses penggalian dilakukan.
+Namun boleh dibuktikan dengan tinggalan pelapik tiang yang mempunyai lubang bekas tempat kayu tersebut dipasang dijumpai semasa proses penggalian.
+Beberapa penyelidik telah membuat analisis secara saintifik terhadap bata dan stuko yang telah dijumpai semasa proses penggalian dijalankan.
+Analisis saintifik ini penting untuk mendapatkan maklumat berkenaan kandungan kimia yang terdapat dalam sampel kajian.
+Kandungan kimia yang didapati dalam sampel bata dan juga stuko dapat dibandingkan dengan kandungan kimia yang terdapat dalam sampel tanah liat yang didapati daripada kawasan sekitaran.
+Ini untuk membuktikan penggunaan bahan mentah tempatan dalam pembuatan bata.
+Secara tidak langsung dapat membuktikan penglibatan masyarakat tempatan dalam pembuatan bata seterusnya terlibat secara langsung dalam pembinaan bangunan candi.
+Bata Bata yang dijumpai di kawasan percandian Batujaya mempunyai bentuk yang tertentu mengikut fungsinya.
+Kebanyakan yang dijumpai adalah bentuk segi empat memanjang bersaiz 40 x 20 x 7 cm.
+Jika dibandingkan dengan stupa yang berada di India terutamanya stupa pada zaman Maurya, ternyata saiznya hampir sama iaitu sekitar 40 x 27 x 7 cm.
+Terdapat beberapa bentuk bata yang boleh dijumpai di kawasan percandian seperti bata melengkung, bata bundar, bata bertakik, bata bersudut dan lain-lain bentuk yang dibuat dengan fungsinya yang tertentu.
+Rajah 2.7 Lakaran bata segi empat memanjang Rajah 2.8 Lakaran bata separa melengkung Kualiti bata yang berbeza-beza dapat dilihat pada bata yang terdapat di candi Batujaya.
+Perbezaan kualiti ini adalah disebabkan pembuatan bata yang dilakukan secara besar-besaran.
+Pembuatan bata secara besar-besaran mungkin menggunakan kaedah pembakaran terbuka yang menyebabkan jarak dan kedudukan bata terhadap api pembakaran yang berbeza-beza.
+Djafar menyatakan bahan mentah utama dalam pembuatan bata ini adalah tanah liat yang mempunyai unsur silikat (SiO2), aluminium (Al2O3), dan juga besi (Fe2O3).
+Djafar juga menambah, beberapa sampel bata daripada tapak SEG V dan TLJ I-A telah dianalisis oleh Dr. di Laboratorium Pusat Kajian Ilmu Material FMIPA-UI menunjukkan kandungan silikat (SiO2) berada dalam julat 62.390 hingga 66.754 peratus.
+Aluminium (Al2O3) pula berada dalam julat 16.218 hingga18.439 peratus.
+Besi (Fe2O3) pula berada dalam julat 11.453 himgga 13.817 peratus.
+Peratusan kandungan unsur dalam bata pada setiap sampel boleh dirujuk dalam Jadual 2.
+Sampel SEG V////-A/-A/2 Kandungan unsur kimia dalam % berat sampel SiO2 Al2O3 Fe2O3 CaO K2O TiO2 PO4 SO2 0.236 MnO MgO 1.604 SrO 0.066 ZrO2 0.053 ZnO Sumber:Hasil data analisis yang dilakukan oleh Dr.
+di Laboratorium Pusat Kajian Ilmu Material FMIPA-UI, 2005 dalam Djafar.
+Jika dilihat dalam jadual di atas, 1.
+Sampel SEG V/1 diambil daripada bahagian dalam dinding kaki Candi SEG V di sudut selatan.
+Sampel SEG V/2 diambil daripada bahagian luar dinding kaki Candi SEG V di sudut selatan.
+Sampel SEG V/3 diambil daripada bahagian dalam (lapis bata ke-4) lantai selasar Candi SEG V.
+Sampel SEG V/4 diambil daripada dinding kaki Candi SEG V.
+Sampel TLJ I-A/1 diambil daripada lapisan kedua tapak kaki Candi TLJ I-A.
+Sampel TLJ I-A/2 diambil dari dinding kaki Candi TLJ I-A lapisan ke-9 di atas pelipit setengah lingkaran.
+Astiti juga telah melakukan penelitian secara analisis saintifik pada bata yang terdapat di tapak SEG I.
+Beliau mendapati kandungan tertinggi silikat (SiO2) adalah 56.00%, manakala besi (Fe2O3) pula bacaan tertinggi adalah pada 0.22% dan kalsium (CaO) pula bacaan tertinggi adalah 16.50%.
+Kandungan unsur kimia tersebut secara peratus boleh dilihat dalam Jadual 2 di bawah.
+Sampel SiO2 Fe2O3 CaO Jisim dalam peratus (%) Bata Tanah bahan mentah Sumber: Astiti Sekam atau kulit padi bersama pasir digunakan sebagai bahan tambahan dalam pembuatan bata.
+Bahan ini ditambah sebelum bata ini dibakar.
+Perbezaan ini adalah disebabkan oleh kepelbagaian kandungan unsur yang terdapat dalam bahan mentah untuk membuat bata dan juga proses yang dilakukan dalam pembakaran bata.
+Sampel TLJ I-A/2 diambil dari dinding kaki Candi TLJ I-A lapisan ke-9 di atas titi juga telah melakukan penelitian secara analisis saintifik pada bata yang terdapat di tapak SEG I.
+Beliau mendapati kandungan tertinggi silikat menyatakan hasil perbandingan analisis kandungan unsur yang terdapat pada tanah di daerah sekitar tapak percandian dan unsur yang terdapat pada bata candi, dapat dibuat satu kesimpulan bahawa sumber bahan mentah yang digunakan untuk pembuatan bata candi adalah menggunakan bahan mentah yang terdapat berhampiran kawasan percandian.
+Jika dirujuk berdasarkan Jadual 2.2, didapati kandungan unsur yang terdapat pada bata dan tanah bahan mentah tidak menampakkan perbezaan yang sangat besar.
+Namun, kajian secara saintifik yang dijalankan oleh Dr. Azwar Manaf dan Astiti hanya menumpukan kepada tapak di SEG V, SEG I dan TLJ I-A sahaja.
+Analisis pada tiga tapak ini tidak menunjukkan keputusan sebenar bagi keseluruhan kawasan percandian.
+Sampel yang diambil juga hanya mewakili satu-satu bata dengan bahagian yang berlainan.
+Ini juga tidak menunjukkan bacaan sebenar bagi keseluruhan tapak candi.
+Satu-satu tapak candi perlu mendapatkan beberapa sampel untuk mendapatkan maklumat analisis yang lebih tepat dan jitu.
+Dapatan bacaan yang lebih jitu dan tepat membolehkan data yang diperoleh daripada analisis lebih dipercayai.
+Oleh yang demikian kajian ini dilakukan untuk menambah data yang telah dilakukan oleh Dr. Azwar Manaf dan Astiti dengan tambahan sampel serta tapak kajian supaya data yang diperoleh lebih tepat dan jitu.
+Bata yang dijumpai di kawasan percandian Batujaya mempunyai kelebihan dengan bahan campuran seperti kulit padi dan juga butir pasir yang menguatkan lagi bata.
+Teknologi ini tidak dijumpai di bahagian lain.
+Ini boleh membuktikan peranan masyarakat tempatan dalam membangunkan candi dengan pembuatan bata oleh masyarakat tempatan.
+Gambar 2.4 Pecahan bata yang mengandungi sekam padi 2.10 Kajian yang dilakukan oleh penyelidik dahulu telah membuktikan secara kasarnya, bahan mentah iaitu tanah liat yang digunakan bagi membuat bata yang digunakan untuk membina candi tapak SEG V, SEG I dan TLJ I-A telah menggunakan tanah liat yang berada di sekitar kawasan bangunan candi.
+Ini boleh menjadi hujah awal bahawa masyarakat tempatan berperanan sebagai pembangun bangunan candi.
+Penggunaan pelapik tiang juga menunjukkan bukti bahawa bangunan candi dibina oleh masyarakat tempatan.
+Oleh yang demikian, kajian yang ingin dilakukan akan menambah dan memperkukuhkan maklumat sedia ada dengan menggunakan sampel yang lebih banyak untuk mendapatkan hasil yang lebih tepat dan jitu.
+KAWASAN, Bab ini memperincikan tentang kawasan kajian yang melibatkan tapak-tapak candi dan memerihalkan kaedah yang dilaksanakan sepanjang kajian dilakukan.
+Kajian secara saintifik dalam bidang arkeologi sangat diperlukan untuk menilai keberkesanan Teori Kolonisasi dan Teori Pemperibumian Budaya India.
+Pengesahan kemungkinan tersebut dapat menyokong hipotesis akulturasi Pembudayaan India dan Transformasi Ilmu masyarakat di kawasan Batujaya seperti yang telah dilakukan oleh Zuliskandar terhadap masyarakat Melayu di Kedah Tua.
+Sumber pertama daripada data saintifik melibatkan analisis pencirian mineralogi dan geokimia bahan yang terhadap dalam sampel bata binaan candi.
+Setiap sampel bata diambil dari tapak candi Batujaya yang terpilih dan akan ditentukan sama ada menggunakan bahan tanah liat tempatan atau tidak.
+Sumber kedua pula merupakan penulisan terawal oleh pengkaji terdahulu yang akan digunakan sebagai panduan secara pandangan daripada penyelidik untuk membuktikan penglibatan masyarakat tempatan dalam pembinaan dan pembangunan kawasan percandian Batujaya.
+Tapak percandian Batujaya secara geografinya terletak dalam daerah pantai utara Jawa Barat, di daerah Kabupaten Karawang.
+Tapak percandian Batujaya ini pada asalnya terletak dalam kawasan sawah seluas 5 km2 yang terbentang antara 107o08’40” hingga 107o09’20” Timur dan 06o02’50” hingga 06o03’50” Utara.
+Kawasan percandian ini pada asalnya terletak dalam wilayah pentadbiran iaitu Desa Segaran dan Desa Telagajaya yang termasuk dalam Kecamatan Batujaya, Kabupaten Karawang, Provinsi Jawa Barat.
+Tapak yang terletak dalam kawasan Desa Segaran disebut tapak Segaran atau diringkaskan sebagai SEG manakala tapak yang terletak dalam kawasan Desa Telagajaya disebut tapak Telagajaya atau secara ringkasnya disebut TLJ.
+Tapak- tapak candi dinamakan dengan nama ringkasan serta ditambah dengan nombor Roman mengikut aturan pengenalpastian tapak candi tersebut daripada waktu jumpaannya.
+Sebagai contoh tapak daripada Segaran I disingkatkan menjadi SEG I manakala bagi Telagajaya I disingkatkan menjadi TLJ I.
+Setiap tapak ini dirujuk mengikut nama dan juga nilai titik koordinatnya yang telah dinyatakan mengikut garis bujur dan juga garis lintangnya.
+Selain menggunakan sistem nama – nombor, terdapat juga nama-nama tertentu yang diberikan oleh penyelidik mengikut gelaran-gelaran yang diberikan oleh orang tempatan terhadap perbukitan sebelum dilakukan kerja-kerja gali cari.
+Dalam kajian ini, penelitian dilakukan terhadap batu bata yang terdapat di beberapa tapak.
+Tapak yang diambil ini seperti yang diketahui terletak berhampiran dengan daerah aliran sungai (DAS) Citarum.
+Lokasi taburan tapak candi ini ada kaitannya dengan peranan sungai sebagai dalam kehidupan sosio-ekonomi penduduk tempatan.
+Dalam penelitian kajian ini, adalah untuk mendapatkan kepastian sama ada penggunaan bahan mentah tempatan digunakan dalam pembuatan batu bata bangunan candi tersebut.
+Daripada maklumat analisis dapatlah dibuat suatu kesimpulan awal berkenaan penglibatan penduduk tempatan dalam pembinaan bangunan candi.
+Maklumat ini juga dapat menyokong hipotesis berkenaan penduduk tempatan yang membudayakan kebudayaan India serta Transformasi Ilmu masyarakat dalam kawasan Batujaya.
+Kaedah yang digunakan dalam kajian ini melibatkan penggunaan kajian kepustakaan sebagai sumber kedua dan juga hasil analisis kandungan kimia bahan bata sebagai sumber pertama.
+Dalam kajian kepustakaan, maklumat diambil dan dianalisis daripada sumber buku, makalah, jurnal, laporan penyelidikan dan tidak ketinggalan juga pengambilan beberapa maklumat daripada laman sesawang yang dinyatakan dalam rujukan.
+Kajian saintifik sebagai sumber pertama merupakan maklumat yang penting kerana daripada maklumat ini dapat menyokong kesimpulan awal yang telah dinyatakan.
+Analisis kandungan kimia bata purba di Batujaya dilakukan untuk penentuan kandungan geokimia iaitu unsur utama dan unsur surih serta kandungan kepelbagaian mineral dalam bata purba tersebut menggunakan kaedah analisis sains yang akan dinyatakan nanti.
+Hasil kajian diharapkan dapat memberikan sumber bahan mentah yang digunakan untuk menghasilkan batu bata tersebut sama ada digunakan bahan mentah daripada kawasan tempatan atau tidak.
+Kerangka reka bentuk kajian dapat dilihat pada Rajah 3.1 untuk melihat secara gambaran yang lebih jelas berkaitan kaedah dan skop keseluruhan kajian ini.
+Reka bentuk kajian menunjukkan model bagaimana keseluruhan kajian ini akan dijalankan supaya kajian lebih terarah kepada menjawab permasalahan dan tujuan kajian secara tersusun.
+Jika dilihat pada Rajah 3.1, pada peringkat awal kajian melibatkan pengumpulan maklumat asas dan maklumat daripada sumber kedua yang telah diterbitkan untuk mencari permasalahan serta pernyataan kajian iaitu proses pembudayaan India dalam masyarakat Proto-sejarah di kawasan Batujaya.
+Dua teori utama iaitu Teori Kolonisasi dan teori Pembudayaan India akan diuji.
+Kajian kepustakaan digunakan untuk mendapatkan rujukan tentang masyarakat prasejarah di Batujaya, sumber bertulis dan sumber arkeologi berkaitan dengan Batujaya serta teknologi bahan binaan serta seni bina candi Batujaya.
+Kajian kepustakaan ini akan menumpukan kepada kaedah untuk mendapatkan sumber yang terdiri daripada data arkeologi dan saintifik supaya dapat iaitu unsur utama dan unsur surih serta kandungan kepelbagaian mi melihat proses pembudayaan dan penerapan budaya India dalam masyarakat proto- sejarah di Batujaya.
+Maklumat-maklumat yang dinyatakan di atas diperoleh menerusi bahan bacaan seperti buku, laporan, makalah dan sumber-sumber yang dinyatakan di bahagian rujukan.
+Sumber bertulis Penyelidikan Arkeologi Evolusi dan transformasi masyarakat Permasalahan Kajian Tujuan & Matlamat Kajian Teori Pemperibumian Budaya India Teori Kolonisasi Primer Analisis komposisi bahan bata candi Sekunder Sumber bertulis dan data arkeologi mengenai Batujaya Teknologi dan seni bina Bahan mentah Bata candi di Batujaya Bahan mentah tempatan atau tidak Teknologi pembuatan bata Pembinaan bangunan candi mengikut unsur tempatan Kajian penyelidik sebelum Rajah 3.1 Kerangka reka bentuk kajian Maklumat daripada data pertama yang merupakan hasil analisis kandungan kimia bahan bata dalam bentuk unsur utama dan unsur surih daripada radas XRF serta kandungan mineral yang didapati daripada radas XRD untuk setiap sampel.
+Diharapkan maklumat daripada sumber kedua melalui kajian kepustakaan di sokong pula oleh maklumat daripada sumber pertama melalui analisis menggunakan radas saintifik dapat menolak atau menyokong dua teori yang diuji dan mendukung kesimpulan awal yang dinyatakan iaitu Proses Akulturasi Pembudayaan India dan Transformasi Ilmu Masyarakat Proto sejarah di Batujaya.
+TEKNIK-TEKNIK ANALISIS Analisis bahan artifak seperti alat batu, seramik, tulang, logam, manik, kaca, rambut, kulit, kesan darah di alat batu atau sisa makanan dalam bekas tembikar boleh menggunakan beberapa teknik kimia dan fizik yang sesuai.
+Teknik seperti sinar-X berpendaflor (XRF), sinar-X terbelau (XRD), spektroskopi penyerapan atom (AAS), spektrometer jisim plasma (ICP-MS), analisis pengaktifan neutron (NAA), mikroskopi elektron imbasan (SEM) dan banyak lagi teknik kimia dan fizik yang biasa digunakan untuk mengkaji dan memulihara artifak.
+Penggunaan dan prinsip asas penggunaan teknik kimia dan fizik ini dibincangkan secara terperinci oleh Pollard & Heron dan Skoog & Leary.
+Berkembangnya teknologi pada masa kini menjadikan radas untuk menentukan kandungan kimia bahan suatu artifak semakin mudah diperoleh.
+Penggunaan radas XRD untuk menentukan kandungan mineral sesuatu sampel manakala XRF pula untuk menentukan kandungan unsur utama dan juga unsur surih dalam sampel tanah liat.
+Penggunaan teknik XRD dan XRF adalah untuk mendapatkan maklumat yang lebih menyeluruh bagi penentuan kandungan bahan suatu artifak atau sampel bata berasaskan tanah liat.
+Maklumat daripada analisis ini terutamanya maklumat berkenaan kandungan mineral dapat memberitahu daripada manakah sumber bahan mentah yang digunakan untuk menghasilkan bata, jika diketahui kandungan mineral dalam tanah sekitar kawasan kajian.
+Setiap teknik yang dinyatakan mempunyai kelebihan dan kekurangan tertentu dan ia bergantung pada jenis analisis yang hendak dijalankan.
+Para pengkaji sama ada ahli arkeologi ataupun ahli sains perlu bijak memilih teknik yang sesuai untuk digunakan bagi menganalisis sampel.
+Pemilihan kaedah analisis bergantung pada jenis sampel yang digunakan kerana sampel yang berlainan perlu menggunakan kaedah yang tersendiri supaya data yang diperoleh dapat menjawab persoalan kajian.
+Tujuan penggunaan kaedah XRF dan XRD dalam kajian ini adalah kerana ia merupakan kaedah utama dan mudah untuk mendapatkan maklumat berkenaan unsur utama dan unsur surih serta kandungan mineral dalam sampel bata.
+Teknik lain seperti SEM dan EPMA tidak bersesuaian untuk analisis artifak yang besar seperti tembikar atau bata tetapi lebih sesuai untuk melakukan analisis sampel manik, pigmen cat pada lukisan dan juga bahan artifak yang tidak boleh dimusnahkan.
+Dalam kajian ini, dua teknik yang digunakan seperti yang telah dinyatakan di perenggan atas adalah Teknik Belauan Sinar-X (XRD) dan Teknik Pendarflor Sinar-X (XRF).
+Teknik Belauan Sinar-X merupakan teknik yang digunakan untuk menentukan kandungan mineral dalam bahan sampel bata.
+Bagi penentuan unsur utama dan juga unsur surih sampel bata, Teknik Pendarflor Sinar-X digunakan.
+Analisis yang dilakukan ini adalah supaya dapat menjawab tujuan kajian ini iaitu menentukan sumber bahan mentah dalam pembuatan bata ini.
+Analisis dilakukan di Makmal Pencirian Fizikal di Bangunan Pusat Penyelidikan dan Instrumentasi, Universiti Kebangsaan Malaysia.
+Batu bata purba ini telah diambil daripada kawasan percandian Batujaya, Jawa Barat.
+Tapak candi ini terletak dalam kawasan Desa Segaran dan juga Desa Telagajaya.
+Antara tapak candi yang diambil sampelnya untuk menjayakan kajian ini adalah; i.
+Candi Asem (TLJ V) ii.
+Candi Blandongan (SEG V) perenggan atas adalah Teknik Belauan Sinar-X (XRD) dan Teknik Pendarflor Sinar- iii.
+Candi Damar (SEG III) iv.
+Candi Jiwa (SEG I) v.
+Candi Lingga (TLJ II) vi.
+Candi Serut B (TLJ I-B) 3.6 Bahan utama untuk dianalisis dalam kajian ini adalah bata binaan candi di sekitar kawasan kajian.
+Bata dipilih kerana ia merupakan bahan binaan utama dalam pembinaan candi di kawasan Batujaya.
+Di samping itu, bata merupakan bahan yang paling banyak dijumpai dalam kawasan kajian.
+Sebanyak enam tapak candi dijadikan kawasan pengambilan sampel bata.
+Daripada setiap tapak diambil 15 sampel batu bata dan setiap sampel dinamakan mengikut tapak candi daripada bilangan 1 hingga 15.
+Jumlah diambil bilangan 15 sampel adalah untuk membolehkan interpretasi data dijalankan dengan lebih jitu dan tepat.
+Asem CA1, CA2, CA3, CA4, CA5, CA6, CA7, CA8, CA9, CA10, CA11, CA12, CA13, CA14 dan CA15 2.
+Jiwa CJ1, CJ2, CJ3, CJ4, CJ5, CJ6, CJ7, CJ8, CJ9, CJ10, CJ11, CJ12, CJ13, CJ14 dan CJ15 5.
+Lingga CL1, CL2, CL3, CL4, CL5, CL6, CL7, CL8, CL9, CL10, CL11, CL12, CL13, CL14 dan CL15 6.
+Serut B CSB1, CSB2, CSB3, CSB4, CSB5, CSB6, CSB7, CSB8, CSB9, CSB10, CSB11, CSB12, CSB13, CSB14 dan CSB15 Hasil daripada analisis kandungan kimia bahan bata yang diperoleh daripada tapak candi Batujaya ini akan digunakan dalam menyokong atau menolak Teori Akulturasi l mengikut candi yang dipilih Pembudayaan India dan Transformasi Ilmu masyarakat di Batujaya.
+Ia berdasarkan kesimpulan awal yang menyatakan bangunan candi di Batujaya dibina oleh masyarakat tempatan dengan menggunakan bahan mentah daripada sumber tempatan.
+Zuliskandar telah membuktikan dalam pembinaan Candi Sungai Mas (Tapak 32/34), sumber bahan mentah tempatan iaitu sumber bahan daripada Sungai Muda digunakan dalam pembuatan bata candi tersebut berdasarkan analisis kandungan kimia bata candi tersebut.
+Secara tidak langsung, ini menolak pendapat sarjana asing yang menyatakan bahawa bahan binaan candi dibawa daripada luar melalui pedagang kerana candi dibina oleh pedagang yang datang.
+Pengendalian Sampel Sampel-sampel ini telah diambil daripada tapak kajian dan dibersihkan daripada kotoran dan bendasing yang kelihatan supaya tidak mempengaruhi data.
+Sampel-sampel ini dimasukkan ke dalam ketuhar dan dipanaskan sehingga 120oC selama 24 jam.
+Sampel ini dipanaskan untuk menjadikan sampel betul-betul kering dan mudah untuk dihaluskan Ini membolehkan sampel tidak melekat semasa proses penapisan dan tidak melekat semasa dimasukkan dalam bekas sampel.
+Setelah sampel menyejuk mengikut suhu bilik, sampel ditumbuk sehingga hancur dan menjadi serbuk yang halus sehingga dapat melalui penapis piawai bersaiz 500 mikron dan sedia dijalankan analisis terhadap sampel.
+Pendarflor sinar-X (X-Ray Fluorescence, XRF) Analisis Belauan Sinar-X Struktur Hablur Belauan sinar-X berasaskan kepada tindak balas hablur apabila sinar-X dikenakan terhadapnya.
+Hanya mineral berhablur sahaja dapat dikesan oleh analisis belauan sinar-X.
+Setiap hablur mengandungi atom atau kumpulan atom yang tersusun mengikut susunan tiga dimensi.
+Unit terkecil hablur yang lengkap dipanggil sel unit.
+Hablur merupakan suatu binaan tiga dimensi terhasil daripada pengulangan suatu bentuk yang tak terhingga.
+Sinar-X dan sifatnya Filamen yang diperbuat daripada tungsten akan memancarkan elektron apabila dipanaskan.
+Sinaran tidak nampak akan dipancarkan apabila elektron-elektron yang dipancarkan daripada tungsten menghentam logam sasaran seperti kuprum, kobalt, besi ataupun molibdenum.
+Sinaran tidak nampak ini disebut sinar-X.
+Sinar ini pertama kalinya dijumpai pada 1895 oleh Wilhelm Conrad Roentgen, seorang ahli Fizik berbangsa Jerman yang mengajar di Universiti Wurzburg.
+Sinar-X mempunyai panjang gelombang lebih kurang 1A (1A=-10 m).
+Belauan Sinar-X Kekisi hablur merupakan struktur berbentuk tiga dimensi.
+Belauan akan terjadi apabila sinar-X menembusi atom yang tersusun membentuk struktur berlapis. jarak dasar struktur perlulah hampir sama dengan panjang gelombang cahaya yang digunakan supaya corak belauan yang terhasil boleh dilihat dengan jelas.
+Gelombang pantulan haruslah dalam keadaan sefasa untuk mendapatkan keamatan yang maksimum.
+Selisih jarak (2 d sinθ) mestilah sama dengan nλ untuk mewujudkan gelombang sefasa.
+d sinθ = nλ di mana n = 1, 2, 3 ……, peringkat pantulan λ = panjang gelombang d = jarak dasar θ = sudut tuju 2 d sinθ = nλ ini disebut persamaan Bragg.
+Persamaan ini digunakan untuk menentukan nilai d.
+Nilai d ini merupakan sifat semula jadi setiap mineral.
+Ia boleh ditentukan jika sudut tuju, θ diketahui.
+Nilai sudut tuju tersebut boleh diketahui dengan menggunakan analisis belauan sinar-X. keadaan sefasa untuk mendapatkan keamatan yang maksimum.
+Selisih jarak (2 d Rajah 3.2 Belauan sinar-X Merekod Pancaran Sinar-X yang telah terbelau setelah melalui hablur boleh dirakam dengan menggunakan sejenis kamera.
+Tujuan utama penggunaan kamera ini adalah untuk penentuan nilai θ., supaya dapat dimasukkan ke dalam persamaan Bragg: 2 d sinθ = nλ Sinar tuju akan dihalakan kepada hablur.
+Hablur yang terkena sinar-X akan menyerap sebahagian sinaran dan sebahagian lain sinaran akan terbelau dan akan dikumpulkan di pengesan sinaran.
+Sinar yang terbelau menyimpang sebanyak 2θ daripada sinar tujunya.
+Rajah 3.3 Penyimpangan sinar tuju setelah mengalami pembelauan Pengesan Hablur Sinar Tuju pengesan sinaran.
+Sinar yang terbelau menyimpang sebanyak 2θ daripa XRD merupakan radas yang boleh digunakan untuk menentukan struktur molekul atau atom hablur.
+Hablur atom akan menyebabkan sinar-X tuju terbelau kepada beberapa arah.
+Dengan mengukur sudut dan keamatan sinar terbelau, fasa-fasa hablur dapat dikenal pasti dengan melihat ciri belauan bahan tersebut terhadap foton sinar-x yang ditujukan kepadanya.
+Bahan berhablur akan membiaskan sinar-X apabila persamaan Braggs dipenuhi.
+Pengenalpastian bahan dapat dilakukan dengan membandingkan corak belauan dengan siri corak belauan bagi bahan yang telah sedia diketahui atau dibandingkan dengan data piawai.
+Radas belauan sinar-X yang digunakan adalah X-Ray Diffractometer Bruker D8 Advance yang terletak di Makmal Pencirian Fizikal, Bangunan Penyelidikan Pusat Penyelidikan dan Instrumentasi, Universiti Kebangsaan Malaysia.
+Radas ini dihubungkan dengan komputer dan juga sistem pendingin.
+Komputer yang disambungkan dengan radas ini berfungsi untuk mengarahkan radas menjalankan sistem serta mengumpul dan memproses data.
+Data keamatan belauan dan sudut belauan yang diperoleh, direkod ke dalam komputer dan dikeluarkan dalam bentuk difragtogram.
+Fungsi pendingin adalah untuk menyejukkan logam sasaran yang berada di anod.
+Logam sasaran mempunyai haba yang tinggi semasa radas berfungsi kerana tenaga kinetik elektron yang menghentam logam sasaran sebahagiannya bertukar kepada tenaga haba dan penyejukan berterusan perlu dilakukan.
+Analisis sinar-X terbelau memerlukan sampel-sampel yang telah dilabel ditukarkan dalam bentuk serbuk.
+Sampel ini ditumbuk dengan halus menggunakan lesung sehingga serbuk tersebut melepasi tapis piawai berukuran 500 mikron yang digunakan dan kemudian di panaskan di dalam ketuhar pada suhu 120oC sebelum dimasukkan ke dalam bekas untuk dihantar ke makmal.
+Di makmal XRD, sampel akan dikisar sehingga halus dengan menggunakan lesung kristal.
+Selepas itu sampel akan dimasukkan ke dalam botol dan dilabelkan mengikut tapak candi dan bilangannya.
+Botol-botol yang telah dilabel kemudiannya dimasukkan ke dalam kebuk pengeringan untuk menyerap keluar udara lembap.
+Setelah dinyahkan udara lembap, sampel dimasukkan ke dalam pemegang sampel XRD dan ditekan serta diratakan permukaannya untuk mendapat permukaan yang sekata.
+Radas XRD memerlukan masa 5 minit untuk menganalisis satu sampel.
+Sinar-X Berpendarflor (XRF) Spektrometri XRF merupakan suatu kaedah untuk mengenal pasti unsur dan kepekatan unsur dalam sampel menggunakan sinar-X yang mempunyai tenaga dan panjang gelombang yang tertentu.
+Unsur dicirikan berdasarkan tenaga atau panjang gelombang sinar-X pendarflor yang dipancarkan semula manakala keamatan tenaga suatu sinar-X berkadar terus dengan kepekatan unsur dalam sampel.
+Radas XRF yang digunakan adalah daripada model Bruker S8 Tiger yang terletak di Makmal Pencirian Fizikal, Bangunan Penyelidikan Pusat Penyelidikan dan Instrumentasi, Universiti Kebangsaan Malaysia.
+Radas XRF tersebut mengandungi sebuah jana kuasa yang berfungsi sebagai pembekal berkeupayaan tinggi untuk memanaskan filamen dalam tiub sinar-X.
+Tiub sinar-X tersebut akan menghasilkan sinar- X utama yang digunakan untuk menguja atom di dalam sampel.
+Kolimator digunakan untuk meluruskan sinar-X sekunder daripada sampel.
+Hablur pencerakin digunakan sebagai monokromator yang melepaskan ke pembilang sinar cirian yang dianalisis.
+Pengesan dan pembilang serta jaringan pengukur eloktronik dan mikroprosesan yang disambung pada komputer. a) Penyediaan sampel 0.4 g sampel pepejal yang telah dihaluskan dipanaskan selama satu jam pada suhu 105oC sambil digaulkan sehingga kelihatan homogen dengan serbuk fluks sejenis spektrofluk 110 (buatan Johnson & Mathey).
+Campuran ini kemudiannya dibakar di dalam relau dengan suhu 1100oC selama sejam.
+Leburan yang homogen ini akan diacukan ke dalam bekas dan disejukkan secara berperingkat sehingga menjadi kepingan kaca terlakur berketebalan 2 mm dan berdiameter 32 mm.
+Sampel ini mempunyai pencairan 1:10.
+Data yang diperoleh daripada hasil analisis XRD akan dianalisis menggunakan perisian XRD Evaluation Diffrac Plus (EVA).
+Kandungan mineral yang terdapat dalam sampel akan didapati.
+Data yang diperoleh daripada hasil analisis XRF pula menunjukkan Penyediaan sampel kandungan unsur utama dan juga unsur surih yang terdapat dalam sampel bata setiap tapak kajian.
+Maklumat yang diperoleh daripada kaedah XRF akan membantu dalam mencari unsur-unsur yang membina mineral yang terdapat dalam kaedah XRD.
+Hasil yang diperoleh akan dianalisis dengan menggunakan graf plot serakan (scatter plot) dengan menggunakan perisian Microsoft Excel 2010.
+Graf peratusan berat kering bagi aluminium melawan silika dan titanium melawan magnesium didapatkan daripada hasil memplot data.
+Tujuan utama memplot data sedemikian rupa adalah untuk melihat taburan sampel dalam kelompoknya dan daripada graf dapat diperhatikan taburan sampel sama ada ia berkelompok dalam kawasan yang sama atau tidak.
+Ini dapat memberi jawapan sama ada sumber bahan mentah yang digunakan untuk membuat bata menggunakan bahan mentah dalam kawasan yang sama atau tidak.
+Pengujian Teori Kolonisasi dan Teori Pemeribumian Budaya India dan pembuktian Teori Akulturasi Budaya India dan Transformasi Ilmu masyarakat Melayu Batujaya melibatkan penggunaan sumber primer dan sumber sekunder.
+Sumber pertama yang digunakan dalam kajian ini adalah data analisis komposisi bahan bata.
+Sumber kedua pula melibatkan penulisan serta data yang telah diterbitkan oleh penyelidik terdahulu.
+Sumber kedua digunakan dan dibuat pentafsiran semula untuk disesuaikan dengan penyelidikan ini.
+Sumber pertama didapatkan hasil daripada penelitian secara saintifik dengan menggunakan radas XRF dan XRD.
+Data analisis saintifik melibatkan analisis kandungan bahan bata di tapak candi Batujaya yang telah dinyatakan di Bahagian 3.5 dan 3.7.
+Sebanyak enam tapak candi telah dipilih dan setiap tapak diambil 15 sampel bata.
+Hasil kajian diharapkan dapat menyokong hipotesis bahawa bata candi di kawasan percandian Batujaya diperbuat daripada bahan mentah yang sama iaitu di sekitar kawasan tapak candi dan secara tidak langsung menunjukkan pembinaan bangunan candi membabitkan penglibatan masyarakat tempatan.
+Penglibatan masyarakat tempatan dalam pembinaan candi ini bermula daripada pembuatan bata sehinggalah proses pembinaan bangunan candi dengan menggunakan bahan mentah tempatan dan kreativiti sendiri dalam senibina berdasarkan kepada kitab Shilpa shastras.
+Semenjak kajian yang telah dilakukan terhadap tapak-tapak di Batujaya daripada tahun 1984, terdapat 30 tapak yang telah dijumpai di sekitar kawasan tersebut.
+Bangunan candi yang dibina di kawasan Batujaya ini dibina dengan menggunakan bata sebagai bahan binaan utama di samping bahan binaan lain seperti batu, genting, stuko dan juga kayu.
+Bahan bata ini diambil berdasarkan hasil ekskavasi yang telah dilakukan oleh pengkaji terdahulu.
+Analisis terhadap bata yang dibuat daripada sumber bahan mentah tanah liat dilakukan untuk mendapatkan kandungan kimia bata tersebut.
+Kandungan kimia bata tersebut dianalisis menggunakan kaedah Sinar-X Terbelau (XRD) untuk mengetahui kandungan mineral yang terdapat dalam bata tersebut manakala untuk mengetahui kandungan unsur utama dan juga unsur surih, kaedah Sinar-X Berpendarflor (XRF) pula digunakan.
+Maklumat yang diperoleh daripada hasil analisis ini merupakan data terbaru dan sangat diperlukan untuk melengkapkan maklumat berkenaan tapak-tapak di kawasan Batujaya.
+Persoalan sama ada penggunaan bahan mentah tempatan digunakan dalam pembuatan bata akan terjawab dengan hasil analisis ini.
+Daripada persoalan penggunaan bahan mentah tempatan digunakan dalam pembuatan bata, dapatlah dibuat suatu kesimpulan awal berkenaan sumbangan masyarakat tempatan dalam pembuatan bata tersebut dan juga pembinaan bangunan candi yang terdapat di Batujaya.
+Hasil maklumat ini dapat disimpulkan sama ada bata yang digunakan untuk pembinaan bangunan dihasilkan oleh masyarakat tempatan atau dibawa daripada luar kawasan artifak ditemui.
+Kajian ini bertujuan untuk melihat kandungan kimia yang terdapat dalam bata purba bangunan candi yang terpilih di Kompleks Percandian Batujaya, Jawa Barat.
+Kandungan kimia bata akan dibandingkan dengan kandungan kimia tanah liat kawasan sekitaran kompleks percandian.
+Perbandingan ini adalah untuk melihat persamaan dan perbezaan kandungan kimia antara keduanya.
+Perbandingan ini akan menjawab persoalan sama ada bata di kompleks percandian menggunakan sumber bahan mentah tempatan atau tidak.
+Jika terdapat persamaan, maka terbuktilah adanya sumbangan masyarakat tempatan dalam pembangunan kompleks percandian.
+Jika tiada persamaan, maka boleh diberikan kenyataan bahawa bata dibawa masuk daripada luar melalui aktiviti perdagangan asing.
+Sebelum perbincangan mengenai kandungan kimia bata dilakukan, eloklah jika dinyatakan sifat fizikal bata terlebih dahulu.
+Terdapat banyak bentuk dan ukuran bata yang terdapat di kompleks percandian Batujaya seperti segi empat tepat, melengkung, batu bundar, bertakik, bersudut dan bentuk lain.
+Kepelbagaian bentuk dan ukuran ini adalah disebabkan fungsi tertentu pada bata.
+Paling banyak yang ditemui adalah dalam bentuk segi empat tepat yang besar berukuran cm.
+Jika diperhatikan saiz bata ini, boleh dibuat perbandingan seperti bangunan stupa di India terutamanya stupa yang dibina pada zaman Maurya, saiz batanya hampir sama iaitu cm.
+Quaritch Wales telah membuat 2 kelas pembahagian pada saiz bata bersama tahun pembuatannya.
+Beliau menyatakan bahawa bata Kelas Pertama mempunyai kelebaran sama atau lebih daripada 7 inci (17.8 cm) dan merupakan bata yang dibuat sebelum tahun 900 M.
+Bagi bata Kelas Kedua pula, beliau menyatakan bahawa bata kelas ini mempunyai saiz kelebaran yang kurang daripada tujuh inci dan dibuat selepas tahun 900 M.
+Namun, penyelidikan arkeologi secara gali cari yang dilakukan terhadap Tapak Bersejarah Sungai Mas menunjukkan bata yang digunakan untuk pembinaan candi adalah daripada Kelas Dua iaitu dibuat selepas tahun 900 M seperti yang telah dinyatakan oleh Quaritch Wales.
+Jika dilihat pada fizikal bata, dapat dilihat penggunaan sekam atau kulit padi sebagai bahan campuran dalam pembuatan bata.
+Campuran kulit padi ini masih digunakan oleh masyarakat tempatan yang menjalankan perusahaan pembuatan bata.
+Kawasan percandian ini dikelilingi oleh sawah padi yang luas.
+Selain digunakan sebagai bahan bakar untuk proses pengeringan bata, sekam padi juga digunakan sebagai bahan campuran dalam pembuatan bata.
+Di sini jelas dapat dilihat kearifan tempatan masyarakat setempat dalam teknologi pembuatan bata.
+Penelitian terhadap kualiti pembakaran bata menunjukkan adanya bata berkualiti rendah dan tinggi.
+Kualiti bata ini disebabkan oleh bahan mentah dan suhu pembakarannya.
+Namun setelah melihat pecahan-pecahan bata yang terdapat di kawasan percandian, pembakaran bata melalui kadar pembakaran yang mencukupi membolehkan bata teroksida sepenuhnya.
+Suhu pembakaran kurang daripada 700 oC akan menghasilkan bata yang berkualiti rendah seperti rapuh, berongga yang daya serapan air yang tinggi.
+Pembakaran pada suhu yang tinggi akan menghasilkan bata yang keras, tidak rapuh dan mempunyai liang yang kecil.
+Liang kecil ini akan menghasilkan bata yang mempunyai daya serapan air yang rendah.
+Cirian Kandungan Kimia Candi Jiwa (SEG I) Analisis kandungan kimia bata yang diperoleh daripada Candi Jiwa melalui 15 sampel bata untuk dijadikan sampel ulangan dan menjadikan data yang diperoleh lebih jitu.
+Kandungan Mineral Bata Candi Jiwa Analisis kandungan mineral yang dilakukan terhadap 15 sampel bata di kawasan candi Jiwa menunjukkan mineral seperti quartza, andesin, albit, labradorit, anortit, gismondin, kristobalit, anortoklas, baitownit, berlinit, mullit dan juga hematit.
+Daripada analisis didapati hanya kuartza sahaja yang terdapat dalam setiap sampel kerana kuartza merupakan mineral umum yang selalu ada di dalam sampel tanah.
+Andesin juga boleh dilihat dalam setiap sampel kecuali CJ2, CJ4 dan CJ6.
+Bagi albit dan labradorit pula, boleh dilihat dalam setiap sampel kecuali CJ7 dan CJ15 sahaja.
+Bagi mineral anortit pula, mineral ini boleh dilihat dalam semua sampel kecuali CJ6 dan CJ14 sahaja.
+Mineral kristobalit pula boleh dijumpai pada semua sampel kecuali CJ8, CJ9 dan CJ14.
+Bagi mineral seperti gismondin, anortoklas, bitonit, berlinit, mullit dan hematit hanya dijumpai dalam beberapa sampel sahaja serta tidak menyeluruh.
+Kandungan mineral di dalam sampel Candi Jiwa boleh dilihat dalam Jadual 4.1 manakala corak belauan XRD bagi sampel bata Candi Jiwa boleh dirujuk pada Rajah 4.1.
+Kandungan mineral anortit dan hematit yang terdapat dalam sampel menunjukkan bata ini telah dibakar pada suhu melebihi 850oC.
+Anortit merupakan mineral yang terbentuk apabila campuran karbonatik dipanaskan pada suhu yang tinggi.
+Anortit merupakan mineral yang terbentuk menjadi fasa kalsium silikat yang baru apabila illite dan kalsit bertindak balas dengan suhu yang tinggi melebihi 850oC selepas terbentuknya gehlenit pada suhu pembakaran 800oC.
+Hematit pula terbentuk pada suhu 850oC apabila pembentukan oksida besi melalui penghabluran semula daripada Fe yang dibebaskan semasa penguraian filosilikat.
+Kepelbagaian Geokimia Bata Candi Jiwa Analisis unsur utama bata yang terdapat pada Candi Jiwa menunjukkan beberapa unsur seperti silika, titanium, aluminium, ferum, mangan, magnesium, kalsium, natrium, kalium, fosforus dan juga sulfat.
+Peratusan kandungan unsur utama dalam sampel bata Candi Jiwa boleh dirujuk dalam Jadual 4.2 di bawah.
+Daripada jadual dapat dilihat bata mengandungi peratusan berat kering bagi unsur silika antara 59.97 hingga 64.37 peratus.
+Peratusan berat kering bagi unsur titanium pula mencatatkan antara 1.12 hingga 0.96 peratus.
+Bagi unsur aluminium pula, peratusan kandungan berat kering adalah antara 20.93 hingga 24.28 peratus.
+Kandungan peratus berat kering bagi besi pula antara lingkungan 8.98 hingga 10.64 peratus.
+Mangan pula mempunyai berat kering dalam peratus antara 0.17 hingga 0.29 peratus.
+Magnesium pula mempunyai peratusan berat kering antara 0.75 hingga 1.77 peratus dan kalsium pula antara 0.88hingga 1.74 peratus.
+CJ13 CJ14 CJ15 Q Q, G And Kepelbagaian Geokimia Bata Candi Jiwa Bagi kandungan natrium dan kalium masing-masing berada dalam lingkungan 0.40 hingga 1.38 peratus dan 0.80 hingga 1.31 peratus.
+Bagi fosforus dan sulfur pula, peratusan kandungan berat kering masing-masing adalah dalam lingkungan 0.12 hingga 0.30 peratus dan 0.04 hingga 0.08 peratus.
+Sampel Berat Kering (%) SiO2 TiO2 Al2O3 Fe2O3 MnO MgO CaO Na2O K2O P2O5 SO3 c.
+Kandungan Unsur Surih Bata Candi Jiwa Analisis kandungan unsur surih dalam bata Candi Jiwa menunjukkan di dalam bata tersebut terdapat unsur seperti barium, kromium, kuprum, nikel, paladium, rubidium, strontium, zink dan juga zirkonium.
+Kandungan unsur surih yang terdapat dalam sampel bata Candi Jiwa dinyatakan dalam Jadual 4.3.
+Daripada jadual, dapatlah dilihat bahawa kandungan barium berada dalam lingkungan 200 ppm hingga 1000 ppm.
+Kandungan kromium dalam sampel bata pula berada dalam lingkungan 61 ppm hingga 100 ppm.
+Kandungan kuprum pula berada dalam lingkungan 52 ppm hingga 82 ppm.
+Nikel berada dalam lingkungan 37 ppm hingga 71 ppm.
+Bagi kandungan paladium pula, kandungannya berada antara 70 ppm hingga 89 ppm.
+Rubidium dan strontium pula kandungannya masing-masing berada dalam lingkungan 27 ppm hingga 51 ppm dan 84 ppm hingga 200 ppm.
+Kandungan zink dan zirkonium pula berada dalam lingkungan masing-masing 100 ppm hingga 200 ppm dan 200 ppm hingga 300 ppm.
+Unsur BaO Cr2O3 CuO NiO Pd Rb2O SrO ZnO ZrO2 Graf peratusan berat kering bagi unsur aluminium melawan silikon ditunjukkan dalam Rajah 4.1.
+Daripada graf didapati bata mempunyai kandungan silika yang tinggi.
+Rajah 4.2 pula menunjukkan graf taburan peratusan berat kering unsur titanium melawan magnesium bagi sampel bata yang didapati daripada Candi Jiwa dan lempung yang terdapat di kawasan sekitar Kompleks Percandian Batujaya.
+Daripada graf taburan tersebut, dapatlah dibuktikan bahan asas yang sama telah digunakan dan sumber bahan mentah tempatan digunakan dalam proses pembuatan bata candi ini.
+Rajah 4.2 Kandungan peratusan berat kering SiO2 dan Al2O3 dalam sampel bata Candi Jiwa dan lempung di sekitar kawasan percandian Rajah 4.3 Kandungan peratusan berat kering MgO dan TiO2 dalam sampel bata Candi Jiwa dan lempung di Sampel bata Sampel Lempung d.
+Kesimpulan Kandungan mineral yang diperoleh daripada analisis mendapati bata yang digunakan untuk pembinaan Candi Jiwa dibakar pada suhu melebihi 850oC.
+Analisis terhadap kandungan unsur di dalam bata Candi Jiwa pula menunjukkan bahan mentah yang digunakan untuk membuat bata tersebut diambil daripada sumber yang sama.
+Penggunaan bahan mentah tempatan dapat dibuktikan dengan analisis perbandingan yang dilakukan terhadap tanah liat yang terdapat di sekitar kawasan kompleks percandian tersebut.
+Hasil analisis menunjukkan kandungan bahan yang hampir sama bagi sampel bata dan sampel lempung.
+Ini dapat membuktikan sumbangan masyarakat tempatan dalam pembinaan dan pembangunan kawasan percandian.
+Cirian Kandungan Kimia Candi Blandongan Analisis kandungan kimia bata yang diperoleh daripada Candi Blandongan melalui 15 sampel bata untuk dijadikan sampel ulangan dan menjadikan data yang diperoleh lebih jitu.
+Kandungan Mineral Bata Candi Blandongan Analisis kandungan mineral yang terdapat dalam bata Candi Blandongan mendapati terdapat mineral seperti quartza, anortit, albit, labradorit, andesin, kristabolit, hematit, opal, anortoklas, silimanit, gismondin, dan juga berlinit.
+Hanya mineral quartza dan albit sahaja boleh didapati dalam kesemua 15 sampel bata Candi Blandongan.
+Jika dilihat melalui Jadual 4.4, mineral anortit boleh dilihat dalam semua sampel kecuali CB4.
+Bagi mineral labradorit pula, mineral ini boleh didapati dalam semua sampel kecuali CB2, CB5, CB8 dan juga CB13.
+Hematit juga boleh dijumpai dalam kesemua sampel kecuali CB7 dan CB11 sahaja yang tidak mempunyai mineral tersebut.
+Mineral andesin juga boleh didapati dalam semua sampel kecuali CB2, CB3, CB5 dan Kandungan Kimia Candi Blandongan Kandungan Mineral Bata Candi Blandongan CB8.
+Mineral lain seperti opal, anortoklas,silimanit, gismondin dan berlinit hanya boleh didapati dalam beberapa buah sampel sahaja dan tidak menjadi mineral yang utama.
+Anortit merupakan mineral yang terbentuk menjadi fasa kalsium silikat yang baru apabila illite dan kalsit bertindak balas dengan suhu yang tinggi melebihi 850oC selepas terbentuknya gehlenit pada suhu pembakaran 800oC.
+Hematit pula terbentuk pada suhu 850oC apabila pembentukan oksida besi melalui penghabluran semula daripada Ferum yang dibebaskan semasa penguraian filosilikat.
+Kepelbagaian Geokimia Bata Candi Blandongan Kandungan peratusan unsur utama bagi bata Candi Blandongan dapat dilihat dalam bacaan unsur utama yang paling tinggi.
+Kandungan silika berada dalam lingkungan 61.54 hingga 65.71 peratus dengan sampel CB7 merupakan nilai tertinggi manakala CB1 merupakan nilai terendah.
+Bagi unsur titanium pula, peratusan berat kering berada dalam lingkungan 0.98 hingga 1.19 peratus.
+Peratusan berat kering bagi unsur aluminium pula berada dalam lingkungan 18.10 hingga 22.84 peratus.
+Unsur mangan pula mempunyai peratusan berat kering dalam lingkungan 0.17 hingga 0.36 peratus.
+Unsur magnesium mengandungi peratusan berat kering antara 0.94 hingga 1.64 peratus manakala unsur kalsium pula mempunyai berat kering antara 1.09 hingga 2.23 peratus.
+Peratusan kandungan berat kering bagi unsur natrium dan kalium masing-masing berada dalam lingkungan 0.56 hingga 2.02 peratus dan 1.04 hingga 1.59 peratus.
+Unsur fosforus dan sulfur pula mengandungi peratusan berat kering masing-masing dalam lingkungan 0.17 hingga 1.02 peratus dan 0.01 hingga 0.06 peratus.
+CB14 CB15 H Q Kepelbagaian Geokimia Bata Candi Blandongan Sampel Berat Kering (%) SiO2 TiO2 AI2O3 Fe2O3 MnO MgO CaO Na2O K2O P2O5 SO3 c.
+Kandungan Unsur Surih Bata Candi Blandongan Kandungan unsur surih yang terdapat dalam sampel bata daripada Candi Blandongan boleh dilihat dalam Jadual 4.6.
+Daripada jadual, dapat dilihat antara kandungan unsur surih yang terdapat dalam sampel Candi Blandongan adalah barium, kromium, kuprum, nikel, rubidium, strontium, zink dan juga zirkonium.
+Jika diperhatikan melalui jadual, hanya unsur rubidium, strontium dan kuprum sahaja yang hadir dalam setiap sampel.
+Kandungan unsur barium dalam sampel bata adalah dalam lingkungan 200 ppm hingga 1500 ppm.
+Kandungan barium yang tertinggi didapati daripada sampel CB7 dan terendah adalah pada CB3.
+Kandungan kromium didapati daripada sampel berada dalam lingkungan 65 ppm hingga 1000 ppm.
+Kuprum pula dalam bacaan dalam lingkungan 39 ppm hingga 80 ppm.
+Kandungan nikel pula berada antara 41 ppm hingga 66 ppm.
+Bagi unsur rubidium dan strontium pula, masing-masing kandungannya adalah dalam lingkungan 32 ppm hingga 53 ppm dan 100 ppm hingga 200 ppm.
+Kesimpulan Kandungan mineral yang diperoleh daripada analisis mendapati bata yang digunakan untuk pembinaan Candi Blandongan dibakar pada suhu melebihi 850oC.
+Analisis terhadap kandungan unsur di dalam bata Candi Blandongan pula menunjukkan bahan mentah yang digunakan untuk membuat bata tersebut diambil daripada sumber yang sama.
+Cirian Kandungan Kimia Candi Asem Analisis kandungan kimia bata yang diperoleh daripada Candi Asem melalui 15 sampel bata untuk dijadikan sampel ulangan dan menjadikan data yang diperoleh lebih jitu.
+Kandungan Mineral Bata Candi Asem Analisis kandungan mineral yang terdapat dalam bata Candi Asem mendapati terdapat mineral seperti quartza, anortit, andesin, albit dan labradorit yang boleh dijumpai dalam ke semua sampel.
+Mineral hematit pula boleh dilihat pada kesemua sampel kecuali CA2, CA7, dan CA12.
+Selain itu, terdapat mineral lain yang dijumpai seperti bitonit, kristobalit, andradit, spinel, anortoklas, termolit, reonit, gismondin, opal dan akhir sekali klinopiroksin.
+Kandungan mineral yang terdapat dalam ke semua sampel bata yang didapati daripada Candi Asem boleh dilihat dalam Jadual 4.7 manakala corak belauan XRD bagi sampel bata Candi Asem boleh dirujuk pada Rajah 4.7.
+Hematit pula terbentuk pada suhu Kandungan Kimia Candi Asem dijadikan sampel ulangan dan menjadikan data yang diperoleh lebih jitu.
+Kandungan Mineral Bata Candi Asem 850oC apabila pembentukan oksida besi melalui penghabluran semula daripada Fe yang dibebaskan semasa penguraian filosilikat (Cultrone G.
+Kepelbagaian Geokimia Bata Candi Asem Kandungan peratusan unsur utama bagi bata Candi Asem dapat dilihat dalam Jadual 4.8.
+Dapat dilihat daripada jadual sampel bata mengandungi berat kering bagi unsur silika berada dalam lingkungan 57.29 hingga 61.54 peratus.
+Silika merupakan unsur yang paling tinggi dijumpai dalam sampel batu bata Candi Asem ini.
+Daripada jadual juga dapat dilihat peratusan berat kering bagi unsur titanium berada dalam lingkungan 1.05 CA14 CA12 CA13 CA15 CA11 Q B Alb And, Ant H Alb Q B L And hingga 1.33 peratus.
+Unsur besi pula menunjukkan bacaan dalam lingkungan 9.99 hingga 12.98 peratus.
+Mangan pula menunjukkan peratusan berat kering dalam lingkungan 0.11 hingga 0.34 peratus.
+Magnesium pula menunjukkan peratusan berat kering dalam lingkungan 1.04 hingga 2.08 peratus manakala kalsium menunjukkan peratusan berat kering dalam lingkungan 2.15 hingga 3.07 peratus.
+Unsur fosforus dan sulfur pula menunjukkan bacaan dalam lingkungan 0.12 hingga 0.39 peratus dan 0.03 hingga 0.07 peratus.
+Sampel Berat Kering (%) SiO2 TiO2 AI2O3 Fe2O3 MnO MgO CaO Na2O K2O P2O5 SO3 c.
+Kandungan Unsur Surih Bata Candi Asem Kandungan unsur surih yang terdapat dalam sampel bata daripada Candi Asem boleh dilihat dalam Jadual 4.9.
+Daripada jadual, dapat dilihat antara kandungan unsur surih yang terdapat dalam sampel Candi Asem adalah barium, kromium, kuprum, nikel, rubidium, strontium, tungsten, zink dan juga zirkonium.
+Daripada jadual dapat diperhatikan hanya unsur nikel, zink dan zirkonium sahaja boleh didapati daripada kesemua sampel.
+Manakala kuprum, rubidium dan strontium boleh didapati dalam setiap sampel kecuali satu sampel sahaja.
+Kuprum boleh didapati daripada kesemua sampel kecuali CA11, rubidium pula terdapat dalam semua sampel kecuali CA10 manakala strontium boleh dijumpai dalam semua sampel kecuali CA1.
+Kandungan unsur barium di dalam sampel bata Candi Asem menunjukkan bacaan dalam lingkungan 200 ppm hingga 800 ppm.
+Bagi unsur kromium pula, kandungannya berada dalam lingkungan 45 ppm hingga 100 ppm.
+Kandungan kuprum pula berada dalam lingkungan 46 ppm hingga 74 ppm.
+Kandungan nikel berada dalam lingkungan 29 ppm hingga 67 ppm.
+Unsur rubidium dan strontium pula menunjukkan bacaan masing-masing dalam lingkungan 28 ppm hingga 56 ppm dan 200 ppm hingga 300 ppm.
+Kandungan zink dan zirkonium pula menunjukkan bacaan masing-masing dalam lingkungan 100 ppm hingga 200 ppm dan 97 ppm hingga 300 ppm.
+Tungsten merupakan unsur yang jarang ditemui dan bacaannya boleh dilihat berada dalam lingkungan 200 ppm hingga 700 ppm.
+Unsur BaO Cr2O3 CuO NiO Rb2O SrO WO3 ZnO ZrO2 CA10 CA11 CA12 CA13 CA14 CA15 Graf peratusan berat kering bagi unsur aluminium melawan silikon ditunjukkan dalam Rajah 4.5.
+Daripada graf didapati bata mempunyai kandungan silika yang tinggi. ukkan bacaan masing-masing dalam lingkungan 100 ppm hingga 200 ppm dan 97 Ini menunjukkan bahan mentah yang digunakan mempunyai kandungan pasir yang tinggi.
+Rajah 4.6 pula menunjukkan graf taburan peratusan berat kering unsur titanium melawan magnesium bagi sampel bata yang didapati daripada Candi Asem dan lempung yang terdapat di kawasan sekitar Kompleks Percandian Batujaya.
+Rajah 4.8 Kandungan peratusan berat kering SiO2 dan Al2O3 dalam sampel bata Candi Asem dan lempung di sekitar kawasan percandian Sampel bata Sampel Lempung Rajah 4.9 Kandungan peratusan berat kering MgO dan TiO2 dalam sampel bata Candi Asem dan lempung di sekitar kawasan percandian d.
+Kesimpulan Kandungan mineral yang diperoleh daripada analisis mendapati bata yang digunakan untuk pembinaan Candi Asem dibakar pada suhu melebihi 850oC.
+Analisis terhadap kandungan unsur di dalam bata Candi Asem pula menunjukkan bahan mentah yang digunakan untuk membuat bata tersebut diambil daripada sumber yang sama.
+Cirian Kandungan Kimia Candi Damar Analisis kandungan kimia bata yang diperoleh daripada Candi Damar melalui 15 sampel bata untuk dijadikan sampel ulangan dan menjadikan data yang diperoleh lebih jitu.
+Sampel bata Sampel Lempung Kesimpulan untuk pembinaan Candi Asem dibakar pada suhu melebihi 850 a.
+Kandungan Mineral Bata Candi Damar Analisis kandungan mineral yang terdapat dalam bata Candi Damar mendapati terdapat mineral seperti kuartza, kristobalit, hematit, anortoklas, labradorit, gismondin, mullet, aqlbit, fayalit, berlinit, klinopiroksin, silimanit, derbilit, anortit dan juga andesin.
+Mineral kuartza boleh dilihat dalam semua sampel.
+Mineral kristobalit juga boleh dijumpai pada semua sampel kecuali CD14 dan CD15.
+Kandungan mineral yang terdapat dalam ke semua sampel bata yang didapati daripada Candi Damar boleh dilihat dalam Jadual 4.10 manakala corak belauan XRD bagi sampel bata Candi Damar boleh dirujuk pada Rajah 4.10.
+Corak belauan XRD bata Candi Damar b.
+Kepelbagaian Geokimia Bata Candi Damar Kandungan peratusan unsur utama bagi bata Candi Damar dapat dilihat dalam Jadual 4.11.
+Peratusan berat kering bagi unsur titanium berada dalam lingkungan 1.04 hingga 1.16 peratus.
+Bagi unsur aluminium pula, kandungannya dalam peratus berada antara 17.10 hingga 24.15 peratus.
+Kandungan peratusan berat kering bagi unsur besi pula berada dalam lingkungan 8.83 hingga 12.32 peratus.
+Unsur mangan mengandungi peratusan berat kering dalam lingkungan 0.14 hingga 0.65 peratus.
+Unsur magnesium pula mempunyai peratusan berat kering daripada 0.68 hingga 1.91 peratus manakala kalsium pula mempunyai peratusan berat kering daripada 0.54 hingga 3.03 peratus.
+Peratusan berat kering unsur natrium dan kalium masing-masingnya berada dalam lingkungan 0.36 hingga 1.59 peratus dan 0.68 hingga 1.43 peratus.
+Unsur fosforus dan juga unsur sulfur pula mempunyai bacaan peratusan CD14 CD15 CD13 C Ant And H Q Q, S Q, M Petunjuk: Q= kuartza; H=Hematit; C=Cristobalite; Ant=Anorthite; G=Gismondine; L=Labradorite Kepelbagaian Geokimia Bata Candi Damar berat kering masing-masing dalam lingkungan 0.11 hingga 0.48 peratus dan 0.02 hingga 0.08 peratus.
+Sampel Berat Kering (%) SiO2 TiO2 AI2O3 Fe2O3 MnO MgO CaO Na2O K2O P2O5 SO3 c.
+Kandungan Unsur Surih Bata Candi Damar Kandungan unsur surih yang terdapat dalam sampel bata daripada Candi Damar boleh dilihat dalam Jadual 4.12.
+Daripada jadual, dapat dilihat antara kandungan unsur surih yang terdapat dalam sampel Candi Damar adalah barium, kromium, kuprum, nikel, rubidium, strontium, zink dan juga zirkonium dan sedikit klorin.
+Daripada jadual dapat diperhatikan hanya unsur rubidium, strontium dan zink sahaja boleh didapati daripada kesemua sampel.
+Manakala unsur zirkonium boleh didapati dalam setiap sampel kecuali satu sampel sahaja iaitu CD1.
+Kuprum boleh didapati daripada kesemua sampel kecuali CD6 dan CD10.
+Kandungan unsur barium di dalam sampel bata Candi Damar menunjukkan bacaan dalam lingkungan 200 ppm hingga 600 ppm.
+Bagi unsur kromium pula, kandungannya berada dalam lingkungan 43 ppm hingga 100 ppm.
+Kandungan kuprum pula berada dalam lingkungan 53 ppm hingga 79 ppm.
+Kandungan nikel berada dalam lingkungan 37 ppm hingga 70 ppm.
+Unsur rubidium dan strontium pula menunjukkan bacaan masing-masing dalam lingkungan 24 ppm hingga 49 ppm dan 69 ppm hingga 200 ppm.
+Kandungan zink dan zirkonium pula menunjukkan bacaan masing- masing dalam lingkungan 55 ppm hingga 200 ppm dan 100 hingga 300 ppm.
+Klorin merupakan unsur yang jarang ditemui dan bacaannya boleh dilihat berada dalam lingkungan 96 ppm hingga 310 ppm.
+Unsur Bao Cr2O3 CuO NiO Rb2O SrO ZnO ZrO2 Cl CD10 CD11 CD12 CD13 CD14 CD15 Graf peratusan berat kering bagi unsur aluminium melawan silikon ditunjukkan dalam Rajah 4.7.
+Rajah 4.8 pula menunjukkan graf taburan peratusan berat kering unsur titanium melawan magnesium bagi sampel bata yang didapati daripada Candi Damar dan lempung yang terdapat di kawasan sekitar Kompleks Percandian Batujaya.
+Rajah 4.11 Kandungan peratusan berat kering SiO2 dan Al2O3 dalam sampel bata Candi Damar dan lempung di sekitar kawasan percandian Sampel bata Sampel Lempung Kandungan peratusan berat kering SiO2 dan Al2O3 dalam sampel bata Candi Damar dan Rajah 4.12 Kandungan peratusan berat kering MgO dan TiO2 dalam sampel bata Candi Damar dan lempung di sekitar kawasan percandian d.
+Kesimpulan Kandungan mineral yang diperoleh daripada analisis mendapati bata yang digunakan untuk pembinaan Candi Damar dibakar pada suhu melebihi 850oC.
+Analisis terhadap kandungan unsur di dalam bata Candi Damar pula menunjukkan bahan mentah yang digunakan untuk membuat bata tersebut diambil daripada sumber yang sama.
+Mineral anortit dan andesin juga boleh dijumpai pada semua sampel kecuali CL12.
+Kandungan mineral yang terdapat dalam ke semua sampel bata yang didapati daripada Candi Lingga boleh dilihat dalam Jadual 4.13 manakala corak belauan XRD bagi sampel bata Candi Lingga boleh dirujuk pada Rajah 4.13.
+Anortit merupakan Kandungan Kimia Candi Lingga Kandungan Mineral Bata Candi Lingga mineral yang terbentuk menjadi fasa kalsium silikat yang baru apabila illite dan kalsit bertindak balas dengan suhu yang tinggi melebihi 850oC selepas terbentuknya gehlenit pada suhu pembakaran 800oC.
+Kepelbagaian Geokimia Bata Candi Lingga Kandungan peratusan unsur utama bagi bata Candi Lingga dapat dilihat dalam Jadual 4.14.
+Titanium pula mempunyai kandungan peratusan berat kering antara 0.93 hingga 1.15 peratus.
+Aluminium pula mengandungi peratusan berat kering daripada 19.20 hingga 22.29 peratus.
+Kandungan berat kering dalam peratus bagi unsur besi adalah dalam lingkungan 9.35 hingga 11.58 peratus.
+Unsur mangan pula berada dalam lingkungan 0.11 hingga 0.42 peratus kandungannya.
+Peratusan berat kering bagi unsur natrium dan kalium CL14 CL13 CL15 Q CAnd H Ant Q And Alb L QAnd masing-masing berada dalam lingkungan 0.70 hingga 1.76 peratus dan 1.10 hingga 1.55 peratus.
+Bagi unsur fosforus dan sulfur pula, kandungan peratusan berat kering masing- masing adalah dalam lingkungan 0.16 hingga 0.96 peratus dan 0.03 hingga 0.07 peratus.
+Sampel Berat Kering (%) SiO2 TiO2 AI2O3 Fe2O3 MnO MgO CaO Na2O K2O P2O5 SO3 c.
+Kandungan Unsur Surih Bata Candi Lingga Kandungan unsur surih yang terdapat dalam sampel bata daripada Candi Lingga boleh dilihat dalam Jadual 4.15.
+Daripada jadual dapat diperhatikan hanya unsur kuprum, rubidium, strontium, zink dan zirkonium sahaja unsur surih yang terdapat dalam setiap sampel.
+Bagi kandungan setiap unsur surih tersebut, kandungan barium berada dalam lingkungan 300 ppm hingga 600 ppm.
+Kandungan unsur kromium dalam sampel bata berada dalam lingkungan 56 ppm hingga 100 ppm.
+Kandungan kuprum pula berada dalam lingkungan 49 ppm hingga 86 ppm.
+Nikel pula kandungannya berada dalam lingkungan 39 ppm hingga 67 ppm.
+Bagi unsur rubidium dan strontium pula, kandungannya masing-masing berada dalam lingkungan 29 ppm hingga 52 ppm bagi rubidium dan 100 ppm hingga 300 ppm bagi strontium.
+Kandungan unsur zink dan zirkonium pula masing-masing berada dalam lingkungan 83 ppm hingga 200 ppm dan 100 ppm hingga 200 ppm.
+Kandungan unsur klorin pula berada dalam lingkungan 92 ppm hingga 100 ppm.
+Rajah 4.10 pula menunjukkan graf taburan peratusan berat kering unsur titanium melawan magnesium bagi sampel bata yang didapati daripada Candi Lingga dan lempung yang terdapat di kawasan sekitar Kompleks Percandian Batujaya.
+Hanya mineral kuartza dan kristobalit sahaja boleh dijumpai dalam semua sampel.
+Mineral albit pula boleh dijumpai dalam semua sampel kecuali CSB10 dan CSB11.
+Keberadaan mineral yang lain boleh dilihat dan dirujuk dalam Jadual 4.16 manakala corak belauan XRD bagi sampel bata Candi Serut B boleh dirujuk pada Rajah 4.16.
+Peratusan kandungan unsur utama dalam sampel bata Candi Serut B boleh dirujuk dalam Jadual 4.17 di bawah.
+Daripada jadual dapat dilihat sampel bata mengandungi peratusan berat kering bagi unsur silika berada antara 57.74 hingga 64.68 peratus.
+Peratusan kandungan berat kering bagi aluminium berada dalam lingkungan 19.09 hingga 24.26 peratus.
+Peratusan berat kering bagi besi pula adalah dalam lingkungan 8.9 hingga 12.06 peratus.
+Bagi unsur magnesium, peratusan kandungan berat kering bagi natrium dan kalium masing-masing berada dalam lingkungan 0.52 hingga 1.48 peratus dan 0.97 hingga 1.35 peratus.
+Fosforus dan sulfur CSB14 CSB13 CSB15 H And Q C Kepelbagaian Geokimia Bata Candi Serut B pula, kandungan peratusan berat kering masing-masing berada dalam lingkungan 0.24 hingga 0.76 peratus dan 0.04 hingga 0.18 peratus.
+Sampel Berat Kering (%) SiO2 TiO2 Al2O3 Fe2O3 MnO MgO CaO Na2O K2O P2O5 SO3 c.
+Kandungan unsur surih yang terdapat dalam sampel bata Candi Serut B dinyatakan dalam Jadual 4.18.
+Jika diperhatikan, unsur mempunyai kandungan dalam lingkungan 200 ppm hingga 600 ppm.
+Bagi unsur kromium, kandungannya berada dalam lingkungan 50 ppm hingga 100 ppm.
+Kuprum pula berada dalam lingkungan 54 ppm hingga 87 ppm kandungannya.
+Unsur nikel berada dalam lingkungan 38 ppm hingga 61 ppm.
+Bagi unsur rubidium dan strontium pula, kandungannya masing-masing berada dalam lingkungan 32 ppm hingga 54 ppm dan 100 ppm hingga 400 ppm.
+Zink dan zirkonium pula mempunyai bacaan masing-masing dalam lingkungan 100 ppm hingga 1100 ppm dan 100 ppm hingga 400 ppm.
+Unsur klorin pula mempunyai kandungan unsurnya dalam lingkungan 100 ppm hingga 2800 ppm.
+Unsur BaO Cr2O3 CuO NiO Rb2O SrO ZnO ZrO2 Cl CSB10 CSB11 CSB12 CSB13 CSB14 CSB15 Graf peratusan berat kering bagi unsur aluminium melawan silikon ditunjukkan dalam Rajah 4.11.
+Rajah 4.12 pula menunjukkan graf taburan peratusan berat kering unsur titanium melawan magnesium bagi sampel bata yang didapati daripada Candi Serut B dan lempung yang terdapat di kawasan sekitar Kompleks Percandian Batujaya.
+Rajah 4.17 Kandungan peratusan berat kering SiO2 dan Al2O3 dalam sampel bata Candi Serut B dan lempung di sekitar kawasan percandian Rajah 4.18 Kandungan peratusan berat kering MgO dan TiO2 dalam sampel bata Candi Serut B dan Sampel bata Sampel Lempung d.
+Kesimpulan Kandungan mineral yang diperoleh daripada analisis mendapati bata yang digunakan untuk pembinaan Candi Serut B dibakar pada suhu melebihi 850oC.
+Analisis terhadap kandungan unsur di dalam bata Candi Serut B pula menunjukkan bahan mentah yang digunakan untuk membuat bata tersebut diambil daripada sumber yang sama.
+Analisis yang telah dilakukan terhadap kandungan unsur di dalam bata purba yang dijumpai di Kompleks Percandian Batujaya menunjukkan kebanyakan sampel menggunakan sumber bahan mentah yang sama.
+Berdasarkan analisis unsur utama dan unsur surih, dapat ditunjukkan bahawa bahan mentah yang digunakan untuk membuat bata tersebut diambil daripada sumber yang sama.
+Penelitian terhadap tanah liat yang didapati dari kawasan percandian Batujaya adalah untuk mendapatkan maklumat kandungan kimia tanah liat di kawasan percandian.
+Penelitian ini diperlukan untuk membuat perbandingan dengan kandungan kimia bata seperti yang telah dinyatakan pada Bab 4 sebelum ini.
+Kajian perbandingan kandungan kimia antara tanah liat dan sampel bata candi di Lembah Bujang, Kedah, Malaysia telah dilakukan oleh Zuliskandar Ramli.
+Beliau telah membandingkan kandungan kimia batu bata candi di Lembah Bujang dengan lempung atau tanah liat yang terdapat berhampiran dengan bangunan candi.
+Kajian yang dilakukan oleh Zuliskandar mendapati bahan mentah lempung atau tanah liat yang digunakan dalam pembuatan bata bangunan candi di Lembah Bujang diambil daripada kawasan sungai berhampiran atau kawasan berhampiran bangunan candi tersebut.
+menyatakan analisis kimia yang digunakan dalam bidang arkeologi amat penting untuk mengetahui persoalan dalam jumpaan sesuatu artifak seperti dari mana sumber dan asal-usul artifak, teknologi pembuatan artifak dan juga perjalanan perdagangan sesuatu artifak.
+Oleh yang demikian, dalam kajian ini, dengan membandingkan analisis kandungan kimia bata dan tanah liat di kawasan percandian, dapatlah menyelesaikan permasalahan sama ada tanah liat yang digunakan untuk menghasilkan bata candi dihasilkan dengan menggunakan bahan mentah tempatan, seterusnya dapat dibuat satu kesimpulan awal bahawa masyarakat tempatan merupakan nelitian ini diperlukan untuk membuat perbandingan dengan kandungan kimia bata pihak yang bertanggungjawab dalam penghasilan bata tersebut.
+Penggunaan kaedah analisis kandungan kimia juga merupakan kaedah yang terbaik bagi membuktikan secara saintifik bahawa bata yang digunakan dalam pembinaan bangunan candi dihasilkan secara tempatan ataupun diperoleh daripada luar melalui urusan perdagangan.
+Tanah liat merupakan bahan mentah utama dalam pembuatan bata.
+Beberapa sifat unik tanah liat merupakan antara sebab mengapa tanah liat sesuai digunakan untuk membuat bata.
+Tanah liat boleh didapati dengan banyak di dataran atau lembah-lembah sungai dan terhasil daripada proses luluhawa yang menghakis batuan dalam tempoh jutaan tahun.
+Sifat utamanya adalah ia mempunyai sifat keelastikan semasa basah dan padat serta keras semasa kering.
+Tanah liat merupakan suatu bahan mentah yang senang dibentuk untuk dibuat bata, tembikar dan lain-lain.
+Selepas tanah liat dibentuk, ia akan dikeringkan untuk struktur tersebut menjadi keras.
+Kaedah pengeringan tanah liat adalah dengan pengeringan di bawah cahaya matahari, dibakar secara terbuka dan dibakar dalam relau khas.
+Sifatnya yang mudah dibentuk dan sumber bahan mentahnya yang banyak membolehkan ia digunakan dalam pelbagai jenis industri.
+Dalam bidang arkeologi, tanah liat merupakan sebatian atau campuran yang akan membentuk tanah apabila bercampur dan dilarutkan dengan air.
+Proses campuran dan pelarutan ini akan memudahkan tanah liat tersebut dibentuk mengikut bentuk yang dikehendaki oleh pembuatnya.
+Zvigoffer menyatakan struktur tanah liat akan berubah menjadi keras dan padat apabila ia dikeringkan dan dipanaskan pada suhu maksimum.
+Apabila dipanaskan dalam relau, sifat fizikal dan kimia bahan yang diperbuat daripada tanah liat akan mengalami perubahan menjadi bahan dan sifat seramik.
+Disebabkan sifat yang boleh berubah-ubah, tanah liat digunakan sebagai bahan utama dalam pembuatan tembikar, barang keperluan dan hiasan dan juga bahan pembinaan seperti batu bata, dinding dan juga jubin lantai.
+Tanah liat yang berlainan yang mempunyai kandungan mineral yang berlainan dan juga kaedah pembakaran yang berlainan digunakan dalam industri pembuatan tembikar tanah, tembikar batu dan juga porselin.
+Kegunaan tanah liat sebagai bahan untuk membuat barangan ini telah ditemui manusia sejak zaman prasejarah lagi.
+Antara serpihan tembikar terawal yang dijumpai adalah dari tengah Honshu, Jepun.
+Kawasan ini dikaitkan dengan masyarakat kebudayaan Jomon dan pentarikhan yang dibuat terhadap objek budaya tinggalan masyarakat ini adalah sekitar 14 ribu tahun sebelum Masihi.
+Tanah liat terhasil daripada zarah mineral yang halus.
+Zarah yang halus ini merupakan campuran antara butiran mineral halus dengan bahan organik dan mempunyai saiz zarah kurang daripada 0.002 mm (2 mikrons).
+Tanah liat mempunyai luas permukaan per isi padu yang luas oleh sebab keadaan zarah tanah liat yang sangat halus dan fungsi mineral yang terkandung di dalamnya.
+Tanah liat terhasil daripada tindak balas penguraian kimia dan penghancuran batuan daripada gunung berapi dan beberapa jenis batu yang lain.
+Ia merupakan hasil daripada proses luluhawa daripada batu bersedimen.
+Tanah liat merupakan antara sebatian tanah yang paling banyak dijumpai dalam sekitaran.
+Terdapat dua jenis tanah liat yang boleh ditemui iaitu tanah liat kategori pertama dan tanah liat kategori kedua.
+Tanah liat jenis pertama adalah enapan pada batuan asal dan selalunya mempunyai kandungan yang tulen, bewarna putih dan tidak begitu liat.
+Contoh bagi tanah liat jenis pertama adalah tanah liat China.
+Tanah liat yang biasa dikenali oleh umum adalah tanah liat jenis kedua.
+Tanah liat ini telah dialihkan daripada kawasan asalnya ke tempat lain melalui proses yang memakan masa bertahun-tahun.
+Tanah liat ini mempunyai julat warna yang besar iaitu daripada merah ke kuning hingga kelabu dan seterusnya warna hitam.
+Ianya mempunyai sifat yang lebih elastik dan lebih senang dibentuk.
+Tanah liat jenis kedua ini mudah didapati kerana ia boleh dijumpai hanya beberapa kaki sahaja daripada permukaan tanah, namun ia sukar digunakan secara komersial kerana kuantitinya yang tidak banyak dijumpai dalam satu- satu kawasan.
+Kandungan mineral yang terdapat dalam tanah liat bergantung pada beberapa parameter atau keadaan seperti tekanan dan kandungan mineral di kawasan tanah liat ini terbentuk.
+Biasanya ia mempunyai empat jenis mineral yang boleh dijumpai terdapat dalam tanah liat seperti kuartza, kaolinit, mika dan feldspar.
+Kuartza Kuartza merupakan mineral kedua terbanyak yang terdapat di bumi selepas feldspar.
+Struktur hablurnya adalah silikon-oksigen tetraheda, SiO4, dengan setiap oksigen berkongsi antara dua tetrahedra, yang memberikan formula kimianya SiO2.
+Ia merupakan mineral yang jarang dijumpai berasingan daripada mineral lain.
+Mineral silika boleh didapati dalam berbagai-bagai bentuk struktur hablur dengan pelbagai nama.
+Kuartza dan kristobalit merupakan mineral silika yang selalu dijumpai dalam tanah.
+Kandungan silika yang terdapat dalam kuartza dan kristabolit adalah berbeza.
+Perbezaan kandungan silika ini memberikan sifat yang tertentu bagi bahan seperti a) Kesan perubahan ketumpatan ke atas pencampuran bahan jasad. b) Kepentingan pengembangan terma keseluruhan c) Kesan daripada penukaran struktur hablur Feldspar Mineral ini merupakan mineral yang selalu dijumpai dalam bahan yang berasaskan tanah liat.
+Mineral ini biasanya akan memberikan rangsangan kepada tanah liat dalam pembentukan fasa kekaca dalam seramik.
+Kesemua ahli kumpulan feldspar merupakan alumina-silikat dan hadir bersama-sama dengan kalium, natrium dan kalsium.
+Tiga jenis feldspar yang boleh ditemui dalam tanah liat adalah; i.
+Kalium feldspar (ortoklas atau mikroklin) ii.
+Kalsium feldspar (anortit) Kaolinit Kaolinit merupakan mineral terkandung dalam tanah liat yang mengandungi struktur kimia Al2Si2O5(OH)4.
+Ia dilapisi dengan mineral silikat pada satu bahagian tetrahedral silika (SiO4) yang berhubung melalui atom oksigen pada satu bahagian oktahedral alumina (AlO6).
+Batuan yang kaya dengan kaolinit dinamakan koalin ataupun tanah liat China.
+Dalam bidang kajian seramik, kaolinit merupakan bahan utama dalam penghasilan porselin.
+Kepentingan pengembangan terma keseluruhan Kesan daripada penukaran struktur hablur Feldspar Kaolinit merupakan mineral yang lembut, bewarna putih (dioktahedral filosilikat), terhasil daripada luluhawa kimia mineral aluminium silikat seperti feldspar.
+Sebahagian tempat di dunia, terdapat kaolinit yang mempunyai warna merah jambu-jingga-merah disebabkan oleh oksida besi, memberikan ia warna karat yang berbeza-beza.
+Jika suatu mineral kaolinit itu mempunyai kepekatan yang rendah, ia akan menghasilkan warna keputihan, kekuningan dan juga sedikit jingga.
+Kumpulan tanah liat kaolinit akan mengalami siri penjelmaan berdasarkan tindakan haba dalam udara pada tekanan atmosfera.
+Mika Mika merupakan mineral yang bertabur secara meluas dalam batuan igneus, metamorfik dan juga batuan endapan.
+Kumpulan mika diwakili oleh 37 mineral filosilikat.
+Antara mineral mika yang biasa dan penting adalah muskovit dan flogopit yang digunakan secara meluas dalam pelbagai bidang.
+Nilai sesuatu mineral mika bergantung pada beberapa sifat fizikalnya yang istimewa dan tersendiri.
+Struktur hablur mika yang berlapis boleh dipisahkan kepada beberapa lapisan nipis menyebabkan struktur batuan yang nampak lapisannya.
+Lapisan nipis inilah yang memberikan pelbagai sifat istimewa kepada mika.
+Mika telah digunakan oleh manusia sejak zaman prasejarah lagi.
+Mika telah digunakan oleh tamadun India, Mesir, Yunani, Rom, China dan juga Aztec.
+Jumpaan penggunaan mika terawal telah didapati daripada lukisan gua yang dianggarkan pada zaman Paleolitik Akhir.
+Beberapa kilometer timur laut bandar Mexico, telah berdiri satu tapak tamadun iaitu Teotihuacan.
+Struktur yang menarik perhatian tamadun ini adalah menara Piramid Matahari.
+Bangunan piramid ini mengandungi sejumlah besar kandungan mika berlapisan sehingga 30 cm.
+Manakala mika semula jadi telah dan masih digunakan oleh Taos dan Picuris Pueblos Indian di utara tengah Mexico untuk membuat tembikar.
+Tembikar tersebut dibuat dengan menggunakan Precambrian syis mika terluluhawa dan mempunyai tompokan mika pada sekeliling tembikar tersebut.
+Di Tewa Pueblo pula tembikarnya dibuat dengan melapisi tanah liat dengan mika untuk memberikan tembikar yang lebih padat dan berkilau 5.3 Sampel tanah liat bagi data bandingan telah diambil berhampiran kawasan percandian Batujaya.
+Secara khususnya, sampel diambil di tiga kawasan iaitu lombong pengambilan tanah liat kilang membuat bata yang telah ditinggalkan, tepi Sungai Citarum dan tanah liat yang sudah dibancuh untuk dijadikan bata oleh penduduk tempatan yang mengusahakan industri pembuatan bata.
+Nama sampel dan keterangannya boleh dirujuk di Jadual 5.1 di bawah.
+Sampel Keterangan L1 Tapak lombong sumber tanah liat kilang bata yang telah ditinggalkan L2 B1 Tepi Sungai Citarum, tanah liat kesan daripada banjir B2 Bancuhan tanah liat untuk dibuat bata 5.4 Analisis warna sampel tanah liat telah dilakukan berdasarkan analisis secara kualitatif iaitu dengan menggunakan carta warna Munsell Soils Colour Chart sebagai petunjuk warna. Jadual 5.2 di bawah menunjukkan bacaan yang diperoleh daripada Munsell Soils Colour Chart.
+Keterangan Warna hve 10yr 3 3/6 Dark yellowish brown hve 10yr 4 4/3 Dark brown hve 10yr 5 5/3 Brown hve 10yr 5 5/4 Yellowish brown 5.5 Analisis kandungan mineral yang dilakukan terhadap 5 sampel tanah liat yang terdapat berhampiran kawasan percandian menunjukkan terdapatnya mineral seperti yang ditunjukkan dalam Jadual 5.3.
+Jadual menunjukkan kandungan mineral yang terdapat dalam sampel tanah yang diambil mempunyai mineral quartza dan montmorillonite pada setiap sampel.
+Mineral lain seperti kaolinite, albit, kristobalit, labradorite, dorrit dan juga anortit.
+Sampel Kandungan Mineral B1 Quartz SiO2 Albite, ordered – Na Al Si3O8 Montmorillonite – (Ca, Na)0.3Al2(Si,Al)4O10(OH)2x H2O B2 Cristobalite low SiO2 Kaolinite-1A – Al2Si2O5(OH)4 L1 Kaolinite – Al2Si2O5(OH)4 Labradorite – (Na0.4Ca0.6)Al1.6Si2.4O8 L2 Albite calcian – (Na0.84Ca0.16)Al1.16Si2.84O8 Anorthite – Ca(Al2Si2O8) Albite calcian (Na0.499Ca0.491)(Al1.488Si2.506O8) Muscovite-M21 – KAl2(AlSi3)10)(OH)2 Dorrite – Ca2(Mg2Fe4+3)(Al4Si2)O20 Montmorillonite – (Ca, Na)0.3Al2(Si,Al)4O10(OH)2x H2O 5.6 Analisis unsur utama sampel tanah liat yang terdapat berhampiran kawasan percandian menunjukkan beberapa unsur seperti silika, titanium, aluminium, ferum, mangan, magnesium, kalsium, natrium, kalium, fosforus dan juga sulfat.
+Peratusan kandungan unsur utama dalam sampel tanah liat boleh dirujuk dalam Jadual 5.4 di bawah.
+Daripada jadual dapat dilihat tanah liat mengandungi peratusan berat kering bagi unsur silika antara 50.22 hingga 52.88 peratus.
+Kandungan peratus berat kering bagi besi pula antara lingkungan 7.80 hingga 9.73 peratus.
+Magnesium pula mempunyai peratusan berat kering antara 1.23 hingga 1.49% peratus dan kalsium pula antara 1.27 hingga 1.57 peratus.
+Bagi kandungan natrium dan kalium masing-masing berada dalam lingkungan 0.41 hingga 1.26 peratus dan 0.89 hingga 1.39 peratus.
+Analisis kandungan unsur surih menunjukkan di dalam tanah liat tersebut terdapat unsur seperti barium, kromium, kuprum, nikel, rubidium, strontium, zink, galium, arsenik, kobalt, klorin dan juga zirkonium.
+Kandungan unsur surih yang terdapat dalam sampel tanah liat dinyatakan dalam Jadual 5.5.
+Daripada jadual, dapatlah dilihat bahawa kandungan barium hanya berada pada sampel L2 dengan bacaan 500 ppm.
+Kandungan kromium dalam sampel tanah liat pula hanya terdapat pada sampel L1 dan L2 dengan bacaan masing 100 dan 99 ppm.
+Kandungan kuprum pula berada dalam lingkungan 43 ppm hingga 85 ppm dan terdapat pada kesemua sampel.
+Nikel berada dalam lingkungan 39 ppm hingga 63 ppm yang hanya terdapat pada sampel L1, B1 dan BCH sahaja.
+Rubidium boleh didapati pada kesemua sampel dengan bacaan antara 36 hingga 62 ppm manakala strontium juga boleh didapati pada kesemua sampel dengan kandungannya dalam lingkungan 100 hingga 200 ppm.
+Kandungan zink yang boleh dilihat pada ke semua sampel pula berada dalam lingkungan 100 ppm hingga 200 ppm dan zirkonium juga boleh dilihat pada kesemua sampel yang mempunyai kandungan 200 ppm pada kesemua sampel.
+Unsur galium pula boleh dilihat kandungannya pada sampel L1 dan B2 sahaja dengan kandungannya masing-masing 30 ppm dan 29 ppm.
+Unsur arsenik juga boleh dilihat pada semua sampel kecuali L2 dengan kandungannya berada dalam lingkungan 25 hingga 200 ppm.
+Unsur kobalt pula hanya boleh dilihat pada sampel B2 dengan kandungannya 300 ppm.
+Unsur yang terakhir boleh dilihat dalam sampel tanah liat ini adalah klorin yang hanya dijumpai pada sampel B2 dan BCH sahaja dengan kandungan keduanya yang sama iaitu 200 ppm.
+Sampel Berat Kering (%) SiO2 TiO2 Al2O3 Fe2O3 MnO MgO CaO Na2O K2O P2O5 SO3 L1 L2 B1 B2 Unsur BaO Cr2O3 CuO NiO Rb2O SrO ZnO ZrO2 Ga2O3 As2O3 CoO Cl Na2 5.7 Analisis terhadap kandungan utama di dalam sampel tanah liat yang terdapat di kawasan percandian Batujaya menunjukkan kandungan silika, aluminium dan besi yang tinggi.
+Kandungan aluminium yang tinggi disebabkan oleh kandungan lempung yang tinggi.
+Kandungan besi yang tinggi pula akan menjadikan warna pembakaran artifak berasaskan tanah liat akan menjadi warna gelap pada suhu yang tinggi.
+Kandungan pada unsur surih pula menunjukkan kandungan kepekatan yang seragam dalam sampel.
+Analisis terhadap kandungan mineral, kandungan unsur utama dan unsur surih terhadap tanah liat ini sangat penting untuk menentukan sumber asal artifak arkeologi yang dibuat dengan menggunakan tanah liat.
+Hasil analisis kandungan mineral, unsur utama dan unsur surih tanah liat akan dibandingkan dengan sampel bata dalam kajian ini.
+Jika terdapat persamaan antara keduanya, dapatlah dibuat kesimpulan bahawa tanah liat yang digunakan untuk membuat bata di Kompleks Percandian Batujaya diambil di kawasan sekitar kawasan percandian.
+Daripada kesimpulan tersebut dapatlah dibuat andaian bahawa masyarakat yang telah membangunkan kompleks percandian di Batujaya.
+Ini dapat memberikan andaian bahawa masyarakat setempat telah mempunyai teknologi dalam pembuatan bata seterusnya mempunyai pengetahuan dalam pembinaan bangunan candi.
+Bata yang dapat dilihat di kawasan percandian Batujaya ini mempunyai saiz dan bentuk yang berbeza-beza mengikut fungsinya yang tersendiri.
+Gambar 6.1 Ukuran saiz bata candi di Batujaya Sekam padi dan pasir boleh dijumpai sebagai bahan campuran dalam bata.
+Gambar 6.2 menunjukkan terdapatnya kesan sekam padi pada bata bangunan candi dan Gambar 6.3 pula menunjukkan sekam padi yang masih kelihatan pada pecahan bata.
+Kualiti yang berbeza dapat dilihat pada bata tersebut.
+Kehadiran anortit dan hematit menunjukkan bata telah dibakar pada suhu melebihi 850oC.
+Suhu yang tinggi ini menjadikan bata yang dibakar tidak rapuh dan kurang berongga.
+Gambar 6.2 Kesan surihan sekam padi pada bata Gambar 6.3 Sekam padi yang masih terdapat pada bata candi di Batujaya 6.3 Daripada pemerhatian pengkaji terhadap industri pembuatan bata secara kecilan di kawasan Batujaya, ianya masih dilakukan secara tradisional.
+Penduduk sekitar kawasan Batujaya yang membuat bata masih melakukan aktiviti pembuatan bata secara tradisional iaitu dengan membancuh dengan menggunakan tangan, pengeringan di bawah pancaran matahari dan membakar dalam keadaan pembakaran terbuka.
+Dalam kaedah pembuatan bata tradisional ini, tanah liat dibancuh dengan menggunakan air mengikut sukatan yang tersendiri.
+Di samping campuran air, ditambah pula pada bancuhan tersebut dengan sekam padi.
+Campuran bancuhan dengan sekam padi hanya boleh dijumpai di kawasan Batujaya.
+Sekam padi ditambah mengikut sukatan tersendiri pembancuh.
+Selepas dibancuh barulah bancuhan tadi dimasukkan ke dalam acuan yang telah tersedia, kemudian dikeringkan di bawah sinaran matahari sebelum dibakar dalam kebuk Daripada pemerhatian pengkaji terhadap industri pembuatan bata secara kecil pembakaran.
+Gambar 6.4 hingga 6.10 menunjukkan proses dalam pembuatan bata masyarakat tempatan pada masa kini.
+Gambar 6.4 Bancuhan tanah liat, air dan sekam padi secara manual Gambar 6.5 Bancuhan adunan tanah liat dan sekam padi yang telah siap Gambar 6.6 Bata yang telah dikeluarkan daripada acuan.
+Gambar 6.7 Pengeringan bata di bawah pancaran matahari.
+Gambar 6.8 Susunan bata setelah dibakar.
+Gambar 6.9 Sekam padi yang digunakan dalam pembakaran dan bancuhan.
+Gambar 6.10 Susunan bata sebelum dibakar Apa yang boleh dilihat di sini merupakan kesinambungan kaedah pembuatan bata daripada zaman perkembangan kerajaan Taruma sehingga kini.
+Ini dapat dibuktikan dengan melihat bata yang dijumpai semasa kerja gali cari arkeologi sekitar Kompleks Percandian Batujaya.
+Bata yang dijumpai mempunyai sekam padi sama seperti yang dibuat pada masa kini.
+Penggunaan sekam padi dalam bancuhan tanah liat untuk membuat pada hanya boleh dilihat di kawasan Batujaya.
+Masyarakat tempatan Batujaya menggunakan sekam padi yang merupakan bahan paling banyak dihasilkan di kawasan ini kerana kawasan Batujaya merupakan antara kawasan pengeluar beras di sekitar Jawa Barat.
+Kegiatan pembuatan batu bata dapat dilihat pada beberapa buah rumah masyarakat tempatan dalam beberapa buah kampung di sekitar kawasan Batujaya.
+Pembuatan bata secara industri kecil dan sederhana dapat menampung permintaan yang sederhana masyarakat setempat.
+Bata yang dihasilkan di daerah Batujaya ini didapati dicampur dengan sekam padi pada bancuhan tanah liatnya.
+Selain bata yang dibuat pada masa kini, bata yang dijumpai sewaktu kerja gali cari arkeologi terhadap beberapa buah candi yang terletak dalam Kompleks Percandian Batujaya juga mempunyai kesan sekam padi.
+Terdapat juga pecahan bata yang masih boleh dilihat sekam padinya.
+Oleh yang demikian, dapatlah dibuat satu rumusan bahawa kaedah pembuatan bata di kawasan Batujaya ini diambil daripada masyarakat awal yang menetap di Batujaya.
+Kelestarian kaedah pembuatan ini menunjukkan masyarakat awal yang menetap di Batujaya merupakan antara masyarakat pembangun bangunan candi di Kompleks Percandian Batujaya dengan masih mengekalkan kaedah pembuatan yang sama dengan batu bata yang telah digunakan untuk membina candi di Kompleks Percandian Batujaya.
+Teori Akulturasi Budaya India dan Transformasi ilmu masyarakat di Batujaya, Jawa Barat sangat perlu ditonjolkan dengan menggunakan sumber bertulis, sumber arkeologi dan juga kajian secara saintifik.
+Kajian secara saintifik dapat membantu ahli arkeologi untuk mempertahankan hujahnya berkaitan sesebuah tapak atau jumpaan artifak.
+Terdapat beberapa pandangan sarjana terdahulu tentang masyarakat yang membangunkan sesebuah kawasan seperti Teori Pedagang, Teori Kolonisasi dan juga Teori Pemperibumian Budaya India.
+Oleh yang demikian, dapatan kajian secara saintifik dapat dijadikan hujah berkenaan teori manakah yang lebih terpakai bagi kawasan Kompleks Percandian Batujaya, Jawa Barat, Indonesia.
+Kajian secara analisis saintifik terhadap bata candi di Kompleks Percandian Batujaya perlu dilakukan supaya dapat mengukuhkan lagi data arkeologi sedia ada.
+Sebelum ini, penelitian hanya diberikan kepada sifat fizikal artifak seperti bentuk hiasan, motif, corak dan bentuk artifak.
+Analisis kandungan kimia yang pernah dilakukan oleh penyelidik lalu juga tidak menyeluruh kerana jumlah sampel yang sedikit.
+Ia tidak dapat menggambarkan keseluruhan sampel yang berada pada setiap tapak.
+Sampel diambil pada 6 tapak candi dengan setiap satu tapak diambil 15 sampel bata.
+Ini dianggap sudah memadai untuk mendapatkan hasil yang lebih tepat dan jitu.
+Analisis secara fizikal bata mendapati kebanyakan bata telah dibakar secara lengkap.
+Ini adalah kerana walaupun pembakaran bata dilakukan secara terbuka namun ia telah dibakar pada suhu yang tinggi.
+Selain itu, jika dilihat secara mata kasar juga terdapat kesan surihan sekam padi pada permukaan bata yang lengkap dan dapat dilihat juga kesan sekam padi yang masih elok pada beberapa pecahan bata.
+Ini menunjukkan terdapatnya kearifan tempatan dalam teknologi pembuatan bata di Batujaya kerana penambahan sekam padi pada bancuhan tanah liat untuk membuat bata hanya boleh dilihat di kawasan Batujaya sahaja.
+Penggunaan sekam ini boleh meningkatkan suhu pembakaran yang menyebabkan pembakaran bata akan menjadi lebih lengkap.
+Penggunaan sekam padi pada bancuhan tanah liat untuk membuat bata masih boleh dilihat pada industri secara kecil-kecilan masyarakat di Batujaya sehingga kini.
+Kandungan mineral yang terdapat dalam bata di 6 tapak candi yang terpilih telah menunjukkan adanya mineral seperti quartza, andesin, albit, labradorit, anortit, gismondin, kristobalit, anortoklas, baitownit, berlinit, mullit, opal, silimanite, andradite, spinel, tremolite rheonite, clinopyroxene, fayalite, derbylite, diopside, pyroxene, tealite, arsenopyrite, cordierite dan juga hematit.
+Kebanyakan mineral yang ditemui merupakan mineral sekunder, hasil daripada mineral yang telah mengalami pengkalsinan atau pembakaran pada suhu dan keadaan tertentu.
+Anortit merupakan mineral yang terbentuk menjadi fasa kalsium silikat yang baru apabila illite dan kalsit bertindak balas dengan suhu yang tinggi melebihi 850oC selepas terbentuknya gehlenit pada suhu pembakaran 800oC.
+Hematit pula terbentuk pada suhu 850oC apabila pembentukan oksida besi melalui penghabluran semula daripada Fe yang dibebaskan semasa penguraian filosilikat.
+Daripada maklumat mineral yang diketahui dapatlah dibuat satu kesimpulan bahawa masyarakat pembangun bangunan candi di Batujaya telah mempunyai pengetahuan yang tinggi tentang teknologi dan kaedah kawalan api.
+Ini tidak menghairankan kerana pada zaman prasejarah, kawasan sekitar Kompleks Percandian Batujaya telah mempunyai kemahiran tinggi dalam pembakaran tembikar tanah, dikenali sebagai kebudayaan Buni yang mempunyai kualiti tembikar tanah yang tinggi sehingga dapat menandingi tembikar daripada luar.
+Hasil analisis perbandingan antara kepelbagaian geokimia yang terdapat dalam sampel bata dengan kandungan geokimia sampel lempung yang terdapat di kawasan sekitar Kompleks Percandian mendapati terdapat persamaan dalam kedua kandungan geokimianya.
+Ini membuktikan bahawa lempung yang berada di sekitar kompleks percandian digunakan sebagai bahan mentah untuk membuat batu bata candi.
+Ini juga membuktikan masyarakat setempat telah mengetahui tanah manakah yang sesuai untuk dijadikan bahan adunan untuk membuat batu bata.
+Ini tidak menghairankan kerana masyarakat prasejarah yang mendiami kawasan sekitar Batujaya telah mempunyai kemahiran dan pengetahuan untuk memilih tanah untuk membuat tembikar tanah.
+Masyarakat yang dikenali sebagai Buni telah berjaya membuat tembikar tanah yang mempunyai kualiti yang tinggi, setanding dengan tembikar tanah dari luar.
+Kepakaran dalam pemilihan tanah untuk membuat tembikar sangat penting supaya tembikar tidak mudah rosak sewaktu membuat dan juga membakarnya.
+Jika pemilihan tanah untuk membuat tembikar tanah telah dikuasai, maka dengan mudah pemilihan tanah untuk membuat batu bata telah dikuasai oleh masyarakat pembangun candi.
+Hasil perbandingan ini juga membuktikan sumbangan masyarakat tempatan terhadap pembangunan kawasan percandian Batujaya kerana hanya masyarakat setempat sahaja mengetahui sumber untuk mendapatkan bahan mentah dengan kuantiti yang banyak untuk membina bangunan candi dan juga keseluruhannya dibina dengan menggunakan bata.
+Hujah ini dapat mengesahkan pembudayaan Budaya India dan juga Perpindahan Ilmu India kepada masyarakat tempatan.
+Oleh yang demikian, di daerah Batujaya, proses akulturasi budaya India dan transformasi ilmu masyarakat di Batujaya telah berlaku.
+Ini mengukuhkan hujah dalam Teori Pemperibumian Budaya India masyarakat setempat di Batujaya dan menolak penggunaan Teori Kolonisasi masyarakat daripada India terhadap masyarakat di Batujaya.
+Terdapat beberapa buah perusahaan membuat bata secara tradisional masih boleh dilihat di sekitar kawasan percandian Batujaya.
+Setelah ditemu bual, mereka menyatakan bahawa kemahiran membuat bata telah diturunkan daripada nenek moyang mereka dahulu.
+Oleh yang demikian, dapatlah diketahui bahawa teknik yang mereka pelajari merupakan suatu teknik turun temurun.
+Di samping itu, jika dilihat kepada teknik pembuatan bata masyarakat setempat, mereka masih mencampur sekam padi semasa membancuh adunan tanah liat.
+Campuran sekam padi ini secara umumnya digunakan sebagai bahan tambah untuk meningkatkan lagi suhu pembakaran yang menyebabkan bata akan dibakar dengan lebih lengkap walaupun dibakar dalam keadaan terbuka.
+Kelangsungan teknik tersebut dapat dilihat apabila semua bata yang didapati daripada bangunan candi juga terdapat campuran sekam padi.
+Ini membuktikan bahawa masyarakat pembina candi di Kompleks Percandian Batujaya turut mempunyai kemahiran dan pengetahuan dalam teknologi pembuatan bata dengan baik.
+Penambahan sekam padi juga menunjukkan kemahiran tersendiri masyarakat pembina candi seterusnya mengekalkan teknologi tersebut sehingga kini.
+Melihat kepada penggunaan sekam padi dan pernyataan mereka berkenaan pembelajaran teknik membuat bata diperturunkan daripada nenek moyang mereka, jelaslah bahawa masyarakat tempatan yang telah membangunkan bangunan candi di Kompleks Percandian Batujaya sewaktu kegemilangan kerajaan Taruma.
+Hujah ini dapat membuktikan bahawa masyarakat tempatan telah pandai mengawal api, sudah mahir memilih tanah liat untuk dijadikan adunan tanah liat dan yang paling penting telah pandai dalam bidang seni bina untuk mendirikan rumah ibadat mereka pada ketika itu.
+Jelaslah di sini terdapatnya akulturasi masyarakat tempatan dengan budaya yang dibawa daripada India dan terdapatnya transformasi ilmu masyarakat di Batujaya dari India dengan penambahan sekam padi dalam teknologi pembuatan bata tersebut.
+Oleh yang demikian jelaslah kearifan masyarakat tempatan dalam membina bangunan candi yang terdapat di Batujaya.
+Pembina bangunan candi bukanlah pedagang dari India ataupun dibina oleh pemerintah yang datang dari India seperti yang dinyatakan dalam Teori Kolonisasi.
+Jelaslah terdapatnya pemeribumian ilmu masyarakat tempatan terhadap pengetahuan yang datang daripada luar seperti India dalam teknologi pembinaan candi seperti yang terdapat dalam kitab Silpa sastras.
+Hujah ini mengukuhkan Teori Pemeribumian Masyarakat setempat yang telah diperkenalkan oleh Nik Hassan Shuhaimi di kawasan Batujaya.
+Boleh dibuat kesimpulan bahawa masyarakat setempat merupakan masyarakat yang bertanggungjawab dalam pembinaan bangunan candi di Kompleks Percandian Batujaya.
+Hasil daripada analisis perbandingan antara kepelbagaian geokimia sampel bata dan lempung yang terdapat di sekitar kompleks percandian, dapat dibuat satu kesimpulan bahawa bahan mentah utama untuk membuat bata telah diambil di sekitar kawasan percandian.
+Di samping itu, daripada kandungan mineral menunjukkan bata telah dibakar dengan suhu yang tinggi.
+Kelestarian pembuatan bata oleh masyarakat setempat kini membuktikan bahawa masyarakat tempatan bertanggungjawab dalam pembangunan candi di Batujaya.
+Selain daripada ilmu pembuatan secara turun temurun, penggunaan sekam padi juga adalah bukti bahawa masyarakat tempatan adalah masyarakat yang membangunkan Kompleks Percandian Batujaya.
+Hujah ini mengukuhkan Teori Pemeribumian Masyarakat setempat yang telah diperkenalkan oleh Nik Hassan Shuhaimi di kawasan Batujaya dan menolak Teori Kolonisasi yang diutarakan oleh Quaritch Wales yang menyatakan orang India yang datang untuk memakmurkan kawasan sekitar. tempatan adalah masyarakat yang membangunkan Kompleks Percandian Batujaya.
